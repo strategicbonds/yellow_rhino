@@ -200,9 +200,6 @@ def get_cars_pipeline(link):
         log_event(f"Error details: {str(e)}")
         return None
 
-import time
-from random import randint
-
 def process_links(links):
     num_records = 25
     for link in links:
