@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Badass cars for baller prices
+        baddass cars for baller prices
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="Badass cars for baller prices"
         >
-          Test
+          Yellow Rhino
         </a>
       </header>
     </div>
