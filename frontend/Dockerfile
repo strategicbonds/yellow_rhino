@@ -20,8 +20,18 @@ FROM nginx:stable-alpine as production-stage
 # Copy the build output to replace the default nginx contents
 COPY --from=build-stage /app/build /usr/share/nginx/html
 
-# Expose port 80 to the outside once the container has launched
-EXPOSE 80
+# Remove the default Nginx configuration file
+RUN rm /etc/nginx/conf.d/default.conf
 
-# Use the "daemon off;" option to ensure that Nginx stays in the foreground so Docker can track the process properly
+# Add a new configuration file and entrypoint script
+COPY ./nginx/default.conf.template /etc/nginx/conf.d/default.conf.template
+COPY ./nginx/docker-entrypoint.sh /usr/local/bin/docker-entrypoint.sh
+
+# Make the entrypoint script executable
+RUN chmod +x /usr/local/bin/docker-entrypoint.sh
+
+# Set the entrypoint script to be executed
+ENTRYPOINT ["/usr/local/bin/docker-entrypoint.sh"]
+
+# Start Nginx in the foreground
 CMD ["nginx", "-g", "daemon off;"]
