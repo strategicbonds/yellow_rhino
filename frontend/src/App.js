@@ -1,4 +1,4 @@
-import logo from './car.jpg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://frontend-yellow-rhino-d42f892b13c8.herokuapp.com/"
           target="_blank"
           rel="Badass cars for baller prices"
         >
