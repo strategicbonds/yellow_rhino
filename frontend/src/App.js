@@ -1,26 +1,24 @@
 import React from 'react';
-import logo from './logo.png';
 import './App.css';
-import Header from './Components/HeaderOne'; // Adjust the path if necessary
+import Header from './Components/Header'; // Adjusted path
+import Sidebar from './Components/SideBar'; // Import Sidebar
+import Body from './Components/Body'; // Import Body
+import { Container, Row, Col } from 'react-bootstrap';
 
 function App() {
   return (
     <div className="App">
-      <div className="App-header">
       <Header />
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          a data driven car buying experience
-        </p>
-        <a
-          className="App-link"
-          href="https://frontend-yellow-rhino-d42f892b13c8.herokuapp.com/"
-          target="_blank"
-          rel="noopener noreferrer" // Fix the rel attribute
-        >
-          Yellow Rhino
-        </a>
-      </div>
+      <Container fluid>
+        <Row>
+          <Col xs={2} id="sidebar-wrapper">      
+            <Sidebar />
+          </Col>
+          <Col xs={10} id="page-content-wrapper">
+            <Body />
+          </Col>
+        </Row>
+      </Container>
     </div>
   );
 }
