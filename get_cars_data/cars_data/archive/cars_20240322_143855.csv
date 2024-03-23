@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+703273512,JN1AR54F69M252592,57000,Nissan,GT-R,2009,76533.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+707930137,JN1AR54F59M250185,63500,Nissan,GT-R,2009,44000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+704435013,JN1AR5EFXFM280843,67500,Nissan,GT-R,2015,53000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Black Edition
+699858373,JN1AR5EF2AM230219,70000,Nissan,GT-R,2010,25000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,6-Speed Automatic,Premium
+710237525,JN1AR5EF4DM260990,71991,Nissan,GT-R,2013,66535.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+709179880,JN1AR5EF9CM250454,75893,Nissan,GT-R,2012,35735.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+710290768,JN1AR5EF8CM251188,76000,Nissan,GT-R,2012,29800.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+709152261,JN1AR5EF9DM261164,77201,Nissan,GT-R,2013,52054.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+661208476,JN1AR5EF3DM261239,77500,Nissan,GT-R,2013,55702.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+710236401,JN1AR5EF4FM280675,80000,Nissan,GT-R,2015,60000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Black Edition
+709957790,JN1AR5EF0GM290444,84900,Nissan,GT-R,2016,38629.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,6-Speed Automatic,Black Edition
+689711083,JN1AR5EF1DM261451,85000,Nissan,GT-R,2013,33000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Black Edition
+691252582,JN1AR5EF6FM280595,90000,Nissan,GT-R,2015,44500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+699639991,JN1AR5EF1CM250304,90000,Nissan,GT-R,2012,43558.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Premium
+692473969,JN1AR5EF9JM710399,98000,Nissan,GT-R,2018,51500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+709896160,JN1AR5EF8KM750183,98000,Nissan,GT-R,2019,8800.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+695918754,JN1AR54F79M251287,98995,Nissan,GT-R,2009,39428.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+685121890,JN1AR5EFXDM260976,102499,Nissan,GT-R,2013,47000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Black Edition
+709072787,JN1AR5EF9CM251300,104000,Nissan,GT-R,2012,51300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+695351569,JN1AR5EF7KM750160,105000,Nissan,GT-R,2019,40200.0,Gasoline,[{'name': 'Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+704313015,JN1AR5EF3LM100310,114991,Nissan,GT-R,2020,28005.0,Gasoline,[{'name': 'Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+709955563,JN1AR5BF8MM160220,117301,Nissan,GT-R,2021,25197.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,6-Speed Automatic,Premium
+700646004,JN1AR5EF4EM271022,125000,Nissan,GT-R,2014,48000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,6-Speed Automatic,Premium
+704085883,JN1AR5EF9LM100375,136500,Nissan,GT-R,2020,13039.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+710095207,JN1AR5BF3RM220217,148000,Nissan,GT-R,2024,3500.0,Gasoline,"[{'name': 'Premium Interior Package'}, {'name': 'Floor Mat Package'}]",All Wheel Drive,6-Cylinder Turbo,White,Red,6-Speed Automatic,Premium

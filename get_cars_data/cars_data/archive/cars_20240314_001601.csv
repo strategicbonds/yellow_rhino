@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709031030,ZAM57XSA0K1314014,28997,Maserati,Ghibli,2019,33034.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Tan,8-Speed Automatic,Not available
+683322161,ZAM45KMA4B0057690,29000,Maserati,GranTurismo,2011,82500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Blue,Black,6-Speed Automatic,Convertible
+694393744,ZAM45KMA4B0054255,29000,Maserati,GranTurismo,2011,28023.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Blue,6-Speed Automatic,Convertible
+691634194,ZAMGJ45A090043458,29000,Maserati,GranTurismo,2009,65000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Silver,Red,6-Speed Automatic,Coupe
+684870582,ZAM57RTA5G1183678,29250,Maserati,Ghibli,2016,38295.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,S Q4
+705011843,ZN661XUA2JX294320,29490,Maserati,Levante,2018,48495.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+708324215,ZN661XUS8HX260496,29500,Maserati,Levante,2017,29300.0,Gasoline,[{'name': 'Sport Package'}],All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,w/ Sport Package
+708941222,ZAM57YTA0L1345236,29900,Maserati,Ghibli,2020,50013.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Beige,8-Speed Automatic,S Q4
+694034119,ZAM57XSAXG1167045,29990,Maserati,Ghibli,2016,37116.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Brown,Black,8-Speed Automatic,Not available
+701649911,ZN661XUAXHX264718,29999,Maserati,Levante,2017,43500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+705934200,ZAM45KMA4A0053315,29999,Maserati,GranTurismo,2010,41416.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Brown,6-Speed Automatic,Convertible
+689800613,ZAM45VLA4D0075046,30000,Maserati,GranTurismo,2013,50200.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Beige,6-Speed Automatic,Sport
+701706682,ZAM45KMA3A0053306,30000,Maserati,GranTurismo,2010,49000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Tan,6-Speed Automatic,Convertible
+693637211,ZAM56PPA2E1072875,30000,Maserati,Quattroporte,2014,43000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Beige,8-Speed Automatic,GTS
+696576734,ZAM57YTAXJ1287309,30000,Maserati,Ghibli,2018,66000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,S Q4
+697544005,ZN661XUA8HX238618,30492,Maserati,Levante,2017,52027.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+706822380,ZN661XUL3HX210825,30500,Maserati,Levante,2017,87000.0,Gasoline,[{'name': 'Luxury Package'}],All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,w/ Luxury Package
+699107576,ZN661XUL0HX253793,30500,Maserati,Levante,2017,46095.0,Gasoline,[{'name': 'Luxury Package'}],All Wheel Drive,6-Cylinder Turbo,White,White,8-Speed Automatic,w/ Luxury Package
+709015469,ZAM57XSA5K1328295,30789,Maserati,Ghibli,2019,34500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Red,8-Speed Automatic,Not available
+709152737,ZAM45VLA7F0142600,30990,Maserati,GranTurismo,2015,61121.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Black,6-Speed Automatic,Coupe
+709146033,ZAM57YTL2J1265645,31495,Maserati,Ghibli,2018,43002.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,S GranLusso Q4
+691631302,ZAM57YSAXJ1277106,31500,Maserati,Ghibli,2018,26000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S
+699944092,ZN661YUA6JX301310,31900,Maserati,Levante,2018,65400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S
+703213415,ZAM56YPL2J1293233,31991,Maserati,Quattroporte,2018,52316.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Tan,8-Speed Automatic,S GranLusso
+705567444,ZAM57XSA2J1286389,31999,Maserati,Ghibli,2018,13429.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Tan,8-Speed Automatic,Not available

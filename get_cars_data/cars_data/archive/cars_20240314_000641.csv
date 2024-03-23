@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709181973,5UXKR6C52H0J84652,19350,BMW,X5,2017,118225.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,White,Tan,8-Speed Automatic,xDrive50i
+709195362,WBA5B3C5XGG258999,19500,BMW,535i xDrive,2016,93000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Sedan
+709184504,WBA3A5G59ENP28075,19999,BMW,328i,2014,30882.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Beige,Not available,Sedan
+708943406,WBA2K9C57HV646792,19999,BMW,230i,2017,56300.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Unavail,8-Speed Automatic,Convertible
+709399372,5UXTR9C59JLC77813,20000,BMW,X3,2018,89000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,White,8-Speed Automatic,xDrive30i
+709344021,WBALM73519E351448,20400,BMW,Z4,2009,47500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,Not available,sDrive35i
+709278939,WBA4F7C31HG788852,20750,BMW,430i Gran Coupe,2017,55204.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Red,8-Speed Automatic,Not available
+709164652,WBAJE7C5XJG892110,21000,BMW,540i xDrive,2018,92426.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Not available
+709288914,WBSBR93435PK09063,21000,BMW,M3,2005,62000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Brown,Not available,Convertible
+708869999,5UXXW5C59F0E87307,21000,BMW,X4,2015,117000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,xDrive35i
+709227613,WBAYE8C58FD782024,21420,BMW,750Li,2015,73000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+708825206,WBADX1C53CE825500,21800,BMW,335is,2012,67959.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Beige,Not available,Convertible
+708990300,WBA8B9C50JK676749,21900,BMW,330i,2018,36900.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,Not available,Sedan
+709191652,WBAYM9C50ED248104,22000,BMW,650i,2014,90000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Coupe
+708988924,WBAKB8C58CC448138,22500,BMW,ALPINA B7,2012,135500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Black,6-Speed Automatic,LWB
+709240168,WBALM5C59BE377905,22900,BMW,Z4,2011,42000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gold,Beige,6-Speed Automatic,sDrive30i
+709246741,WBA4E3C5XHG187162,23000,BMW,440i Gran Coupe,2017,65160.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Beige,8-Speed Automatic,Not available
+709498666,WBA8B3G50GNT91936,23250,BMW,340i,2016,78000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Brown,8-Speed Automatic,Sedan
+709152045,WBA8Z9C52JB220537,23500,BMW,330i Gran Turismo xDrive,2018,50310.0,Gasoline,"[{'name': 'Executive Package'}, {'name': 'Premium Package'}, {'name': 'Convenience Package'}, {'name': 'Driving Assistance Package'}]",All Wheel Drive,4-Cylinder Turbo,Black,Brown,8-Speed Automatic,Not available
+708986423,WBA4E3C37HG187408,23500,BMW,440i Gran Coupe,2017,70090.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+708834625,WBALM7C55CE385111,23900,BMW,Z4,2012,53933.0,Gasoline,[{'name': 'M Sport Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,White,Red,Not available,sDrive35i
+709388305,WBA4T9C35H5A15269,24000,BMW,440i,2017,48200.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Charcoal,Beige,8-Speed Automatic,Convertible
+709280232,WBSBR93433PK02840,24000,BMW,M3,2003,100750.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Convertible
+709198093,WBSBL93464JR24986,24200,BMW,M3,2004,93000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Gray,Not available,Coupe
+709246194,WBSDE93401BZ99675,24500,BMW,M5,2001,145228.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Manual,Not available

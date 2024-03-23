@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709276043,ZAM57RTA3E1122133,18950,Maserati,Ghibli,2014,61200.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Beige,8-Speed Automatic,S Q4
+709157032,ZAM57XSA7G1169982,23999,Maserati,Ghibli,2016,54533.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Orange,8-Speed Automatic,Not available
+709207396,ZAM57YTA3J1293033,31000,Maserati,Ghibli,2018,17000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,S Q4
+709279162,ZAM39KKA6A0051911,35000,Maserati,Quattroporte,2010,70500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,Sport GT S
+709293217,ZAM56YPLXJ1282951,38734,Maserati,Quattroporte,2018,39115.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Beige,8-Speed Automatic,S GranLusso
+709281425,ZAM45KMA7A0052613,39900,Maserati,GranTurismo,2010,12000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Tan,6-Speed Automatic,Convertible
+709489161,ZAM56PPL5H1242149,41222,Maserati,Quattroporte,2017,41922.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Tan,8-Speed Automatic,GTS GranLusso
+709386974,ZAM56YPS6K1323035,42500,Maserati,Quattroporte,2019,54874.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Red,8-Speed Automatic,S GranSport
+709083023,ZAM45VMA9E0087080,59750,Maserati,GranTurismo,2014,21120.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Burgundy,Unavail,6-Speed Automatic,Sport
+698947894,ZAM45VMA5J0310287,67900,Maserati,GranTurismo,2018,20400.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Black,6-Speed Automatic,MC
+704452951,ZN661ZUA9KX323132,68000,Maserati,Levante,2019,27138.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+706634156,ZN661ZUA4KX323135,71800,Maserati,Levante,2019,55437.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+700122155,ZN661YUM9NX391665,72999,Maserati,Levante,2022,19118.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Modena
+709534857,ZAM57ZSA3M1369927,74120,Maserati,Ghibli,2021,16600.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Black,8-Speed Automatic,Trofeo
+709374319,ZN661YUS2PX423874,74822,Maserati,Levante,2023,12935.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Tan,8-Speed Shiftable Automatic,F Tributo
+689382285,ZAM56YRL2M1357630,75000,Maserati,Quattroporte,2021,8893.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S GranLusso Q4
+705792758,ZAM45VMA2J0310294,75000,Maserati,GranTurismo,2018,25150.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,White,6-Speed Automatic,MC
+691581814,ZAM45VLA1J0261963,76200,Maserati,GranTurismo,2018,8892.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Brown,6-Speed Automatic,Sport
+709159108,ZN661YUM2PX435444,76950,Maserati,Levante,2023,5015.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Modena
+708572263,ZN682AVM9P7422797,79000,Maserati,Grecale,2023,9100.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Charcoal,Black,8-Speed Automatic,Modena
+707314073,ZAM56YPA8M1371968,80000,Maserati,Quattroporte,2021,13875.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,S
+709347612,ZN682CVT4P7406932,94950,Maserati,Grecale,2023,4550.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Yellow,Black,8-Speed Automatic,Trofeo
+709126206,ZN661XUM8RX446865,95195,Maserati,Levante,2024,19.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,GT Ultima
+693674974,ZAM45VMA2J0288541,99995,Maserati,GranTurismo,2018,1700.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Tan,6-Speed Automatic,MC
+709277570,ZAMBMSAB9P0444573,279900,Maserati,MC20,2023,187.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Not available,8-Speed Automatic,Spyder

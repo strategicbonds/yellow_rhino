@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+670965609,ZN661XUA8PX419829,89306,Maserati,Levante,2023,24.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,8-Speed Automatic,GT
+696751802,ZN661XUM2RX445212,89975,Maserati,Levante,2024,29.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,GT Ultima
+663378840,ZAM57YTMXPX417248,91995,Maserati,Ghibli,2023,12.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Modena Q4
+663378835,ZAM57YTM9PX414017,94695,Maserati,Ghibli,2023,28.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Unavail,8-Speed Automatic,Modena Q4
+701949410,ZN661YUM2PX411676,97073,Maserati,Levante,2023,12637.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Not available,8-Speed Automatic,Modena
+699805141,ZN682CVT7P7438273,97697,Maserati,Grecale,2023,36.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Trofeo
+698536423,ZN682CVT1P7438379,97999,Maserati,Grecale,2023,15.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Red,8-Speed Automatic,Trofeo
+677944269,ZN661YUMXPX413837,98995,Maserati,Levante,2023,19.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Green,Black,8-Speed Automatic,Modena
+690174284,ZAM56XPA0PX431320,99998,Maserati,Quattroporte,2023,57.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Green,Tan,8-Speed Automatic,GT
+697541770,ZN682CVT0P7433769,99999,Maserati,Grecale,2023,26.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Red,8-Speed Automatic,Trofeo
+698506778,ZAM57YTM8RX445228,104487,Maserati,Ghibli,2024,27.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Not available,8-Speed Automatic,Modena Ultima Q4
+699434812,ZAM57YTM5RX446871,105583,Maserati,Ghibli,2024,3.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Not available,8-Speed Automatic,Modena Ultima Q4
+693752000,ZAM57YTM5PX431316,106415,Maserati,Ghibli,2023,0.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Not available,8-Speed Automatic,Modena Q4
+701342656,ZAM57YTM6RX445230,106788,Maserati,Ghibli,2024,15.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Modena Ultima Q4
+698652052,ZAM57YTM6RX445227,106971,Maserati,Ghibli,2024,14.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Not available,8-Speed Automatic,Modena Ultima Q4
+701823153,ZN682CVT9P7433768,108548,Maserati,Grecale,2023,25.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Trofeo
+699709537,ZAM57YTMXRX445229,108572,Maserati,Ghibli,2024,16.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,8-Speed Automatic,Modena Ultima Q4
+697264631,ZN661YUM0RX445232,110478,Maserati,Levante,2024,15.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Modena Ultima
+696409752,ZN661YUM4RX445234,110913,Maserati,Levante,2024,18.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Not available,8-Speed Automatic,Modena Ultima
+697264641,ZN661YUM2RX445233,112522,Maserati,Levante,2024,43.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Unavail,8-Speed Automatic,Modena Ultima
+703509202,ZN6PMDDC1R7448037,112560,Maserati,Grecale,2024,12.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Not available,8-Speed Automatic,Trofeo
+701668287,ZN6PMDDC5R7448025,113160,Maserati,Grecale,2024,100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,8-Speed Automatic,Trofeo
+685714062,ZAM57YTM8PX417250,114115,Maserati,Ghibli,2023,24.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Unavail,8-Speed Automatic,Modena Q4
+703509201,ZN661YUM2RX450965,118270,Maserati,Levante,2024,12.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Modena Ultima
+658308204,ZAM56YRM0NX389404,125361,Maserati,Quattroporte,2022,12.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Modena Q4

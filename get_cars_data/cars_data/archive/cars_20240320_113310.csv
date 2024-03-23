@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709392376,JF1VA2L63F9813339,17950,Subaru,WRX,2015,131015.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+705191539,JF1VA2L60F9834410,20997,Subaru,WRX,2015,100195.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,6-Speed Manual,STI
+705145201,JF1VA2L67F9810394,20999,Subaru,WRX,2015,93000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Not available,Not available,6-Speed Manual,STI
+707979736,JF1VA2M61G9826588,21950,Subaru,WRX,2016,91783.0,Gasoline,[{'name': 'Popular Package #2'}],All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+690979689,JF1VA2M67G9804515,22950,Subaru,WRX,2016,76007.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+710033417,JF1VA2M64H9814405,23495,Subaru,WRX,2017,81838.0,Gasoline,[{'name': 'STI Short Throw Shifter Package'}],All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+701682612,JF1VA2M6XG9821485,23999,Subaru,WRX,2016,53560.0,Gasoline,[{'name': 'Popular Package #2'}],All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+705934833,JF1VA2M62G9824610,24997,Subaru,WRX,2016,62190.0,Gasoline,[{'name': 'Popular Package #2'}],All Wheel Drive,4-Cylinder Turbo,Black,Black,6-Speed Manual,STI
+707678924,JF1VA2M62H9803466,25995,Subaru,WRX,2017,77321.0,Gasoline,[{'name': 'Popular Package #1'}],All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+702863220,JF1VA2M63J9817608,26995,Subaru,WRX,2018,76315.0,Gasoline,[{'name': 'STI Short Throw Shifter Package'}],All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+709289646,JF1VA2R69K9816537,28650,Subaru,WRX,2019,58836.0,Gasoline,[{'name': 'Popular Package #1'}],All Wheel Drive,4-Cylinder Turbo,Not available,Not available,6-Speed Manual,STI
+709656664,JF1VA2R67K9805374,30999,Subaru,WRX,2019,39427.0,Gasoline,[{'name': 'Popular Package #1'}],All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+694399144,JF1VA2M63H9822799,31998,Subaru,WRX,2017,32428.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+709878471,JF1VA2S67K9818622,31999,Subaru,WRX,2019,46933.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+701815796,JF1VA2E64L9813228,33495,Subaru,WRX,2020,59726.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+707213521,JF1VA2E60L9828230,33980,Subaru,WRX,2020,50250.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+708717903,JF1VA2E60L9809080,34500,Subaru,WRX,2020,36945.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+709302897,JF1VA2S67K9816580,34995,Subaru,WRX,2019,29861.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+709846619,JF1VA2E69L9819557,34998,Subaru,WRX,2020,39349.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+704427486,JF1VA2E61L9825773,35806,Subaru,WRX,2020,39999.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+705381723,JF1VA2E66L9818155,35995,Subaru,WRX,2020,28155.0,Gasoline,[{'name': 'Popular Package #3 (IZT)'}],All Wheel Drive,4-Cylinder Turbo,Silver,Not available,6-Speed Manual,STI
+710037078,JF1VA2E60M9801420,36900,Subaru,WRX,2021,33559.0,Gasoline,[{'name': 'Popular Package #3 (IZT)'}],All Wheel Drive,4-Cylinder Turbo,Gray,Black,6-Speed Manual,STI
+591894424,JF1VA2R68K9813418,37395,Subaru,WRX,2019,29758.0,Gasoline,[{'name': 'STI Short Throw Shifter Package'}],All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+708141949,JF1VA2R67K9804354,37988,Subaru,WRX,2019,31471.0,Gasoline,[{'name': 'Popular Package #1'}],All Wheel Drive,4-Cylinder Turbo,Black,Black,6-Speed Manual,STI
+709090589,JF1VA2E64M9806216,38995,Subaru,WRX,2021,20476.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI

@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+702240263,WP0AB2A99LS228739,132994,Porsche,911,2020,17873.0,Gasoline,"[{'name': 'Sport Package'}, {'name': 'Premium Package'}, {'name': 'Sportdesign Package'}, {'name': 'Sport Chrono Package'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Not available,8-Speed Automatic,Carrera S
+686998855,WP0AB2A95LS229497,133000,Porsche,911,2020,20453.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,Not available,Carrera S
+706723421,WP0AD2A94FS160333,133000,Porsche,911,2015,14000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Red,7-Speed Automatic,4 Coupe
+690436143,WP0AC2A84MS289132,133500,Porsche,718 Cayman,2021,11800.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Black,Not available,GT4
+709567142,WP0CB2A96LS264249,133900,Porsche,911,2020,32000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Gray,Not available,Carrera 4S
+709915561,WP0CA2A92NS236146,133992,Porsche,911,2022,8850.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Green,Brown,8-Speed Automatic,Carrera
+682642893,WP0CH2A77JL198783,134490,Porsche,Panamera,2018,29000.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Unavail,8-Speed Automatic,Turbo S Sport Turismo
+689143064,WP0AD2A90ES168007,134498,Porsche,911,2014,19900.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,7-Speed Automatic,Turbo S
+706084834,WP0AD2A99ES167924,134500,Porsche,911,2014,23000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,7-Speed Automatic,Turbo S
+683340667,WP0AC2A96FS183129,134900,Porsche,911,2015,11990.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Black,7-Speed Automatic,GT3
+704840803,WP0AC29904S692179,134950,Porsche,911,2004,24900.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Yellow,Black,6-Speed Manual,GT3
+709620248,WP0AD2A81RK269196,134990,Porsche,718 Cayman,2024,5654.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Not available,Not available,GTS
+706695372,WP0AA2A94PS205345,135000,Porsche,911,2023,1750.0,Gasoline,Not available,Not available,6-Cylinder Turbo,White,Black,Not available,Carrera
+702115133,WP0AB2A94MS221103,135000,Porsche,911,2021,7600.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Black,Not available,Carrera S
+704710443,WP1BF2AY6NDA58409,135000,Porsche,Cayenne,2022,13881.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Green,Black,8-Speed Automatic,Turbo
+672097627,WP0AC2A80LS289305,135000,Porsche,718 Cayman,2020,11000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Black,6-Speed Manual,GT4
+699726060,WP0BB2A97HS136895,135000,Porsche,911,2017,15125.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Red,Not available,Targa 4S
+689766080,WP0CA2999WS340512,135750,Porsche,911,1998,50091.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Silver,Red,6-Speed Manual,Carrera 4
+709286564,WP0AB2A9XJS123933,135900,Porsche,911,2018,12316.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Black,Black,Not available,Coupe
+688630124,WP0CB2A92LS263566,136000,Porsche,911,2020,14700.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,Not available,Carrera S
+676949737,WP0AD2A98JS156682,137000,Porsche,911,2018,25094.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Orange,Black,7-Speed Automatic,Turbo
+683020152,WP0CD2A90FS178725,137000,Porsche,911,2015,29000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,7-Speed Automatic,Turbo S
+700959995,WP0AA2A91NS205137,137500,Porsche,911,2022,14630.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Carrera
+708949845,WP0AA2A98MS206946,137895,Porsche,911,2021,3912.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Offwhite,8-Speed Automatic,Carrera
+704530597,WP0BB2A99HS136414,137900,Porsche,911,2017,12800.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Red,Not available,Targa 4S

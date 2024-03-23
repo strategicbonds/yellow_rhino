@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+704803258,WP1AA2AY9LDA04514,46900,Porsche,Cayenne,2020,44000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,8-Speed Automatic,Not available
+707960315,WP1AA2A51MLB17631,46900,Porsche,Macan,2021,30080.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,7-Speed Automatic,Not available
+706323961,WP1AA2AY5LDA06759,46980,Porsche,Cayenne,2020,49967.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Not available
+708766345,WP0AA2A88HS270935,46995,Porsche,718 Cayman,2017,34400.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,6-Speed Manual,Not available
+709379538,WP1AA2A56MLB04695,46999,Porsche,Macan,2021,29413.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,7-Speed Automatic,Not available
+690733048,WP0AF2A72EL083088,46999,Porsche,Panamera,2014,46416.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,White,Black,7-Speed Automatic,GTS
+693530795,WP0CA2A9XDS140487,47000,Porsche,911,2013,113500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Black,Not available,Carrera
+709247523,WP1AA2AY7KDA16420,47000,Porsche,Cayenne,2019,26893.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Offwhite,8-Speed Automatic,Not available
+708717192,WP0AA2A82FK160993,47000,Porsche,Cayman,2015,50575.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Brown,Beige,Not available,Not available
+704334549,WP1AA2AY2KDA07785,47000,Porsche,Cayenne,2019,32000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Beige,8-Speed Automatic,Not available
+709201882,WP1AA2A57MLB08254,47000,Porsche,Macan,2021,19425.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Brown,7-Speed Automatic,Not available
+701027596,WP0AF2A7XFL081056,47000,Porsche,Panamera,2015,43512.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Red,Beige,7-Speed Automatic,GTS
+709288066,WP0AF2A71EL083132,47000,Porsche,Panamera,2014,61072.0,Gasoline,[{'name': 'Premium Package'}],All Wheel Drive,8-Cylinder,Gray,Black,7-Speed Automatic,GTS
+692434019,WP0AA2A73HL103190,47100,Porsche,Panamera,2017,37200.0,Gasoline,Not available,Not available,6-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+686101781,WP0CB29936S768847,47499,Porsche,911,2006,64992.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Blue,Gray,Not available,Carrera 4S
+701274873,WP1AA2AY4KDA17847,47500,Porsche,Cayenne,2019,36538.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Gray,8-Speed Automatic,Not available
+706691166,WP1AG2A54JLB65697,47500,Porsche,Macan,2018,23000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Beige,7-Speed Automatic,GTS
+702711068,WP0CB29976S766891,47500,Porsche,911,2006,59500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Silver,Black,6-Speed Manual,Carrera 4S
+702959206,WP0CB29938S777082,47750,Porsche,911,2008,63000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Carrera S
+705299404,WP1AD2A26GLA81145,47888,Porsche,Cayenne,2016,48000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,GTS
+690210472,WP1AA2A56MLB05734,47899,Porsche,Macan,2021,44847.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,7-Speed Automatic,Not available
+706506451,WP1AA2A59MLB17022,47900,Porsche,Macan,2021,14900.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,7-Speed Automatic,Not available
+670694848,WP0AC2A74FL070384,47900,Porsche,Panamera,2015,67200.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Blue,Beige,7-Speed Automatic,Turbo
+707457886,WP0CA2A89HS221901,47991,Porsche,718 Boxster,2017,24459.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,Automatic,Not available
+706209032,WP0AB29995S740640,47999,Porsche,911,2005,56227.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Carrera S

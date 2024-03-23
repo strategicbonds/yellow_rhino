@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709093801,WBAUC7C55AVK96272,24500,BMW,135i,2010,31745.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,Not available,Coupe
+709386864,WBAEF6320SCC89869,24900,BMW,840Ci,1995,81620.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Silver,Gray,5-Speed Automatic,Not available
+709193801,WBSFV9C55ED593256,25000,BMW,M5,2014,112000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Blue,Black,7-Speed Automatic,Not available
+709348206,5UXKR0C56G0S87617,25890,BMW,X5,2016,62558.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Tan,8-Speed Automatic,xDrive35i
+709188644,WBA6D0C55GG432734,25900,BMW,640i Gran Coupe,2016,74373.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Brown,8-Speed Automatic,Not available
+709258845,WBALL5C55FP557492,27500,BMW,Z4,2015,45000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,Not available,sDrive28i
+709274657,WBSDE934X3CF93306,28000,BMW,M5,2003,122000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Blue,Black,6-Speed Manual,Not available
+709097415,5UXKS4C31H0U05357,28000,BMW,X5,2017,61000.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,xDrive35d
+708827734,WBADX1C51BE569436,28000,BMW,335is,2011,39350.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Brown,Not available,Convertible
+709087307,5UXTY5C07L9C35656,28450,BMW,X3,2020,58735.0,Gasoline,"[{'name': 'Convenience Package'}, {'name': 'Luxury Package'}, {'name': 'Parking Assistance Package'}, {'name': 'Driving Assistance Package'}]",All Wheel Drive,4-Cylinder Turbo,Blue,Beige,8-Speed Automatic,xDrive30i
+709478060,5UXKR2C55F0H35987,28500,BMW,X5,2015,70051.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,sDrive35i
+709324296,WBY8P2C05M7K04908,28500,BMW,i3,2021,43938.0,Electric,Not available,2 Wheel Drive - Rear,Electric,White,Tan,Single-Speed,Not available
+709254157,WBAJE5C52JWA95556,28500,BMW,540i,2018,54480.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Blue,8-Speed Automatic,Not available
+709238202,WBA6B4C50FD761497,28500,BMW,650i Gran Coupe xDrive,2015,31000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Red,Black,8-Speed Automatic,Not available
+708971870,WBSLZ9C57CC985536,28888,BMW,M6,2012,96000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Blue,Black,7-Speed Automatic,Convertible
+709346012,WBA2G1C37HV665537,29000,BMW,M240i,2017,83500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Red,Not available,Coupe
+709273615,WBAJE7C33HG887758,29500,BMW,540i xDrive,2017,47982.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Brown,8-Speed Automatic,Not available
+709243717,5UXKR6C52H0J84604,29775,BMW,X5,2017,66162.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Beige,Black,8-Speed Automatic,xDrive50i
+709194865,WBSLZ9C59EDZ78682,31500,BMW,M6,2014,60300.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Black,Not available,Convertible
+708969911,WBS6C9C5XEDV73624,32000,BMW,M6 Gran Coupe,2014,79000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Gray,Brown,Not available,Not available
+709026878,WBSVA93528E041445,32500,BMW,M3,2008,77278.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,Not available,Sedan
+709453134,WBAJE7C50KWW20074,33700,BMW,540i xDrive,2019,41000.0,Gasoline,[{'name': 'Convenience Package'}],All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,Not available
+709257701,5UXCR6C54KLK83838,33750,BMW,X5,2019,97000.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Executive Package'}, {'name': 'Luxury Seating Package'}, {'name': 'Premium Package 2'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,6-Cylinder Turbo,Gray,Brown,8-Speed Automatic,xDrive40i
+709237677,WBS3R9C53GK336456,34000,BMW,M4,2016,73000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Orange,Brown,Not available,Coupe
+708842868,5UMCL93402LJ82013,34000,BMW,M Roadster,2002,41000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Gray,5-Speed Manual,Not available

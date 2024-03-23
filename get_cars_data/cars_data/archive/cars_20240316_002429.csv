@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+702032949,ZARFAEDN1H7536247,14652,Alfa Romeo,Giulia,2017,46050.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Unavail,8-Speed Automatic,AWD
+706321262,ZASFAKAN5J7C23051,15952,Alfa Romeo,Stelvio,2018,52961.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,AWD
+708516667,ZARFAEEN8J7567032,16318,Alfa Romeo,Giulia,2018,39608.0,Gasoline,"[{'name': 'Quick Order Package 22X Lusso'}, {'name': 'Driver Assist Dynamic Plus Package'}, {'name': 'Driver Assistance Static Package'}]",All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+692617701,ZASFAKPN9J7B58583,16994,Alfa Romeo,Stelvio,2018,64246.0,Gasoline,[{'name': 'Quick Order Package 22J Sport'}],All Wheel Drive,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Sport
+708598702,ZARFAECN6J7595897,17626,Alfa Romeo,Giulia,2018,38837.0,Gasoline,"[{'name': 'Quick Order Package 22U Sport'}, {'name': 'TI Sport Performance Package'}, {'name': 'Driver Assistance Static Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Unavail,8-Speed Automatic,Ti Sport
+704995975,ZASFAKBN0J7B59855,18997,Alfa Romeo,Stelvio,2018,48862.0,Gasoline,"[{'name': 'Driver Assist Dynamic Plus Package'}, {'name': 'Driver Assistance Static Package'}]",All Wheel Drive,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Ti
+706685085,ZASFAKNN1J7B76028,19991,Alfa Romeo,Stelvio,2018,36382.0,Gasoline,"[{'name': 'Quick Order Package 22S TI Sport'}, {'name': 'Driver Assist Dynamic Plus Package'}, {'name': 'Driver Assistance Static Package'}, {'name': 'Convenience Package'}]",All Wheel Drive,4-Cylinder Turbo,Gray,Brown,8-Speed Automatic,Ti Sport
+707401384,ZARFANBN7N7652678,20118,Alfa Romeo,Giulia,2022,48799.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Black,8-Speed Automatic,Ti
+706321263,ZASPAJAN7L7C93992,20626,Alfa Romeo,Stelvio,2020,30625.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Not available
+702874746,ZARFAEEN8H7551407,20900,Alfa Romeo,Giulia,2017,39812.0,Gasoline,"[{'name': 'TI Lusso Light Wood Package'}, {'name': 'Driver Assist Dynamic Plus Package'}, {'name': 'Driver Assistance Static Package'}]",All Wheel Drive,4-Cylinder Turbo,Gray,White,8-Speed Automatic,Ti
+693625026,ZARFAMAN6L7631345,21550,Alfa Romeo,Giulia,2020,48865.0,Gasoline,[{'name': 'Nero Edizione'}],2 Wheel Drive - Rear,4-Cylinder Turbo,White,Unavail,8-Speed Automatic,Not available
+706696472,ZARFAMAN0L7635052,21985,Alfa Romeo,Giulia,2020,33103.0,Gasoline,[{'name': 'Nero Edizione'}],2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+708111315,ZASPAJAN7L7C98268,21989,Alfa Romeo,Stelvio,2020,35559.0,Gasoline,[{'name': 'Quick Order Package 22K Sport'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Silver,Black,8-Speed Automatic,Sport
+707394041,ZASPAJAN5M7D08507,22880,Alfa Romeo,Stelvio,2021,34959.0,Gasoline,"[{'name': 'Nero Edizione'}, {'name': 'Active Assist 1 Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,White,Red,8-Speed Automatic,Sprint
+704546186,ZASPAJANXM7D15307,22990,Alfa Romeo,Stelvio,2021,40567.0,Gasoline,"[{'name': 'Sun & Sound Package'}, {'name': 'Active Assist 1 Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Sprint
+707465691,ZARFAMAN2L7638292,23533,Alfa Romeo,Giulia,2020,38503.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Not available
+704546193,ZARFAMAN7L7635839,23990,Alfa Romeo,Giulia,2020,18760.0,Gasoline,[{'name': 'Nero Edizione'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,8-Speed Automatic,Not available
+705588588,ZASPAKBN3L7C75669,24400,Alfa Romeo,Stelvio,2020,45200.0,Gasoline,[{'name': 'Active Driver Assist Package TI'}],All Wheel Drive,4-Cylinder Turbo,Black,Unavail,8-Speed Automatic,Ti
+708588641,ZARFANAN0M7639819,24900,Alfa Romeo,Giulia,2021,26261.0,Gasoline,"[{'name': 'Nero Edizione'}, {'name': 'Cold Weather Package'}, {'name': 'Active Assist 1 Package'}]",All Wheel Drive,4-Cylinder Turbo,Black,Unavail,8-Speed Automatic,Sprint
+708143124,ZASPAJAN7M7C98630,24940,Alfa Romeo,Stelvio,2021,28697.0,Gasoline,[{'name': 'Nero Edizione'}],2 Wheel Drive - Rear,4-Cylinder Turbo,White,Red,8-Speed Automatic,Sprint
+704820762,ZASPAJAN7M7C99485,24999,Alfa Romeo,Stelvio,2021,12680.0,Gasoline,"[{'name': 'Nero Edizione'}, {'name': 'Sun & Sound Package'}, {'name': 'Cold Weather Package'}, {'name': 'Active Assist 1 Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Brown,8-Speed Automatic,Sprint
+707427171,ZARFAMBNXK7608020,25499,Alfa Romeo,Giulia,2019,22552.0,Gasoline,"[{'name': 'Quick Order Package 22U Sport'}, {'name': 'Nero Edizione Sport'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,8-Speed Automatic,Ti Sport
+706369756,ZARFANAN3N7656194,25987,Alfa Romeo,Giulia,2022,24236.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,Sprint
+705572943,ZARFANAN6L7630346,26880,Alfa Romeo,Giulia,2020,31959.0,Gasoline,[{'name': 'Cold Weather Package'}],All Wheel Drive,4-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Sprint
+707394028,ZASPAKAN0N7D41809,26990,Alfa Romeo,Stelvio,2022,18577.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Red,8-Speed Automatic,Sprint

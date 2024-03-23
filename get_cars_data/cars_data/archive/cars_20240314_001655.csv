@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709245661,WP0AA2A95CS106642,78911,Porsche,911,2012,27922.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Carrera
+709344057,WP0AA2927PS820124,82000,Porsche,928,1993,86668.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,Not available,GTS
+709117820,WP0AB2Y17MSA45232,82995,Porsche,Taycan,2021,19100.0,Electric,Not available,All Wheel Drive,Electric,Red,Beige,2-Speed Automatic,4S
+709181759,WP0AB2Y17MSA40841,83000,Porsche,Taycan,2021,11800.0,Electric,Not available,All Wheel Drive,Electric,White,Gray,2-Speed Automatic,4S
+709242010,WP0CA2A83NS205219,84999,Porsche,718 Boxster,2022,4899.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Red,Not available,Not available
+709495501,WP0AB2Y17MSA45747,85000,Porsche,Taycan,2021,21500.0,Electric,Not available,All Wheel Drive,Electric,White,Black,2-Speed Automatic,4S
+709084555,WP0AC2Y18LSA72869,86999,Porsche,Taycan,2020,13569.0,Electric,Not available,All Wheel Drive,Electric,Silver,Black,2-Speed Automatic,Turbo
+709167660,WP0AB2A92FS124937,89000,Porsche,911,2015,40900.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,Carrera S
+709280616,WP0AB2A92HS123757,90000,Porsche,911,2017,41750.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Gray,Not available,Carrera S
+709499211,WP1AA2AY9RDA00794,91999,Porsche,Cayenne,2024,3325.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Red,8-Speed Automatic,Not available
+709373161,WP0AB2A91HS122311,95000,Porsche,911,2017,38700.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,7-Speed Automatic,Carrera S
+709515505,WP0AC2A83GK197286,99500,Porsche,Cayman,2016,24000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Black,6-Speed Manual,GT4
+709070942,WP0CB2A97FS154489,105000,Porsche,911,2015,39600.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Red,7-Speed Manual,Carrera GTS
+709376335,WP0BB2A94ES133139,109650,Porsche,911,2014,32755.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Red,Black,Not available,Targa 4S
+709248805,WP0AA2A91NS206255,119950,Porsche,911,2022,10900.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Carrera
+709227268,WP0CC2A84MS240201,126000,Porsche,718 Boxster,2021,8815.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Black,Not available,Spyder
+709257734,WP0BB2A97GS136636,128000,Porsche,911,2016,19400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Gray,Beige,Not available,Targa 4S
+709072255,WP0CC2A85MS240515,129000,Porsche,718 Boxster,2021,6975.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,7-Speed Automatic,Spyder
+709286564,WP0AB2A9XJS123933,135900,Porsche,911,2018,12316.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Black,Black,Not available,Coupe
+709466297,WP0BB2A93KS125478,149900,Porsche,911,2019,6200.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,Not available,Not available
+709453997,WP0BB2A94KS125666,153500,Porsche,911,2019,17444.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,Not available,Not available
+709243446,WP0AD2A99JS156822,169000,Porsche,911,2018,28500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,7-Speed Automatic,Turbo S
+709348749,WP0AC2A96KS149282,188980,Porsche,911,2019,9300.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,GT3
+709498248,WP0CB2A90NS245392,192000,Porsche,911,2022,3486.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Black,Black,Not available,Cabriolet
+709281911,WP0AC2A97PS270040,275000,Porsche,911,2023,2400.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Yellow,Black,Not available,GT3

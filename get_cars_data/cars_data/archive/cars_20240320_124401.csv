@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+705567444,ZAM57XSA2J1286389,31999,Maserati,Ghibli,2018,13429.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Tan,8-Speed Automatic,Not available
+695054223,ZN661XUAXJX299197,32000,Maserati,Levante,2018,59729.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+696448726,ZAM56RRA8F1131521,32000,Maserati,Quattroporte,2015,23246.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,S Q4
+699697956,ZAM45VLA3E0081504,32000,Maserati,GranTurismo,2014,44759.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Black,6-Speed Automatic,Sport
+683264088,ZN661XUA3JX270351,32000,Maserati,Levante,2018,63000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Burgundy,Black,8-Speed Automatic,Not available
+698320299,ZAM45VLA8D0070223,32000,Maserati,GranTurismo,2013,55000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Charcoal,Beige,6-Speed Automatic,Sport
+699413141,ZAM45VLAXE0096839,32000,Maserati,GranTurismo,2014,66527.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Unavail,6-Speed Automatic,MC
+699429863,ZAM57XSA1L1349856,32000,Maserati,Ghibli,2020,33500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Brown,8-Speed Automatic,Not available
+693552126,ZAM57YTA4J1281053,32000,Maserati,Ghibli,2018,45000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,S Q4
+682208076,ZAM57YTA7J1286201,32700,Maserati,Ghibli,2018,48646.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S Q4
+690745252,ZAM56RPL8H1226474,32900,Maserati,Quattroporte,2017,39500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Burgundy,Black,8-Speed Automatic,S
+692231937,ZAM45VLA2D0074266,32999,Maserati,GranTurismo,2013,60500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,Sport
+688063876,ZAM45VMA5E0114498,33500,Maserati,GranTurismo,2014,62000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,MC
+689398355,ZN661XUS8HX262717,34500,Maserati,Levante,2017,38250.0,Gasoline,[{'name': 'Sport Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,w/ Sport Package
+709887532,ZAM45MMA9C0060551,34500,Maserati,GranTurismo,2012,41930.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Beige,6-Speed Automatic,Sport
+703740290,ZAM45MMA6E0117453,34840,Maserati,GranTurismo,2014,47971.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Red,6-Speed Automatic,Convertible
+693230393,ZAM57YTS2J1268603,34900,Maserati,Ghibli,2018,81500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S GranSport Q4
+709506498,ZAM57YSL5K1312735,34999,Maserati,Ghibli,2019,27887.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Burgundy,Black,8-Speed Automatic,S GranLusso
+707260833,ZAM57RTS0H1238080,35000,Maserati,Ghibli,2017,19300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S Q4
+690622978,ZAM45VLA3E0100987,35000,Maserati,GranTurismo,2014,59340.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Black,6-Speed Automatic,MC
+706339326,ZAMHJ45A790044112,35000,Maserati,GranTurismo,2009,28000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Red,6-Speed Automatic,S
+696931409,ZAM57YTA3J1271114,35000,Maserati,Ghibli,2018,31369.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,S Q4
+709627880,ZN661YUL2HX226021,35226,Maserati,Levante,2017,40831.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S
+697858298,ZAM45KMA8C0065258,35250,Maserati,GranTurismo,2012,21200.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Blue,Beige,6-Speed Automatic,Convertible
+700011458,ZAM57XSAXK1325120,35800,Maserati,Ghibli,2019,34500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Tan,8-Speed Automatic,Not available

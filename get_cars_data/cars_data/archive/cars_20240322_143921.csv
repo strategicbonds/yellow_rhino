@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+691843599,JN1AR54F19M250782,59995,Nissan,GT-R,2009,46023.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+706434531,JN1AR5EFXCM250009,61995,Nissan,GT-R,2012,90284.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,6-Speed Automatic,Premium
+707532539,JN1AR54F09M251308,63500,Nissan,GT-R,2009,64153.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+709100808,JN1AR5EF7AM231107,64900,Nissan,GT-R,2010,43793.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Gray,6-Speed Automatic,Premium
+708080897,JN1AR54F49M252400,64900,Nissan,GT-R,2009,67466.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Gray,6-Speed Automatic,Premium
+695103978,JN1AR5EFXBM240272,64994,Nissan,GT-R,2011,63650.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+708550968,JN1AR54FX9M253048,65800,Nissan,GT-R,2009,55695.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,White,6-Speed Automatic,Premium
+706983528,JN1AR54F09M252720,65995,Nissan,GT-R,2009,48816.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+699229321,JN1AR54F79M252181,69975,Nissan,GT-R,2009,30212.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Gray,6-Speed Automatic,Premium
+707658413,JN1AR5EF2EM270953,69991,Nissan,GT-R,2014,82296.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Black Edition
+707474501,JN1AR5EF0EM270546,69991,Nissan,GT-R,2014,80665.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+699004095,JN1AR5EF2AM231371,69995,Nissan,GT-R,2010,17265.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+693831350,JN1AR5EF1BM240337,69999,Nissan,GT-R,2011,47418.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Not available,Not available,6-Speed Automatic,Premium
+705939552,JN1AR5EF5DM260996,72995,Nissan,GT-R,2013,46656.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Unavail,6-Speed Automatic,Black Edition
+708767226,JN1AR5EF1AM230440,74894,Nissan,GT-R,2010,34400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+706653308,JN1AR5EF2FM281386,74900,Nissan,GT-R,2015,64071.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,6-Speed Automatic,Premium
+676272961,JN1AR5EG7EM110057,75975,Nissan,GT-R,2014,54246.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Gray,6-Speed Automatic,Track Edition
+705193722,JN1AR5EF5CM250192,76000,Nissan,GT-R,2012,67009.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+684544528,JN1AR54FX9M251526,76155,Nissan,GT-R,2009,21771.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+693462836,JN1AR5EF9GM290474,76991,Nissan,GT-R,2016,29571.0,Gasoline,[{'name': 'Red Amber Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Gray,Not available,6-Speed Automatic,Premium
+707474573,JN1AR5EF8EM270875,77688,Nissan,GT-R,2014,67300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Black Edition
+708631610,JN1AR5EFXDM260184,77800,Nissan,GT-R,2013,44715.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,6-Speed Automatic,Premium
+692483850,JN1AR5EF5EM270039,78940,Nissan,GT-R,2014,26343.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+702926675,JN1AR54F99M252165,79607,Nissan,GT-R,2009,72208.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Premium
+702132700,JN1AR5EF9EM270545,79995,Nissan,GT-R,2014,25382.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Black Edition

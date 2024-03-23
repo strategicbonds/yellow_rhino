@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709289411,ZFF65TJAXE0200252,110995,Ferrari,California,2014,16993.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Black,7-Speed Automatic,Not available
+703127175,ZFF65TJA4E0199826,119544,Ferrari,California,2014,14311.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Black,7-Speed Automatic,Not available
+709039515,ZFFYT53A530133838,130000,Ferrari,360,2003,17601.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Unavail,Not available,Spider
+709570123,ZFFEW59A260147248,134900,Ferrari,F430,2006,15168.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Yellow,Black,6-Speed Shiftable Automatic,Spider
+709501940,ZFFEW59A780160869,149900,Ferrari,F430,2008,14563.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Not available,Not available,Automatic,Spider
+708796707,ZFFBV55A250140519,179900,Ferrari,575M Maranello,2005,6880.0,Gasoline,Not available,2 Wheel Drive - Rear,12-Cylinder,Gray,Beige,6-Speed Shiftable Automatic,Not available
+695764644,ZFF82YNA4J0237445,201997,Ferrari,GTC4Lusso,2018,7069.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Red,7-Speed Automatic,T
+709617472,ZFF67NFA6D0189375,208988,Ferrari,458 Italia,2013,18050.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Tan,7-Speed Automatic,Coupe
+709493667,ZFF98RNA6M0266250,229000,Ferrari,Roma,2021,2344.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Red,Black,8-Speed Shiftable Automatic,Not available
+709116265,ZFF89FPA2L0248444,249900,Ferrari,Portofino,2020,4446.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Silver,Black,7-Speed Automatic,Not available
+709632908,ZFF98RNA5N0277922,249990,Ferrari,Roma,2022,1836.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Red,Black,8-Speed Automatic,Not available
+693047771,ZFF90HLA9L0254712,729800,Ferrari,488 Pista,2020,3393.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Black,7-Speed Automatic,Coupe
+704952358,ZFF96NMA3P0293717,729900,Ferrari,SF90 Spider,2023,106.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Red,Black,8-Speed Automatic,Not available
+708757468,ZFF96NMA9N0284372,739995,Ferrari,SF90 Spider,2022,200.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Blue,Black,8-Speed Automatic,Not available
+705446731,ZFF97CMA3N0279394,747888,Ferrari,812 GTS,2022,2494.0,Gasoline,Not available,2 Wheel Drive - Rear,12-Cylinder,Green,Unavail,7-Speed Automatic,Not available
+708994895,ZFF96NMA5N0280268,749995,Ferrari,SF90 Spider,2022,780.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Red,8-Speed Automatic,Not available
+704815516,ZFF96NMA3P0295161,789900,Ferrari,SF90 Spider,2023,171.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Red,Brown,8-Speed Automatic,Not available
+708662290,ZFF91HMA1L0249080,799000,Ferrari,488 Pista,2020,355.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Not available,Blue,7-Speed Automatic,Spider
+701135837,ZFF96NMA2P0292641,799900,Ferrari,SF90 Spider,2023,775.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Red,Black,8-Speed Automatic,Not available
+708870112,ZFF96NMA2P0295796,799991,Ferrari,SF90 Spider,2023,130.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Red,Black,8-Speed Automatic,Not available
+693121896,ZFF96NMA9N0283934,799998,Ferrari,SF90 Spider,2022,61.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Red,8-Speed Automatic,Not available
+695578743,ZFF95NLA8N0285131,799999,Ferrari,SF90 Stradale,2022,927.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Black,Unavail,8-Speed Automatic,Not available
+707368478,ZFF96NMA7P0289606,817990,Ferrari,SF90 Spider,2023,242.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Black,Not available,8-Speed Automatic,Not available
+706543162,ZFF96NMA3N0287672,895900,Ferrari,SF90 Spider,2022,1702.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Gray,Not available,8-Speed Automatic,Not available
+706246586,ZFF91HMA1L0253646,899995,Ferrari,488 Pista,2020,1181.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Blue,7-Speed Automatic,Spider

@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709478315,WBAPN7C51BA782108,8500,BMW,335d,2011,223000.0,Diesel,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Sedan
+709254440,WBABN53403PH02904,8800,BMW,330Ci,2003,94120.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Black,Not available,Coupe
+709072035,WBA3V9C50FP798815,8999,BMW,428i xDrive,2015,177000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Tan,8-Speed Automatic,Convertible
+709461761,WBABW33435PL34767,8999,BMW,325Ci,2005,95372.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Gray,Not available,Convertible
+709072405,WBADD6329WGT90437,9000,BMW,528i,1998,93400.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Tan,4-Speed Automatic,Sedan
+709247992,WBANN73566CN02796,9150,BMW,530xi,2006,101475.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,White,Beige,Not available,Wagon
+709499455,WBANW13548CZ79191,9200,BMW,535i,2008,121345.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Black,Not available,Sedan
+709275921,WBAPT7C59AC237508,9500,BMW,535i xDrive,2010,132100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Gray,Not available,Wagon
+708975498,5UXZV8C58BL417008,9500,BMW,X5,2011,139000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Tan,8-Speed Automatic,xDrive50i
+709377201,5UXWX9C59D0A14133,9900,BMW,X3,2013,136189.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,xDrive28i
+709269895,4USCN33482LK52394,9950,BMW,Z3,2002,50600.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Brown,Not available,2.5i
+709479325,5UXFE83538LZ98753,9999,BMW,X5,2008,105243.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Silver,Black,6-Speed Automatic,4.8i
+709242833,5UXFE83559L310107,10000,BMW,X5,2009,141437.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Black,Black,6-Speed Automatic,xDrive48i
+709182586,5UXZV8C58CL425286,10450,BMW,X5,2012,117000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,xDrive50i
+708968907,4USBU53576LX01914,10500,BMW,Z4,2006,92059.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,3.0si
+709286746,4USCH9334XLG02003,10500,BMW,Z3,1999,81000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Gray,Not available,2.3
+709183413,WBA3C1G58FNR50126,10500,BMW,328i,2015,89290.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,Sedan
+709243995,WBABW53486PZ41387,10750,BMW,330Ci,2006,75016.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Red,Beige,Not available,Convertible
+709280277,WBAKB8C50CC963294,10800,BMW,750Li,2012,89251.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Beige,6-Speed Automatic,Not available
+709387197,WBAVM1C57FVW58592,10800,BMW,X1,2015,81730.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,sDrive28i
+709288453,WBA3N3C50FK234866,10800,BMW,428i,2015,135200.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,Not available,Coupe
+709236853,4USBT33555LR69723,10900,BMW,Z4,2005,62350.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Red,Not available,2.5i
+709343609,WBAPM7C58AE192210,11000,BMW,335i,2010,84000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Beige,Not available,Sedan
+709327911,WBA3A5G59CNP15954,11000,BMW,328i,2012,62000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Gray,Not available,Sedan
+709240669,WBAVT73568FV29469,11000,BMW,328xi,2008,176400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Beige,Beige,Not available,Wagon

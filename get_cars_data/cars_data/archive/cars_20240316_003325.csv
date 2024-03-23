@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+699682565,WP0AA2A92DS107880,59950,Porsche,911,2013,37760.0,Gasoline,Not available,Not available,6-Cylinder,Red,Black,Not available,Carrera
+684809238,WP0CB2A90AS754103,59977,Porsche,911,2010,54495.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,Carrera S
+696711842,WP0CB29976S769256,59980,Porsche,911,2006,63400.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,Carrera S
+709289402,WP1AA2AY2MDA04811,59984,Porsche,Cayenne,2021,23268.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,8-Speed Automatic,Not available
+700129719,WP0AA2A76LL103046,59990,Porsche,Panamera,2020,38500.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Blue,Silver,8-Speed Automatic,Not available
+709396260,WP0AA2A86JK261043,59991,Porsche,718 Cayman,2018,3011.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,7-Speed Automatic,Not available
+699701399,WP0AA2A89MS260554,59995,Porsche,718 Cayman,2021,30200.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Red,Not available,Not available
+706923073,WP0AA2A73LL103649,59999,Porsche,Panamera,2020,45900.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+690394353,WP0CA29901S653182,60000,Porsche,911,2001,44390.0,Gasoline,Not available,Not available,6-Cylinder,Black,Black,Not available,Cabriolet
+707314790,WP0AA2A90AS706322,60000,Porsche,911,2010,54000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,6-Speed Manual,Carrera
+706079959,WP1AA2A55PLB01551,60000,Porsche,Macan,2023,14755.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,7-Speed Automatic,Not available
+696956673,WP0AB2A83EK191097,60000,Porsche,Cayman,2014,27300.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Yellow,Black,Not available,S
+702103546,WP1AE2AY8LDA22636,60000,Porsche,Cayenne,2020,31231.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Unavail,8-Speed Automatic,E-Hybrid
+709297297,WP1AF2A55JLB71110,60980,Porsche,Macan,2018,19803.0,Gasoline,[{'name': 'Turbo Exterior Package'}],All Wheel Drive,6-Cylinder Turbo,White,Not available,7-Speed Automatic,Turbo
+709418452,WP1AA2A57PLB14527,60990,Porsche,Macan,2023,6473.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Not available,7-Speed Automatic,Not available
+709260137,WP0AA2A93GS106189,61000,Porsche,911,2016,77100.0,Gasoline,Not available,Not available,6-Cylinder,Blue,Tan,Not available,Carrera
+683958867,WP0AB2A73JL132840,61550,Porsche,Panamera,2018,35300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,8-Speed Automatic,4S
+703495415,WP0CB2A92BS754458,61555,Porsche,911,2011,60100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Black,Not available,Carrera 4S
+700204727,WP1AA2A55PLB03851,61900,Porsche,Macan,2023,15600.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Red,7-Speed Automatic,Not available
+686684871,WP0BC2A73EL077037,61999,Porsche,Panamera,2014,33779.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Red,7-Speed Automatic,Turbo Executive
+708916910,WP1BA2AY1LDA46468,62000,Porsche,Cayenne,2020,37600.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+705894859,WP0CA2A81MS210157,62000,Porsche,718 Boxster,2021,8201.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,Not available,Not available
+694692239,WP0CA2A82KS210987,62000,Porsche,718 Boxster,2019,15122.0,Gasoline,"[{'name': 'Black/Bordeaux Red, Two-Tone Partial Leather Seat Trim w/Leather Pkg'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Red,7-Speed Automatic,Not available
+705175048,WP0AD29927S784542,62000,Porsche,911,2007,72290.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,Not available,Turbo
+693223087,WP0AA2A83JK261260,62000,Porsche,718 Cayman,2018,1555.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Black,Not available,Not available

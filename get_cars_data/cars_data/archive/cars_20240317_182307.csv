@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+685849525,JF1VA2L61F9824453,15999,Subaru,WRX,2015,89000.0,Gasoline,[{'name': 'Popular Package #3'}],All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+705811880,JF1VA2M64G9829064,18000,Subaru,WRX,2016,110000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Black,6-Speed Manual,STI
+709070814,JF1VA2M62H9834054,22590,Subaru,WRX,2017,89675.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Black,6-Speed Manual,STI
+709601505,JF1VA2L60F9800354,22995,Subaru,WRX,2015,81760.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+709526322,JF1VA2M62J9812593,26800,Subaru,WRX,2018,76415.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+709456170,JF1VA2L66F9805736,27300,Subaru,WRX,2015,56922.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+687448771,JF1VA2R66K9806676,27499,Subaru,WRX,2019,88088.0,Gasoline,[{'name': 'Popular Package #3'}],All Wheel Drive,4-Cylinder Turbo,Red,Not available,6-Speed Manual,STI
+706746654,JF1VA2E65L9818289,27767,Subaru,WRX,2020,85594.0,Gasoline,[{'name': 'Popular Package #3 (IZT)'}],All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+709722555,JF1VA2R61K9814345,28800,Subaru,WRX,2019,50815.0,Gasoline,"[{'name': 'Popular Package #1'}, {'name': 'STI Short Throw Shifter Package'}]",All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+708869472,JF1VA2R65K9814025,29995,Subaru,WRX,2019,54787.0,Gasoline,[{'name': 'STI Short Throw Shifter Package'}],All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+706753617,JF1VA2S61L9833845,30192,Subaru,WRX,2020,85779.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+709393376,JF1VA2V69H9825527,30900,Subaru,WRX,2017,37649.0,Gasoline,[{'name': 'STI Short Throw Shifter Package'}],All Wheel Drive,4-Cylinder Turbo,Charcoal,Black,6-Speed Manual,STI
+709669085,JF1VA2E6XL9806252,31900,Subaru,WRX,2020,47493.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Unavail,6-Speed Manual,STI
+708884598,JF1VA2E68L9801566,33535,Subaru,WRX,2020,42740.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+708889576,JF1VA2S69K9827225,33642,Subaru,WRX,2019,42746.0,Gasoline,"[{'name': 'Popular Package #1'}, {'name': 'STI Short Throw Shifter Package'}]",All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI
+705001721,JF1VA2S60L9813697,33990,Subaru,WRX,2020,59254.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+709312922,JF1VA2S62M9801861,34986,Subaru,WRX,2021,19863.0,Gasoline,"[{'name': 'Popular Package #3 (IZT)'}, {'name': 'STI Short Throw Shifter Package'}]",All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+708390855,JF1VA2S66M9803452,35688,Subaru,WRX,2021,30597.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,6-Speed Manual,STI
+709665062,JF1VA2E69M9809001,38495,Subaru,WRX,2021,17311.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,6-Speed Manual,STI
+709695155,JF1VA2E63M9810080,38988,Subaru,WRX,2021,43220.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Manual,STI
+708955617,JF1VA2E69L9810633,42988,Subaru,WRX,2020,8517.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Not available,6-Speed Manual,STI
+702043550,JF1VA2E65M9809755,42998,Subaru,WRX,2021,10268.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,6-Speed Manual,STI
+696635129,JF1VA2S66L9819097,45951,Subaru,WRX,2020,8445.0,Gasoline,"[{'name': 'Popular Package #1'}, {'name': 'STI Short Throw Shifter Package'}]",All Wheel Drive,4-Cylinder Turbo,Red,Black,6-Speed Manual,STI
+683374288,JF1VA2S68M9812766,48999,Subaru,WRX,2021,4000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,6-Speed Manual,STI
+693420860,JF1VA2S60L9832461,50000,Subaru,WRX,2020,3475.0,Gasoline,"[{'name': 'Popular Package #3 (IZT)'}, {'name': 'STI Short Throw Shifter Package'}]",All Wheel Drive,4-Cylinder Turbo,Silver,Black,6-Speed Manual,STI

@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709918366,ZFF65LJA6B0181145,84995,Ferrari,California,2011,47924.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Beige,7-Speed Automatic,Not available
+709941530,ZFFBV55A730130839,85000,Ferrari,575M Maranello,2003,15416.0,Gasoline,Not available,2 Wheel Drive - Rear,12-Cylinder,Silver,Gray,6-Speed Automatic,Not available
+709880541,ZFF65LJA2C0182455,89888,Ferrari,California,2012,39735.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,White,7-Speed Automatic,Not available
+709918376,ZFF65LHA4A0174067,98995,Ferrari,California,2010,21105.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Tan,7-Speed Automatic,Not available
+703587691,ZFFYT53A730134179,99900,Ferrari,360,2003,15984.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Beige,Not available,Spider
+709724435,ZFFYT53A430131045,109995,Ferrari,360,2003,18042.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Tan,6-Speed Manual,Spider
+703127175,ZFF65TJA4E0199826,119544,Ferrari,California,2014,14311.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Black,7-Speed Automatic,Not available
+709652907,ZFF77XJA4F0210976,129788,Ferrari,California,2015,14618.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Red,7-Speed Automatic,T
+691585983,ZFFEW59A770157033,134900,Ferrari,F430,2007,9687.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Beige,6-Speed Manual,Spider
+709570123,ZFFEW59A260147248,134900,Ferrari,F430,2006,15168.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Yellow,Black,6-Speed Shiftable Automatic,Spider
+709576544,ZFF65TJA4E0202191,135949,Ferrari,California,2014,0.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Not available,7-Speed Automatic,Not available
+709554809,ZFFJB54A680159858,137900,Ferrari,612 Scaglietti,2008,19420.0,Gasoline,Not available,2 Wheel Drive - Rear,12-Cylinder,Black,Tan,Automatic,Not available
+709812515,ZFF77XJA9G0215690,137995,Ferrari,California,2016,18405.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Red,White,7-Speed Automatic,T
+709830869,ZFF77XJA7G0218281,144900,Ferrari,California,2016,12534.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Not available,Not available,7-Speed Automatic,T
+705049942,ZFF77XJA5G0215881,149900,Ferrari,California,2016,4500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Black,7-Speed Automatic,T
+709501940,ZFFEW59A780160869,149900,Ferrari,F430,2008,14563.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Not available,Not available,Automatic,Spider
+687533364,ZFF73SKA3D0190858,162888,Ferrari,FF,2013,7473.0,Gasoline,Not available,All Wheel Drive,12-Cylinder,Gray,Black,7-Speed Automatic,Not available
+687272319,ZFF82YNA8K0245811,177888,Ferrari,GTC4Lusso,2019,15236.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Black,7-Speed Automatic,T
+694733717,ZFF89FPA3K0238312,199900,Ferrari,Portofino,2019,11873.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Black,7-Speed Automatic,Not available
+695764644,ZFF82YNA4J0237445,201997,Ferrari,GTC4Lusso,2018,7069.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Red,7-Speed Automatic,T
+709617472,ZFF67NFA6D0189375,208988,Ferrari,458 Italia,2013,18050.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Tan,7-Speed Automatic,Coupe
+699683910,ZFF98RNA3M0263516,209888,Ferrari,Roma,2021,15059.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Gray,Tan,8-Speed Automatic,Not available
+691925781,ZFF98RNA8M0261129,219900,Ferrari,Roma,2021,12339.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Red,Gray,8-Speed Automatic,Not available
+698056913,ZFF89FPA0K0241569,220990,Ferrari,Portofino,2019,5562.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Blue,Beige,7-Speed Automatic,Not available
+706246586,ZFF91HMA1L0253646,899995,Ferrari,488 Pista,2020,1181.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Blue,7-Speed Automatic,Spider

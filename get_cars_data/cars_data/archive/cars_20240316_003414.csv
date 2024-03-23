@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709457267,WP1AA2AY9KDA08187,43995,Porsche,Cayenne,2019,55183.0,Gasoline,"[{'name': 'Premium Package'}, {'name': '14-way Power Seats w/Memory Package'}]",All Wheel Drive,6-Cylinder Turbo,Brown,Black,8-Speed Automatic,Not available
+690166884,WP0AA2A81JS260110,44000,Porsche,718 Cayman,2018,73000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,Not available,Not available
+708619381,WP0AA29966S716168,44000,Porsche,911,2006,74000.0,Gasoline,Not available,Not available,6-Cylinder,Black,Gray,Not available,Coupe
+695792270,WP0CB29977S775253,44000,Porsche,911,2007,67200.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,6-Speed Manual,Carrera S
+667452087,WP0AA2A73FL003541,44200,Porsche,Panamera,2015,28800.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,White,Black,7-Speed Automatic,4
+687825520,WP0CA29978S765830,44500,Porsche,911,2008,52900.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Black,Not available,Carrera 4
+709433804,WP1AA2AY7KDA07622,44523,Porsche,Cayenne,2019,52910.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Gray,8-Speed Automatic,Not available
+709602254,WP1AA2A53LLB04300,44798,Porsche,Macan,2020,21246.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,7-Speed Automatic,Not available
+708617986,WP0CB2A82EK140358,44900,Porsche,Boxster,2014,65921.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,S
+693274361,WP0CB299X7S775165,44900,Porsche,911,2007,59925.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Beige,Not available,Carrera S
+694288620,WP0CB29949S754668,44900,Porsche,911,2009,92895.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Black,Not available,Carrera S
+709393525,WP1AA2A57MLB01000,44950,Porsche,Macan,2021,52835.0,Gasoline,[{'name': 'Premium Package Plus'}],All Wheel Drive,4-Cylinder Turbo,Red,Black,7-Speed Automatic,Not available
+676776106,WP1AA2A5XJLB25691,44988,Porsche,Macan,2018,31195.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Beige,7-Speed Automatic,Sport Edition
+709600699,WP1AA2AY1LDA00988,44991,Porsche,Cayenne,2020,52000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+707927279,WP0CA29954S652419,44995,Porsche,911,2004,38000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Red,Beige,Not available,Carrera 4
+691058292,WP1AA2AY7KDA13808,44999,Porsche,Cayenne,2019,45100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Blue,8-Speed Automatic,Not available
+704731123,WP0CA2A8XHS222183,45000,Porsche,718 Boxster,2017,46711.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Black,Not available,Not available
+693469548,WP1AB2A51JLB39749,45000,Porsche,Macan,2018,16000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Charcoal,Black,7-Speed Automatic,S
+703711603,WP0CA2A81KS210236,45000,Porsche,718 Boxster,2019,47000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,Not available,Not available
+695822751,WP0AA2A78JL112750,45000,Porsche,Panamera,2018,87000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Brown,8-Speed Automatic,4
+704355028,WP0AB2A87EK192785,45000,Porsche,Cayman,2014,42450.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,S
+692732825,WP0AB29918S730866,45000,Porsche,911,2008,47762.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Tan,Not available,Carrera S
+696799343,WP1AA2A52LLB13859,45000,Porsche,Macan,2020,37280.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Tan,7-Speed Automatic,Not available
+686547790,WP0AB2A78DL060439,45000,Porsche,Panamera,2013,44000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,White,Tan,7-Speed Automatic,4S
+709706587,WP0CA2A85FS120805,45000,Porsche,Boxster,2015,19685.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Not available
