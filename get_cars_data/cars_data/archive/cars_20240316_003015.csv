@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709146033,ZAM57YTL2J1265645,31495,Maserati,Ghibli,2018,43002.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,S GranLusso Q4
+691631302,ZAM57YSAXJ1277106,31500,Maserati,Ghibli,2018,26000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S
+709520563,ZN661XUS5KX309306,31900,Maserati,Levante,2019,51751.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,GranSport
+699944092,ZN661YUA6JX301310,31900,Maserati,Levante,2018,65400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S
+703213415,ZAM56YPL2J1293233,31991,Maserati,Quattroporte,2018,52316.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Tan,8-Speed Automatic,S GranLusso
+705567444,ZAM57XSA2J1286389,31999,Maserati,Ghibli,2018,13429.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Tan,8-Speed Automatic,Not available
+693552126,ZAM57YTA4J1281053,32000,Maserati,Ghibli,2018,45000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,S Q4
+695054223,ZN661XUAXJX299197,32000,Maserati,Levante,2018,59729.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+698320299,ZAM45VLA8D0070223,32000,Maserati,GranTurismo,2013,55000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Charcoal,Beige,6-Speed Automatic,Sport
+709259286,ZAM57RTL8H1223903,32000,Maserati,Ghibli,2017,46000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Brown,Beige,8-Speed Automatic,S Q4
+707928786,ZAM45VLA3D0069173,32000,Maserati,GranTurismo,2013,54156.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Beige,6-Speed Automatic,MC
+696448726,ZAM56RRA8F1131521,32000,Maserati,Quattroporte,2015,23246.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,S Q4
+699413141,ZAM45VLAXE0096839,32000,Maserati,GranTurismo,2014,66527.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Unavail,6-Speed Automatic,MC
+683264088,ZN661XUA3JX270351,32000,Maserati,Levante,2018,63000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Burgundy,Black,8-Speed Automatic,Not available
+699697956,ZAM45VLA3E0081504,32000,Maserati,GranTurismo,2014,44759.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Red,Black,6-Speed Automatic,Sport
+699429863,ZAM57XSA1L1349856,32000,Maserati,Ghibli,2020,33500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Brown,8-Speed Automatic,Not available
+682208076,ZAM57YTA7J1286201,32700,Maserati,Ghibli,2018,48646.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S Q4
+690745252,ZAM56RPL8H1226474,32900,Maserati,Quattroporte,2017,39500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Burgundy,Black,8-Speed Automatic,S
+692231937,ZAM45VLA2D0074266,32999,Maserati,GranTurismo,2013,60500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,Sport
+698080201,ZN661XUAXKX317487,33192,Maserati,Levante,2019,32016.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,8-Speed Automatic,Not available
+688063876,ZAM45VMA5E0114498,33500,Maserati,GranTurismo,2014,62000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,MC
+709504386,ZN661XUA2KX320612,33977,Maserati,Levante,2019,39596.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Brown,8-Speed Automatic,Not available
+709583766,ZAM57YTS6K1334605,33995,Maserati,Ghibli,2019,45920.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Beige,8-Speed Automatic,S GranSport Q4
+689398355,ZN661XUS8HX262717,34500,Maserati,Levante,2017,38250.0,Gasoline,[{'name': 'Sport Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,w/ Sport Package
+703740290,ZAM45MMA6E0117453,34840,Maserati,GranTurismo,2014,47971.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Red,6-Speed Automatic,Convertible

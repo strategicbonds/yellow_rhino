@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709828895,SALCR2BG1GH588617,14480,Land Rover,Discovery Sport,2016,88450.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Gray,Beige,9-Speed Automatic,HSE
+709284026,SALCJ2FX9LH881693,28999,Land Rover,Discovery Sport,2020,22625.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Beige,9-Speed Automatic,S
+709346032,SALZJ2FX2MH139972,33988,Land Rover,Range Rover Evoque,2021,27364.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,9-Speed Automatic,S
+709327746,SALYM2RV5JA739628,35081,Land Rover,Range Rover Velar,2018,69424.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Not available,8-Speed Automatic,Not available
+709405439,SALCJ2FX6PH921492,37995,Land Rover,Discovery Sport,2023,13100.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Black,9-Speed Automatic,S
+709408893,SALGS2SV9JA511255,39990,Land Rover,Range Rover,2018,63530.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Silver,Blue,8-Speed Automatic,HSE
+709674405,SALGS2RE3JA380510,40900,Land Rover,Range Rover,2018,82704.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Beige,8-Speed Automatic,Supercharged
+709405427,SALZJ2FX9PH206331,41995,Land Rover,Range Rover Evoque,2023,13497.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,9-Speed Automatic,S
+707046816,SALYT2EX6MA305913,43999,Land Rover,Range Rover Velar,2021,23817.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,R-Dynamic S
+709548331,SALRT2RV7L2445507,45995,Land Rover,Discovery,2020,21150.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,HSE Luxury
+701306831,SALWR2SU5NA219512,61988,Land Rover,Range Rover Sport,2022,43063.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,HSE Silver Edition
+709405441,SALYT2EU7PA358713,61995,Land Rover,Range Rover Velar,2023,13492.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Offwhite,8-Speed Automatic,R-Dynamic S
+709307398,SALGS5SE0LA584888,63500,Land Rover,Range Rover,2020,51779.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Black,8-Speed Automatic,Long Wheelbase HSE
+709455672,SALRW4EU8P2474228,69900,Land Rover,Discovery,2023,10161.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Blue,Tan,8-Speed Automatic,Metropolitan Edition
+709456489,SALE2EEU1R2253590,79990,Land Rover,Defender,2024,6903.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,110 X-Dynamic SE
+709296062,SALEJ7EU0R2288779,82713,Land Rover,Defender,2024,15.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,110 S
+709659137,SALEW7EUXP2173864,83988,Land Rover,Defender,2023,25915.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Green,Black,8-Speed Automatic,110 75th Limited Edition
+709455670,SALEX7EU2P2148082,87900,Land Rover,Defender,2023,2274.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,110 X
+709400797,SAL1P9EU8RA188895,91420,Land Rover,Range Rover Sport,2024,14.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Tan,8-Speed Automatic,SE
+709393271,SAL1P9EU4RA188067,93054,Land Rover,Range Rover Sport,2024,5.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Black,Tan,8-Speed Automatic,SE
+709568408,SAL1P9EU7RA189780,93344,Land Rover,Range Rover Sport,2024,7.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Not available,8-Speed Automatic,SE
+709750802,SALEX7EU7R2303292,103213,Land Rover,Defender,2024,9.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,110 X
+709568405,SAL1L9FU4RA189858,104259,Land Rover,Range Rover Sport,2024,6.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Not available,8-Speed Automatic,Dynamic SE
+709750794,SALEPEFE6R2304364,104748,Land Rover,Defender,2024,9.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Black,8-Speed Automatic,110 SE
+709561018,SALGW2RE6MA453197,118117,Land Rover,Range Rover,2021,12899.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Not available,8-Speed Automatic,SV Autobiography Dynamic

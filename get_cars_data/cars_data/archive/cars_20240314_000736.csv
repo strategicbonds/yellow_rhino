@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+701235974,JH4NA1262MT800179,89975,Acura,NSX,1991,34810.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Red,Black,4-Speed Automatic,Not available
+693458635,JH4NA2169XT000023,106900,Acura,NSX,1999,28770.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Yellow,Black,6-Speed Manual,T
+691609963,19UNC1B07HY000916,115000,Acura,NSX,2017,27000.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Silver,Black,9-Speed Automatic,Not available
+705700304,19UNC1B00HY000353,121888,Acura,NSX,2017,36820.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Black,9-Speed Automatic,Not available
+705810605,19UNC1B08HY000679,125000,Acura,NSX,2017,35341.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Red,9-Speed Automatic,Not available
+701982350,19UNC1B02KY000118,128599,Acura,NSX,2019,12834.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Blue,Unavail,9-Speed Automatic,Not available
+707065114,19UNC1B03HY000184,129495,Acura,NSX,2017,10431.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Black,Black,9-Speed Automatic,Not available
+668967854,JH4NA126X3T000003,129900,Acura,NSX,2003,66865.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Tan,4-Speed Automatic,Not available
+701903986,19UNC1B00KY000103,131790,Acura,NSX,2019,9802.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Blue,Unavail,9-Speed Automatic,Not available
+705278943,19UNC1B02JY000022,131800,Acura,NSX,2018,15089.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Red,9-Speed Automatic,Not available
+707615687,19UNC1B08KY000012,132500,Acura,NSX,2019,22316.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Not available,Not available,9-Speed Automatic,Not available
+686518872,19UNC1B0XKY000092,135500,Acura,NSX,2019,11550.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Black,9-Speed Automatic,Not available
+676818923,19UNC1B02KY000197,139473,Acura,NSX,2019,14428.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Orange,Black,9-Speed Automatic,Not available
+688431589,JH4NA1156MT001434,139995,Acura,NSX,1991,16689.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Red,Black,5-Speed Manual,Not available
+622565104,JH4NA12621T000008,139995,Acura,NSX,2001,7667.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Yellow,Black,4-Speed Automatic,T
+704942551,JH4NA1151RT000277,145000,Acura,NSX,1994,7198.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Green,Tan,5-Speed Manual,Not available
+708069089,19UNC1B09MY000037,147889,Acura,NSX,2021,5756.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Orange,Black,9-Speed Automatic,Not available
+640320866,19UNC1B05KY000162,149000,Acura,NSX,2019,35200.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Orange,Black,9-Speed Automatic,Not available
+708732229,19UNC1B01HY000233,149800,Acura,NSX,2017,10897.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Red,Red,9-Speed Automatic,Not available
+691411387,JH4NA21605S000110,199000,Acura,NSX,2005,11649.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Yellow,Black,6-Speed Manual,Not available
+653922514,JH4NA21695S000171,199995,Acura,NSX,2005,13898.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,6-Speed Manual,Not available
+686449105,19UNC1B09NY000086,259995,Acura,NSX,2022,3.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Black,Black,9-Speed Automatic,Type S
+673392443,JH4NA21625S000058,275000,Acura,NSX,2005,15643.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Orange,Orange,6-Speed Manual,Not available
+706869118,19UNC1B06NY000157,324000,Acura,NSX,2022,6.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Black,Not available,9-Speed Automatic,Type S
+706618598,19UNC1B04NY000271,324800,Acura,NSX,2022,13.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Orange,Red,9-Speed Automatic,Type S

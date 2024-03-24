@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709568131,SALWR2RV0JA400283,34900,Land Rover,Range Rover Sport,2018,74526.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,White,Beige,8-Speed Automatic,HSE
+709184521,SALSH23418A146109,35000,Land Rover,Range Rover Sport,2008,21000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Black,6-Speed Automatic,Supercharged
+709051634,SALYL2EX5KA209705,36899,Land Rover,Range Rover Velar,2019,52000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Black,Beige,8-Speed Automatic,R-Dynamic SE
+709563194,SALYB2EX3KA205087,38000,Land Rover,Range Rover Velar,2019,45000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Black,White,8-Speed Automatic,S
+709499422,SALWR2RK4JA190941,38950,Land Rover,Range Rover Sport,2018,62000.0,Diesel,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,HSE
+709617023,SALGV3TF8FA206888,38999,Land Rover,Range Rover,2015,106825.0,Flexible fuel,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Red,8-Speed Automatic,Long Wheelbase Autobiography
+709459283,SALWR2RE0KA824273,39300,Land Rover,Range Rover Sport,2019,68000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Gray,Black,8-Speed Automatic,Supercharged
+709665944,SALWZ2EF7GA110355,43999,Land Rover,Range Rover Sport,2016,88500.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Black,8-Speed Automatic,SVR
+709199962,SALWR2RV6KA840865,47000,Land Rover,Range Rover Sport,2019,41900.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,HSE
+709616823,SALWS2RU5LA714333,49450,Land Rover,Range Rover Sport,2020,47700.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,HST
+709601126,SALEP7EU0L2018845,53000,Land Rover,Defender,2020,47250.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,110 SE
+709592846,SALGS2SV6KA531559,55000,Land Rover,Range Rover,2019,74400.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,White,White,8-Speed Automatic,HSE
+709663731,SALWV2SV4KA415747,55000,Land Rover,Range Rover Sport,2019,43000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,White,8-Speed Automatic,HSE Dynamic
+709491206,SALGS5RE5KA540695,57850,Land Rover,Range Rover,2019,41653.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Black,8-Speed Automatic,Long Wheelbase Supercharged
+709193922,SALWV2RE7KA830826,58999,Land Rover,Range Rover Sport,2019,55750.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Burgundy,Red,8-Speed Automatic,Autobiography
+709500142,SALGS2RE8KA551589,60950,Land Rover,Range Rover,2019,32000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Black,8-Speed Automatic,Supercharged
+709234545,SALWG2SU8NA206517,64000,Land Rover,Range Rover Sport,2022,13194.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Beige,8-Speed Automatic,SE
+709697724,SALGV5RE2JA394990,65000,Land Rover,Range Rover,2018,65000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Brown,8-Speed Automatic,Long Wheelbase Autobiography
+709195774,SALEJ7EX8P2174648,78930,Land Rover,Defender,2023,9000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,110 S
+709407060,SALWZ2RE0LA896124,90000,Land Rover,Range Rover Sport,2020,25500.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Gray,Red,8-Speed Automatic,SVR
+709244660,SAL1L9FU3PA109527,104999,Land Rover,Range Rover Sport,2023,12761.0,Gasoline,Not available,4 Wheel Drive,Hybrid,Gray,White,8-Speed Automatic,SE Dynamic
+709066833,SALEPEFE6R2262472,109000,Land Rover,Defender,2024,1090.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Green,8-Speed Automatic,110 SE
+709498738,SALGW2RE7MA435081,115000,Land Rover,Range Rover,2021,14500.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Black,8-Speed Automatic,SV Autobiography Dynamic
+709392288,SALGW2SE6KA517424,115000,Land Rover,Range Rover,2019,27000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Gray,Red,8-Speed Automatic,SV Autobiography Dynamic
+709588618,SALEBEEE9R2291397,190000,Land Rover,Defender,2024,650.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Black,8-Speed Automatic,110 V8

@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+704565632,ZARFAMANXR7682422,43845,Alfa Romeo,Giulia,2024,28.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Sprint
+701069800,ZASPAKBN0R7D71929,44512,Alfa Romeo,Stelvio,2024,0.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Brown,8-Speed Automatic,Ti
+690071731,ZARFAMAN8R7677901,44575,Alfa Romeo,Giulia,2024,31.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,8-Speed Automatic,Sprint
+701183233,ZASPAKBN4R7D71545,44900,Alfa Romeo,Stelvio,2024,11941.0,Gasoline,"[{'name': 'Premium Interior & Sound Package'}, {'name': 'Quick Order Package 22S Veloce'}, {'name': 'Active Assist Plus Package'}]",All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,Veloce
+701069770,ZASPAKBN0R7D71185,44996,Alfa Romeo,Stelvio,2024,0.0,Gasoline,[{'name': 'Quick Order Package 22S Veloce'}],All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,Veloce
+701069972,ZASPAKBN8R7D71631,45634,Alfa Romeo,Stelvio,2024,0.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,Ti
+701069970,ZASPAKBN6R7D72079,45656,Alfa Romeo,Stelvio,2024,0.0,Gasoline,[{'name': 'Quick Order Package 22S Veloce'}],All Wheel Drive,4-Cylinder Turbo,White,Unavail,8-Speed Automatic,Veloce
+701972952,ZARFAMAN9R7682234,47090,Alfa Romeo,Giulia,2024,29.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Sprint
+696039710,ZASPAKBN1P7D55669,47488,Alfa Romeo,Stelvio,2023,2213.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+704565634,ZARFAMBN7R7682795,48280,Alfa Romeo,Giulia,2024,26.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Ti
+704565633,ZARFAMBN3R7682793,48280,Alfa Romeo,Giulia,2024,28.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+701069652,ZASPAKBN9R7D80743,48518,Alfa Romeo,Stelvio,2024,0.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Unavail,8-Speed Automatic,Ti
+703090160,ZASPAJAN1R7D81381,48795,Alfa Romeo,Stelvio,2024,13.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,8-Speed Automatic,Sprint
+688898178,ZASPATCWXR3035707,48940,Alfa Romeo,Tonale,2024,317.0,Hybrid gas/electric,"[{'name': 'Active Assist Package'}, {'name': 'Premium Interior Package'}]",All Wheel Drive,Hybrid,White,Black,6-Speed Automatic,Ti
+696342021,ZASPATCW4R3047271,48999,Alfa Romeo,Tonale,2024,35.0,Hybrid gas/electric,[{'name': 'Active Assist Package'}],All Wheel Drive,Hybrid,Blue,Unavail,6-Speed Automatic,Ti
+688898181,ZASPAKBN2P7D64252,49085,Alfa Romeo,Stelvio,2023,32.0,Gasoline,"[{'name': 'Quick Order Package 22X Lusso'}, {'name': 'Active Assist Plus Package'}]",All Wheel Drive,4-Cylinder Turbo,Black,White,8-Speed Automatic,Ti Lusso
+701069966,ZASPAKBN7R7D76688,49888,Alfa Romeo,Stelvio,2024,0.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+701972946,ZARFAMBN8R7682837,50030,Alfa Romeo,Giulia,2024,21.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Ti
+701510818,ZARFAMBN1R7683313,50030,Alfa Romeo,Giulia,2024,28.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+701972945,ZARFAMBN4R7682785,50030,Alfa Romeo,Giulia,2024,25.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Ti
+701972964,ZARFAMBN1R7682811,50030,Alfa Romeo,Giulia,2024,2.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+700356317,ZARFAMBNXR7683343,50030,Alfa Romeo,Giulia,2024,25.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+700376163,ZARFAMBN9R7683303,50030,Alfa Romeo,Giulia,2024,11.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti
+700356316,ZARFAMBN8R7683261,50030,Alfa Romeo,Giulia,2024,34.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Ti
+701184257,ZARFANBN2R7683178,50280,Alfa Romeo,Giulia,2024,15.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Ti

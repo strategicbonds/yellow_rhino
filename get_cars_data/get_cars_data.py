@@ -154,7 +154,7 @@ def save_data_to_csv(data):
     log_event('Saving data to CSV')
     now = datetime.now()
     now_str = now.strftime('%Y%m%d_%H%M%S')
-    filename = f'./cars_data/cars_{now_str}.csv'
+    filename = f'./cars_data/autotrader_{now_str}.csv'
     data.to_csv(filename, index=False)
 
 def get_cars_pipeline(link):

@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710294861,SCBBR93W678043467,27000,Bentley,Flying Spur,2007,96973.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Beige,6-Speed Automatic,Flying Spur
+710007019,SCBCR63W94C021538,35998,Bentley,Continental,2004,36919.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Unavail,6-Speed Automatic,GT
+709922907,SCBFR7ZA8CC070002,50995,Bentley,Continental,2012,75742.0,Flexible fuel,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Black,6-Speed Automatic,GT
+710293756,SCBGU3ZA1GC052183,149500,Bentley,Continental,2016,21577.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Tan,8-Speed Automatic,GT
+709837431,SCBGU3ZA8JC066234,155990,Bentley,Continental,2018,11146.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,White,Unavail,8-Speed Automatic,GT
+709920957,SJAAM2ZV1NC016329,163887,Bentley,Bentayga,2022,16865.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Unavail,Unavail,8-Speed Automatic,Not available
+695124620,SCBBF7ZH7HC002740,175000,Bentley,Mulsanne,2017,7500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Blue,Beige,8-Speed Automatic,Not available
+710044817,SCBBB6ZGXLC082492,177991,Bentley,Flying Spur,2020,15038.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Unavail,Unavail,8-Speed Automatic,W12
+710023595,SCBBR6ZG9NC096737,197000,Bentley,Flying Spur,2022,5200.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Not available,Not available,8-Speed Automatic,Plug-In Hybrid
+710067295,SCBBG6ZG3NC097131,199500,Bentley,Flying Spur,2022,4971.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Unavail,Black,8-Speed Automatic,V8
+694686701,SCBBB6ZG5LC080925,199700,Bentley,Flying Spur,2020,13000.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Blue,8-Speed Automatic,W12
+699095248,SCBCG2ZG7LC075949,199950,Bentley,Continental,2020,12486.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,GT V8
+709759010,SCBBG6ZGXNC092184,199990,Bentley,Flying Spur,2022,12208.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,White,Unavail,8-Speed Automatic,V8
+710140679,SJAAT2ZV5PC021734,209991,Bentley,Bentayga,2023,2719.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+703768211,SCBDG4ZG8MC086881,210000,Bentley,Continental,2021,14820.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Blue,Beige,8-Speed Automatic,GT V8
+709894962,SCBBG6ZG5NC093713,212642,Bentley,Flying Spur,2022,3596.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Brown,Black,8-Speed Automatic,V8
+709850912,SJAAT2ZV4PC021725,229894,Bentley,Bentayga,2023,4997.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Not available
+705257714,SCBBR6ZG1NC096800,250000,Bentley,Flying Spur,2022,2000.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Unavail,8-Speed Automatic,Plug-In Hybrid
+710365019,SCBDG4ZG2NC096095,254590,Bentley,Continental,2022,2509.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Silver,Unavail,8-Speed Automatic,GT V8
+681854558,SCBDG4ZG8NC098174,292935,Bentley,Continental,2022,2318.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gold,White,8-Speed Automatic,GT V8
+707123736,SCBCT2ZG5PC005240,295000,Bentley,Continental,2023,97.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Black,8-Speed Automatic,GT Speed
+710067082,SCBDG4ZG8RC012772,297130,Bentley,Continental,2024,120.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Silver,Unavail,8-Speed Automatic,GT V8
+710292460,SCBDG4ZGXPC008123,297500,Bentley,Continental,2023,2050.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Blue,Beige,8-Speed Automatic,GT V8
+709809865,SCBDG4ZG7NC003605,299999,Bentley,Continental,2022,304.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,White,Unavail,8-Speed Automatic,GT V8
+671000789,SCBDT4ZGXNC001004,345000,Bentley,Continental,2022,315.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Red,Black,8-Speed Automatic,GT Speed

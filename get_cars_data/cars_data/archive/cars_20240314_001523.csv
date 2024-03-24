@@ -1,0 +1,5 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+703728271,JA32W5FV3CU006927,22875,Mitsubishi,Lancer Evolution,2012,133000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Not available,6-Speed Automatic,MR
+708350534,JA32W8FV4FU024603,29995,Mitsubishi,Lancer Evolution,2015,76846.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,5-Speed Manual,GSR
+706082761,JA32W8FV6FU020617,31995,Mitsubishi,Lancer Evolution,2015,64912.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Black,5-Speed Manual,GSR
+708193192,JA32W7FV1FU028781,39990,Mitsubishi,Lancer Evolution,2015,48000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Not available,5-Speed Manual,Final Edition

@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+694619995,WUA1CBF22PN900463,118995,Audi,RS 6,2023,4900.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+699716721,WUAPCBF26NN902191,119000,Audi,RS 7,2022,11500.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Brown,8-Speed Automatic,Sportback
+690418327,WUAENAFG3F7002085,120000,Audi,R8,2015,30768.0,Gasoline,"[{'name': 'Diamond Stitched Full Leather Package'}, {'name': 'Audi Exclusive Black Optic Package'}]",All Wheel Drive,10-Cylinder,Black,Black,7-Speed Automatic,V10
+705047955,WU1ARBF17ND004099,120500,Audi,RS Q8,2022,6081.0,Gasoline,"[{'name': 'Black Optic Package'}, {'name': 'Executive Package'}, {'name': 'Towing Package'}]",All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+709398213,WA1CWBF19RD008198,120790,Audi,SQ8,2024,9.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,White,Black,8-Speed Automatic,Prestige
+706707632,WU1ARBF11PD008474,122500,Audi,RS Q8,2023,7644.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+709427959,WUAPCBF29PN904147,123900,Audi,RS 7,2023,9095.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Red,Black,8-Speed Automatic,Sportback
+692374253,WUAVACFX5H7904540,125000,Audi,R8,2017,25769.0,Gasoline,"[{'name': 'Diamond Stitch Leather Package'}, {'name': 'Carbon Interior Package'}, {'name': 'Full Leather Package'}, {'name': '20"" Wheel Package'}]",All Wheel Drive,10-Cylinder,Silver,Red,7-Speed Automatic,V10
+707431383,WU1ARBF12PD032458,125000,Audi,RS Q8,2023,900.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+707437647,WUA1CBF28NN900707,125000,Audi,RS 6,2022,9300.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+703688971,WUADUAFG2FN000676,125950,Audi,R8,2015,7470.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Gray,Black,6-Speed Manual,V8
+709257312,WUAKNAFG1EN000414,127900,Audi,R8,2014,17469.0,Gasoline,Not available,All Wheel Drive,10-Cylinder,Blue,Black,7-Speed Automatic,V10 plus
+703524033,WUADUAFG1F7001435,128999,Audi,R8,2015,38000.0,Gasoline,[{'name': 'Extended Leather Package'}],All Wheel Drive,8-Cylinder,Black,Red,6-Speed Manual,V8
+692966718,WUAPCBF21NN903507,129000,Audi,RS 7,2022,6800.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Black,8-Speed Automatic,Sportback
+675538906,WAUAHBFW3N7904439,129950,Audi,RS e-tron GT,2022,3600.0,Electric,Not available,All Wheel Drive,Electric,White,Black,2-Speed Automatic,Not available
+691448694,WU1ARBF1XMD029500,130000,Audi,RS Q8,2021,37500.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+701648151,WUA1CBF24NN903457,130999,Audi,RS 6,2022,9915.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Green,Tan,8-Speed Automatic,Not available
+709258599,WU1ARBF11PD006384,132000,Audi,RS Q8,2023,8879.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Silver,Gray,8-Speed Automatic,Not available
+706771811,WUAKBAFX8H7902947,133999,Audi,R8,2017,50700.0,Gasoline,"[{'name': 'Diamond Stitch Leather Package w/Sport Seats'}, {'name': 'Full Leather Package'}, {'name': '20"" Wheel Package'}]",All Wheel Drive,10-Cylinder,White,Black,7-Speed Automatic,V10 plus
+708617476,WUAKBAFX5H7902145,134000,Audi,R8,2017,56779.0,Gasoline,"[{'name': 'Diamond Stitch Leather Package w/Sport Seats'}, {'name': 'Full Leather Package'}, {'name': '20"" Wheel Package'}]",All Wheel Drive,10-Cylinder,White,Black,7-Speed Automatic,V10 plus
+693927532,WUAEAAFX5H7902386,134999,Audi,R8,2017,30201.0,Gasoline,Not available,All Wheel Drive,10-Cylinder,Gray,Black,7-Speed Automatic,V10
+693169385,WA1CWBF13PD030842,139985,Audi,SQ8,2023,900.0,Gasoline,"[{'name': 'Prestige Package'}, {'name': 'Black Optic Package'}]",All Wheel Drive,8-Cylinder Turbo,Green,Gray,8-Speed Automatic,Prestige
+707456170,WUAEAAFX4H7902783,140000,Audi,R8,2017,10000.0,Gasoline,Not available,All Wheel Drive,10-Cylinder,Yellow,Black,7-Speed Automatic,V10
+688651197,WU1ARBF14MD026348,144440,Audi,RS Q8,2021,13000.0,Gasoline,"[{'name': 'Black Optic Package'}, {'name': 'Luxury Package'}, {'name': 'Executive Package'}, {'name': 'Driver Assistance Package'}, {'name': 'Towing Package'}]",All Wheel Drive,8-Cylinder Turbo,White,Tan,8-Speed Automatic,Not available
+707639044,WUAKBAFX3H7902113,145000,Audi,R8,2017,27400.0,Gasoline,"[{'name': 'Diamond Stitch Leather Package w/Sport Seats'}, {'name': 'Full Leather Package'}, {'name': '20"" Wheel Package'}]",All Wheel Drive,10-Cylinder,Black,Black,7-Speed Automatic,V10 plus

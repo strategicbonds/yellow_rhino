@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709714703,SALMF1D4XAA327576,7995,Land Rover,Range Rover,2010,181875.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Brown,Unavail,6-Speed Automatic,HSE LUX
+709586133,SALPM16441A452105,9000,Land Rover,Range Rover,2001,135780.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Black,Beige,4-Speed Automatic,HSE
+709844383,SALYT2EX8MA311342,43082,Land Rover,Range Rover Velar,2021,30440.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,R-Dynamic S
+709896399,SALYT2EX8MA306190,44999,Land Rover,Range Rover Velar,2021,27755.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,R-Dynamic S
+709548331,SALRT2RV7L2445507,45995,Land Rover,Discovery,2020,21151.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,HSE Luxury
+709938687,SALWR2SU7NA217955,57974,Land Rover,Range Rover Sport,2022,45326.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,HSE Silver Edition
+709424250,SALEV6RU2M2051017,57989,Land Rover,Defender,2021,22686.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,90 First Edition
+709896396,SALGS2RU3LA590549,57990,Land Rover,Range Rover,2020,33101.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Blue,Beige,8-Speed Automatic,HSE
+709742980,SALZJ2FX6RH243369,58220,Land Rover,Range Rover Evoque,2024,3.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,9-Speed Automatic,S
+709491203,SALEJ7EXXR2283714,67418,Land Rover,Defender,2024,3.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Silver,Beige,8-Speed Automatic,110 S
+709483313,SALYL2EX0RA387659,70620,Land Rover,Range Rover Velar,2024,3.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Silver,Black,8-Speed Automatic,Dynamic SE
+709491195,SALYL2EX4RA389169,72155,Land Rover,Range Rover Velar,2024,5.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Dynamic SE
+709491194,SALYL2EX2RA388649,73730,Land Rover,Range Rover Velar,2024,3.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Dynamic SE
+709771386,SALGS2RU6MA454272,75995,Land Rover,Range Rover,2021,17965.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,HSE Westminster Edition
+709972736,SALGV5SEXLA587207,77990,Land Rover,Range Rover,2020,28334.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Red,8-Speed Automatic,Long Wheelbase Autobiography
+709843991,SALGS2RU6MA452800,77995,Land Rover,Range Rover,2021,13289.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Offwhite,8-Speed Automatic,HSE Westminster Edition
+709491204,SALEJ7EX9R2277225,78313,Land Rover,Defender,2024,3.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Green,Black,8-Speed Automatic,110 S
+709491193,SALEJEEU6R2295319,82548,Land Rover,Defender,2024,5.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,110 S
+709491202,SALE27EU5R2244693,83243,Land Rover,Defender,2024,3.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Green,Black,8-Speed Automatic,110 X-Dynamic SE
+709659137,SALEW7EUXP2173864,83988,Land Rover,Defender,2023,25915.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Green,Black,8-Speed Automatic,110 75th Limited Edition
+709491196,SALYM2FU9RA388892,87525,Land Rover,Range Rover Velar,2024,3.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Unavail,8-Speed Automatic,Dynamic HSE
+709750802,SALEX7EU7R2303292,103213,Land Rover,Defender,2024,9.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,110 X
+709750794,SALEPEFE6R2304364,104748,Land Rover,Defender,2024,9.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Black,8-Speed Automatic,110 SE
+709561018,SALGW2RE6MA453197,118117,Land Rover,Range Rover,2021,12899.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Not available,8-Speed Automatic,SV Autobiography Dynamic
+709750798,SALEWEEE7R2302921,121578,Land Rover,Defender,2024,9.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Gray,Unavail,8-Speed Automatic,110 Carpathian Edition

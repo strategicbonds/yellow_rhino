@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709452568,WAUDF48H19K011489,9900,Audi,A4,2009,144600.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Tan,6-Speed Automatic,2.0T
+710034540,WAUAFAFL7EN001907,10000,Audi,A4,2014,111483.0,Gasoline,[{'name': 'S Line Style Package'}],2 Wheel Drive - Front,4-Cylinder Turbo,White,Black,Continuously Variable Automatic,2.0T Premium
+709876546,TRUTC28N321042164,11500,Audi,TT,2002,66000.0,Gasoline,Not available,2 Wheel Drive - Front,4-Cylinder Turbo,Silver,Gray,5-Speed Manual,1.8T
+709775748,WA1C2AFP9HA086670,11900,Audi,Q5,2017,134900.0,Flexible fuel,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,2.0T Premium
+709555836,WA1D7AFP0GA003423,11900,Audi,Q5,2016,134000.0,Gasoline,[{'name': 'Technology Package'}],All Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,3.0T Premium Plus
+709919790,WA1CMAFP4EA021456,12000,Audi,Q5,2014,132731.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,TDI Premium Plus
+709615558,WAUGN74F59N024184,12000,Audi,S6,2009,134000.0,Gasoline,Not available,All Wheel Drive,10-Cylinder,Gray,Black,6-Speed Automatic,Prestige
+710026414,WAUFFAFLXEA077084,12495,Audi,A4,2014,103105.0,Flexible fuel,[{'name': 'Premium Plus Package'}],All Wheel Drive,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,2.0T Premium Plus
+709869678,WAUA7GFF6G1067157,12500,Audi,A3,2016,103300.0,Gasoline,Not available,2 Wheel Drive - Front,4-Cylinder Turbo,Silver,Black,6-Speed Automatic,1.8T Premium
+710007187,WAUACGFF3F1112596,12750,Audi,A3,2015,77809.0,Gasoline,Not available,2 Wheel Drive - Front,4-Cylinder Turbo,White,Black,6-Speed Automatic,1.8T Premium
+709611774,TRUK1AFK7A1020980,13500,Audi,TTS,2010,113000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Black,6-Speed Automatic,2.0T Prestige
+710076749,WAUBGAFL7CA111653,13600,Audi,S4,2012,112408.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Black,Black,7-Speed Automatic,Premium Plus
+709854533,WAUGNAF44HN012230,13999,Audi,A4,2017,98000.0,Gasoline,Not available,2 Wheel Drive - Front,4-Cylinder Turbo,Gray,Gray,7-Speed Automatic,2.0T Premium
+709866903,WAUEFGFF4F1072151,14499,Audi,A3,2015,85191.0,Gasoline,"[{'name': 'Audi MMI Navigation Plus w/Audi Connect'}, {'name': 'Premium Plus Package'}, {'name': 'Driver Assistance Package'}]",All Wheel Drive,4-Cylinder Turbo,Blue,Black,6-Speed Automatic,2.0T Premium Plus
+709668851,WAUAFAFHXDN018307,14500,Audi,A5,2013,82950.0,Gasoline,[{'name': 'Convenience Pkg'}],2 Wheel Drive - Front,4-Cylinder Turbo,Silver,Gray,Continuously Variable Automatic,2.0T Premium
+709892954,WAUCFAFH0EN007245,14900,Audi,A5,2014,72763.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,2.0T Premium
+709857844,WAUTPBFF6GA024790,14999,Audi,A3,2016,63450.0,Hybrid gas/electric,"[{'name': 'Premium Plus Package'}, {'name': 'Technology Package'}]",2 Wheel Drive - Front,Hybrid,Gray,Black,6-Speed Automatic,e-tron Premium Plus
+709606287,WAUGGAFR4DA019878,14999,Audi,S5,2013,132000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Gray,Black,6-Speed Manual,Premium Plus
+709965337,WAUJGAFC7DN049077,15000,Audi,A6,2013,84500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Black,Beige,8-Speed Automatic,3.0T Prestige
+709590343,WAUWGAFC2EN039340,15250,Audi,A7,2014,129300.0,Gasoline,"[{'name': 'Driver Assistance Package'}, {'name': 'Cold Weather Package'}]",All Wheel Drive,6-Cylinder Supercharged,White,Black,8-Speed Automatic,3.0T Premium Plus
+709732805,WA1UFAFLXDA158766,15999,Audi,A4,2013,109500.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,Premium Plus
+710006500,WA1L2AFP5GA009826,16500,Audi,Q5,2016,84903.0,Flexible fuel,"[{'name': 'Technology Package'}, {'name': 'Premium Plus Package'}]",All Wheel Drive,4-Cylinder Turbo,White,Brown,8-Speed Automatic,2.0T Premium Plus
+709681288,WAUENAF45JA147995,16500,Audi,A4,2018,88000.0,Gasoline,"[{'name': 'Premium Plus Package'}, {'name': 'Navigation & Telematics Package'}, {'name': 'Sport Package'}, {'name': 'Cold Weather Package'}]",All Wheel Drive,4-Cylinder Turbo,White,Brown,7-Speed Automatic,2.0T Premium Plus
+709709661,WAUHGAFC1GN067934,16900,Audi,A6,2016,130000.0,Gasoline,"[{'name': 'Prestige Package'}, {'name': 'S Line Sport Package'}, {'name': '19"" Black Optic Package'}, {'name': 'Cold Weather Package'}]",All Wheel Drive,6-Cylinder Supercharged,Gray,Black,8-Speed Automatic,3.0T Prestige
+709474100,TRUBFAFK7D1011041,17500,Audi,TT,2013,64000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Gray,6-Speed Automatic,2.0T Premium Plus

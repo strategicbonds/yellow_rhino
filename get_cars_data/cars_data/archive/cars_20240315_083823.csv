@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+707940352,ZAM57RTA3F1129987,18500,Maserati,Ghibli,2015,57535.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,S Q4
+689698014,ZAM57RTA1E1086054,18500,Maserati,Ghibli,2014,59000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S Q4
+708236020,ZAM57RTA2F1131827,18500,Maserati,Ghibli,2015,74000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Beige,8-Speed Automatic,S Q4
+696104790,ZAM57RTA4E1109830,19500,Maserati,Ghibli,2014,81850.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Blue,8-Speed Automatic,S Q4
+707944148,ZAM57XSA6H1218882,19500,Maserati,Ghibli,2017,62005.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,Not available
+706919653,ZAM57RTA9E1098050,19500,Maserati,Ghibli,2014,86000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,S Q4
+693645627,ZAM57RTA5F1130588,19900,Maserati,Ghibli,2015,103000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,White,8-Speed Automatic,S Q4
+691407079,ZAM57RTA3F1130623,19900,Maserati,Ghibli,2015,88010.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Brown,8-Speed Automatic,S Q4
+707530943,ZAM56RRA3E1077771,19900,Maserati,Quattroporte,2014,86000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Tan,8-Speed Automatic,S Q4
+705376691,ZAM39JKA6C0064669,19950,Maserati,Quattroporte,2012,41670.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Tan,6-Speed Automatic,S
+696539708,ZAM57RTAXE1099689,19975,Maserati,Ghibli,2014,32316.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,S Q4
+704351604,ZAMEC38A850018518,19998,Maserati,GranSport,2005,33200.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Black,6-Speed Manual,Coupe
+704351895,ZAM39JKAXC0063069,19999,Maserati,Quattroporte,2012,68000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Silver,Burgundy,6-Speed Automatic,S
+696082344,ZAM57XSA9E1103513,20500,Maserati,Ghibli,2014,78000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Brown,8-Speed Automatic,Not available
+709054679,ZN661XUS0HX245619,20897,Maserati,Levante,2017,72028.0,Gasoline,[{'name': 'Sport Package'}],All Wheel Drive,6-Cylinder Turbo,White,Not available,8-Speed Automatic,w/ Sport Package
+709366928,ZAM57RTLXH1229945,21000,Maserati,Ghibli,2017,75760.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Brown,8-Speed Automatic,S Q4
+699749068,ZAM56PPA2E1074965,21000,Maserati,Quattroporte,2014,81250.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Beige,8-Speed Automatic,GTS
+684574757,ZAM57RTA3G1179371,21000,Maserati,Ghibli,2016,59003.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Red,8-Speed Automatic,S Q4
+694918447,ZAM57RSL7H1238104,21000,Maserati,Ghibli,2017,57960.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,S
+683137699,ZAM57RTA2E1095295,21500,Maserati,Ghibli,2014,84300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,S Q4
+708202966,ZAM57RTA5F1138691,21500,Maserati,Ghibli,2015,51405.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,8-Speed Automatic,S Q4
+696767493,ZAM57XSA6F1161189,21888,Maserati,Ghibli,2015,85800.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,Not available
+709234520,ZAMGJ45A180040941,22000,Maserati,GranTurismo,2008,51691.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Not available,Not available,6-Speed Automatic,Coupe
+709344062,ZAM57RSA7H1198945,22000,Maserati,Ghibli,2017,70086.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Not available,Not available,8-Speed Automatic,S
+701701442,ZAM56RRA0E1076769,22000,Maserati,Quattroporte,2014,45087.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Brown,8-Speed Automatic,S Q4

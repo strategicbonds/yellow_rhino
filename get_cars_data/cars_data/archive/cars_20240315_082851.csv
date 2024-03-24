@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709237538,5UXCR6C52KLL04685,42900,BMW,X5,2019,62200.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Executive Package'}, {'name': 'Driving Assistance Professional Package'}, {'name': 'Luxury Seating Package'}, {'name': 'Premium Package 2'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,xDrive40i
+709210655,WBA23AT06MCG86874,42900,BMW,430i,2021,26334.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Convenience Package'}, {'name': 'Shadowloine Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Convertible
+709271352,3MW5U7J00M8C09491,43500,BMW,M340i,2021,34067.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Not available
+709195807,WBSFV9C57ED593615,44499,BMW,M5,2014,69035.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Red,Not available,Not available
+709242027,WBS8M9C56GP966768,44500,BMW,M3,2016,42000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,Not available,Sedan
+709562960,WBY73AW0XNFN07171,44500,BMW,i4,2022,21000.0,Electric,[{'name': 'Parking Assistance Package'}],2 Wheel Drive - Rear,Electric,White,Black,Single-Speed,eDrive40
+709200457,WBA7T2C0XLCD65897,44500,BMW,740i,2020,16345.0,Gasoline,"[{'name': 'Premium Package'}, {'name': 'Driving Assistance Professional Package'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,Gold,Beige,8-Speed Automatic,Not available
+709072404,WBA7F0C54JGM22766,44900,BMW,750i,2018,47000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Charcoal,Black,8-Speed Automatic,Not available
+709280346,WBS3R9C58FK334166,46995,BMW,M4,2015,39960.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,Not available,Coupe
+709277554,WBS3R9C59FK331602,47000,BMW,M4,2015,17500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,Not available,Coupe
+709377023,5UXCR6C01M9G98106,47500,BMW,X5,2021,44500.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Convenience Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,xDrive40i
+709274291,5UX33DT09P9P61623,48000,BMW,X4,2023,19000.0,Gasoline,[{'name': 'Premium Package'}],All Wheel Drive,4-Cylinder Turbo,White,Red,8-Speed Automatic,xDrive30i
+709597514,WBS4Z9C5XJED30974,49900,BMW,M4,2018,19350.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Red,Not available,Convertible
+709243727,WBS8M9C52GP966959,50000,BMW,M3,2016,22057.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Red,Not available,Sedan
+709024509,WBSPM9C50BE202639,50000,BMW,M3,2011,35735.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Blue,Black,Not available,Sedan
+709277590,WBSEH93578CY24400,50000,BMW,M6,2008,40950.0,Gasoline,Not available,2 Wheel Drive - Rear,10-Cylinder,Gray,Black,Manual,Coupe
+709451281,5UXCW2C08L9B51205,51490,BMW,X7,2020,23903.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,xDrive40i
+709196323,WBAAE4C09LBP64010,52300,BMW,840i xDrive,2020,17700.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Driving Assistance Package 2'}]",All Wheel Drive,6-Cylinder Turbo,Blue,Red,8-Speed Automatic,Coupe
+709385691,5UXCY4C05L9C30868,53500,BMW,X6,2020,26800.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Premium Package'}, {'name': 'Luxury Seating Package'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,sDrive40i
+709587727,5UXTA6C08N9J65479,53995,BMW,X5,2022,19745.0,Hybrid gas/electric,"[{'name': 'Executive Package'}, {'name': 'Driving Assistance Professional Package'}, {'name': 'Luxury Seating Package'}, {'name': 'Climate Comfort Package'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,Hybrid,White,Black,8-Speed Automatic,xDrive45e
+709475163,5UXCY4C09M9G30501,55000,BMW,X6,2021,41808.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Premium Package'}, {'name': 'Driving Assistance Professional Package'}, {'name': 'Parking Assistance Package'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,sDrive40i
+709344436,3MW53CM0XP8C86994,55000,BMW,M240i xDrive,2023,6850.0,Gasoline,"[{'name': 'Premium Package'}, {'name': 'Shadowloine Package'}]",All Wheel Drive,6-Cylinder Turbo,Blue,Orange,8-Speed Automatic,Coupe
+709092481,WBSKG9C56CE797872,55000,BMW,M3,2012,24687.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,Not available,Coupe
+709045211,WBA7U2C06LBM62000,56000,BMW,750i xDrive,2020,27000.0,Gasoline,"[{'name': 'Executive Package'}, {'name': 'M Sport Package'}, {'name': 'Driving Assistance Professional Package'}, {'name': 'Ambient Air Package'}]",All Wheel Drive,8-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+709452356,5UXCW2C09M9D82969,58555,BMW,X7,2021,42400.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Executive Package'}, {'name': 'Driving Assistance Professional Package'}, {'name': 'Luxury Seating Package'}, {'name': 'Cold Weather Package'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,xDrive40i

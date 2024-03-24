@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709806227,JN1AR5EF9EM270013,69995,Nissan,GT-R,2014,44322.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+709152261,JN1AR5EF9DM261164,79201,Nissan,GT-R,2013,52054.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+709511190,JN1AR5EF2EM271309,79999,Nissan,GT-R,2014,21165.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,6-Speed Automatic,Premium
+706451019,JN1AR5EF4HM820240,109750,Nissan,GT-R,2017,25648.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+698198409,JN1AR5EF1JM710106,109795,Nissan,GT-R,2018,24218.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Premium
+690397019,JN1AR5EF8FM280517,110000,Nissan,GT-R,2015,42991.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Gray,6-Speed Automatic,Premium
+702472529,JN1AR5BF2MM160049,111910,Nissan,GT-R,2021,21202.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Red,6-Speed Automatic,Premium
+706031765,JN1AR5EF6HM820627,117000,Nissan,GT-R,2017,53771.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,NISMO
+695926270,JN1AR5EF2LM100069,119000,Nissan,GT-R,2020,7700.0,Gasoline,[{'name': 'Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Red,Black,6-Speed Automatic,Premium
+701816667,JN1AR5EF0LM100300,119991,Nissan,GT-R,2020,27321.0,Gasoline,[{'name': '50th Anniversary Package Pearl Whilte'}],All Wheel Drive,6-Cylinder Turbo,White,Gray,6-Speed Automatic,Premium
+704423480,JN1AR5EF7LM100388,125000,Nissan,GT-R,2020,5166.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+706470082,JN1AR5BF7MM160094,126490,Nissan,GT-R,2021,2489.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Red,6-Speed Automatic,Premium
+709533175,JN1AR5EFXLM100286,127995,Nissan,GT-R,2020,22669.0,Gasoline,[{'name': 'Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Red,6-Speed Automatic,Premium
+676270573,JN1AR5EF8FM280954,128599,Nissan,GT-R,2015,38000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Premium
+705184167,JN1AR5BF2RM220323,129490,Nissan,GT-R,2024,4.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,6-Speed Automatic,Premium
+706704292,JN1AR5EF8FM280971,130000,Nissan,GT-R,2015,19000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+706929272,JN1AR5EFXLM100188,135000,Nissan,GT-R,2020,31000.0,Gasoline,[{'name': '50th Anniversary Package Bayside Blue'}],All Wheel Drive,6-Cylinder Turbo,Blue,Gray,6-Speed Automatic,Premium
+674581171,JN1AR5EF8HM821309,136800,Nissan,GT-R,2017,41255.0,Gasoline,[{'name': 'Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Tan,6-Speed Automatic,Premium
+678531361,JN1AR5EF3JM710110,139000,Nissan,GT-R,2018,17100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Track Edition
+708061757,JN1AR5BF1RM220135,143895,Nissan,GT-R,2024,3646.0,Gasoline,[{'name': 'Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+706660196,JN1AR5BF0RM220059,149950,Nissan,GT-R,2024,1976.0,Gasoline,"[{'name': 'Premium Interior Package'}, {'name': 'Floor Mat Package'}]",All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Shiftable Automatic,Premium
+705218463,JN1AR5BF1RM220037,160000,Nissan,GT-R,2024,2544.0,Gasoline,[{'name': 'Floor Mat Package'}],All Wheel Drive,6-Cylinder Turbo,Silver,Green,6-Speed Automatic,Not available
+678134832,JN1AR5EF4HM820125,177777,Nissan,GT-R,2017,0.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Unavail,Black,6-Speed Automatic,Premium
+686407728,JN1AR5EF0GM290976,184000,Nissan,GT-R,2016,980.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,NISMO
+675579913,JN1AR5DF6MM300083,299912,Nissan,GT-R,2021,27.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Unavail,6-Speed Automatic,NISMO

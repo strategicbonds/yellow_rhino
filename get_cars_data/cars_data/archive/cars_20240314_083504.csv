@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+703711183,JN1AR54M79M200032,66464,Nissan,GT-R,2009,37084.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Gray,6-Speed Automatic,Not available
+699229321,JN1AR54F79M252181,69975,Nissan,GT-R,2009,30212.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Gray,6-Speed Automatic,Premium
+707474501,JN1AR5EF0EM270546,69991,Nissan,GT-R,2014,80665.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+707658413,JN1AR5EF2EM270953,69991,Nissan,GT-R,2014,82296.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Black Edition
+699004095,JN1AR5EF2AM231371,69995,Nissan,GT-R,2010,17265.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+708062011,JN1AR5EF4CM250328,69999,Nissan,GT-R,2012,64706.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gold,Black,6-Speed Automatic,Premium
+693831350,JN1AR5EF1BM240337,69999,Nissan,GT-R,2011,47418.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Not available,Not available,6-Speed Automatic,Premium
+705473816,JN1AR5EF1BM240290,72958,Nissan,GT-R,2011,63232.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,6-Speed Automatic,Premium
+708767226,JN1AR5EF1AM230440,74894,Nissan,GT-R,2010,34400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Premium
+706653308,JN1AR5EF2FM281386,74900,Nissan,GT-R,2015,64071.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,6-Speed Automatic,Premium
+676272961,JN1AR5EG7EM110057,75975,Nissan,GT-R,2014,54246.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Gray,6-Speed Automatic,Track Edition
+705193722,JN1AR5EF5CM250192,76000,Nissan,GT-R,2012,67009.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Premium
+684544528,JN1AR54FX9M251526,76155,Nissan,GT-R,2009,21771.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,6-Speed Automatic,Premium
+693462836,JN1AR5EF9GM290474,76991,Nissan,GT-R,2016,29571.0,Gasoline,[{'name': 'Red Amber Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Gray,Not available,6-Speed Automatic,Premium
+707474573,JN1AR5EF8EM270875,77688,Nissan,GT-R,2014,67300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Black Edition
+692483850,JN1AR5EF5EM270039,78940,Nissan,GT-R,2014,26343.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+702926675,JN1AR54F99M252165,79607,Nissan,GT-R,2009,72208.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Premium
+702132700,JN1AR5EF9EM270545,80495,Nissan,GT-R,2014,25382.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,6-Speed Automatic,Black Edition
+687647690,JN1AR5EF8CM251028,81803,Nissan,GT-R,2012,15473.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+703215833,JN1AR5EF2FM280920,82994,Nissan,GT-R,2015,33100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,6-Speed Automatic,Premium
+697062819,JN1AR5EF4CM250202,82995,Nissan,GT-R,2012,33675.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Gray,6-Speed Automatic,Premium
+695731715,JN1AR5EF8GM290059,82995,Nissan,GT-R,2016,41367.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,6-Speed Automatic,Black Edition
+706412574,JN1AR5EF0FM280043,82999,Nissan,GT-R,2015,34301.0,Gasoline,[{'name': 'Amber Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Black,Red,6-Speed Automatic,Premium
+700016897,JN1AR5EF2FM280822,84677,Nissan,GT-R,2015,41210.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,6-Speed Automatic,Premium
+708093994,JN1AR5EF5FM281303,84800,Nissan,GT-R,2015,32975.0,Gasoline,[{'name': 'Ivory Premium Interior Package'}],All Wheel Drive,6-Cylinder Turbo,Blue,Beige,6-Speed Automatic,Premium

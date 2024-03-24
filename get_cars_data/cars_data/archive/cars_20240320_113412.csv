@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709864271,SALSH23488A188325,11000,Land Rover,Range Rover Sport,2008,111850.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Silver,Black,6-Speed Automatic,Supercharged
+709733789,SALCR2BGXGH554126,13000,Land Rover,Discovery Sport,2016,99000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Red,Black,9-Speed Automatic,HSE
+710076741,SALTP19444A836603,14000,Land Rover,Discovery,2004,143542.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Silver,Black,4-Speed Automatic,HSE
+709865638,SALSK2D40DA781199,14000,Land Rover,Range Rover Sport,2013,114500.0,Gasoline,"[{'name': 'Luxury Interior Pkg'}, {'name': 'Vision Assist Pkg'}]",4 Wheel Drive,8-Cylinder,Brown,Beige,6-Speed Automatic,HSE LUX
+709888690,SALAG2D44BA552762,14900,Land Rover,LR4,2011,101000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Black,Black,6-Speed Automatic,HSE
+709906710,SALFR2BG0EH389827,15000,Land Rover,LR2,2014,58381.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Black,Black,6-Speed Automatic,Not available
+709869818,SALSK2D46DA798184,16295,Land Rover,Range Rover Sport,2013,73254.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Green,Tan,6-Speed Automatic,HSE LUX
+709890890,SALSK2D46DA798444,16500,Land Rover,Range Rover Sport,2013,106450.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Black,Unavail,6-Speed Automatic,HSE LUX
+709499258,SALVP2BG4HH233036,18800,Land Rover,Range Rover Evoque,2017,71000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Black,Black,9-Speed Automatic,SE
+709451702,SALVP2BGXGH145929,19000,Land Rover,Range Rover Evoque,2016,111000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Blue,Black,9-Speed Automatic,SE
+709684250,SALAK2V60FA769777,19750,Land Rover,LR4,2015,86021.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,HSE LUX
+709883728,SALVP2BG1HH218672,20000,Land Rover,Range Rover Evoque,2017,91000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Black,9-Speed Automatic,SE
+709609771,SALAK2V6XGA822714,20195,Land Rover,LR4,2016,97328.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,HSE LUX
+709482797,SALWG2PF4GA595511,22000,Land Rover,Range Rover Sport,2016,105000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,White,Black,8-Speed Automatic,SE
+709475202,SALWG2KFXGA101711,23900,Land Rover,Range Rover Sport,2016,80000.0,Diesel,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Beige,8-Speed Automatic,SE
+709909562,SALRRBBK7HA005248,24000,Land Rover,Discovery,2017,81000.0,Diesel,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Tan,8-Speed Automatic,HSE
+709849339,SALME1D49BA343451,25000,Land Rover,Range Rover,2011,38600.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,White,Gray,6-Speed Automatic,HSE
+709888915,SALRG2RV6K2402473,25500,Land Rover,Discovery,2019,75000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,SE
+709864264,SALWG2PF0GA102097,26000,Land Rover,Range Rover Sport,2016,62879.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,White,Black,8-Speed Automatic,SE
+709671814,SALRRBBVXHA043423,27500,Land Rover,Discovery,2017,33328.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,White,Tan,8-Speed Automatic,HSE
+709598320,SALWR2FK9HA690866,27500,Land Rover,Range Rover Sport,2017,89922.0,Diesel,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,HSE
+709474542,SALVP2BG7GH102455,27800,Land Rover,Range Rover Evoque,2016,27870.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Black,9-Speed Automatic,SE
+709468853,SALWR2FE2HA125093,28000,Land Rover,Range Rover Sport,2017,96000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Brown,8-Speed Automatic,Not available
+709692834,SALAK2D46DA692734,30000,Land Rover,LR4,2013,76000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Charcoal,Black,6-Speed Automatic,HSE LUX
+709966071,SALGS2FVXHA339435,32500,Land Rover,Range Rover,2017,74001.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,HSE

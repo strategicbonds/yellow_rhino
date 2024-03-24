@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709864271,SALSH23488A188325,9950,Land Rover,Range Rover Sport,2008,111850.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Silver,Black,6-Speed Automatic,Supercharged
+710188640,SALFR2BN1CH317353,11760,Land Rover,LR2,2012,67525.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Silver,Black,6-Speed Automatic,HSE
+710193153,SALMF1E43CA391816,12500,Land Rover,Range Rover,2012,178313.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Tan,6-Speed Automatic,Supercharged
+709865638,SALSK2D40DA781199,14000,Land Rover,Range Rover Sport,2013,114500.0,Gasoline,"[{'name': 'Luxury Interior Pkg'}, {'name': 'Vision Assist Pkg'}]",4 Wheel Drive,8-Cylinder,Brown,Beige,6-Speed Automatic,HSE LUX
+710106290,SALSF25466A977492,14999,Land Rover,Range Rover Sport,2006,135000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,White,Brown,6-Speed Automatic,HSE
+710129562,SALVT2BG9EH898389,15000,Land Rover,Range Rover Evoque,2014,92500.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Black,Black,9-Speed Automatic,Dynamic
+709906710,SALFR2BG0EH389827,15000,Land Rover,LR2,2014,58381.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,Black,Black,6-Speed Automatic,Not available
+709890890,SALSK2D46DA798444,15950,Land Rover,Range Rover Sport,2013,106450.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Black,Unavail,6-Speed Automatic,HSE LUX
+709869818,SALSK2D46DA798184,16295,Land Rover,Range Rover Sport,2013,73254.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Green,Tan,6-Speed Automatic,HSE LUX
+710306432,SALAG2V67FA743811,16500,Land Rover,LR4,2015,109500.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Gray,Tan,8-Speed Automatic,HSE
+710096755,SALME15457A254952,17500,Land Rover,Range Rover,2007,61500.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder,Silver,Black,6-Speed Automatic,HSE
+710214799,SALAG2V63GA835225,18499,Land Rover,LR4,2016,107040.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,White,Tan,8-Speed Automatic,HSE
+710292214,SALWR2VF6FA534107,19500,Land Rover,Range Rover Sport,2015,104750.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Gold,Tan,8-Speed Automatic,HSE
+710129291,SALWR2EFXGA123200,20000,Land Rover,Range Rover Sport,2016,117350.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Black,8-Speed Automatic,Supercharged
+709883728,SALVP2BG1HH218672,20000,Land Rover,Range Rover Evoque,2017,91000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Black,9-Speed Automatic,SE
+709888915,SALRG2RV6K2402473,20500,Land Rover,Discovery,2019,75000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,SE
+710244901,SALWS2VFXGA552275,21500,Land Rover,Range Rover Sport,2016,134339.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Gray,Black,8-Speed Automatic,HSE
+710188993,SALAK2V69FA767199,21500,Land Rover,LR4,2015,103550.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Silver,Beige,8-Speed Automatic,HSE LUX
+709909562,SALRRBBK7HA005248,24000,Land Rover,Discovery,2017,81000.0,Diesel,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Tan,8-Speed Automatic,HSE
+710216372,SALAC2V66GA835196,24000,Land Rover,LR4,2016,91000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Turquoise,Gray,8-Speed Automatic,Not available
+710120451,SALWZ2RE9LA709561,71998,Land Rover,Range Rover Sport,2020,54964.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Not available,8-Speed Automatic,SVR
+709875960,SALEJ7EU1R2301460,76533,Land Rover,Defender,2024,5.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,110 S
+709972736,SALGV5SEXLA587207,77990,Land Rover,Range Rover,2020,28334.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Red,8-Speed Automatic,Long Wheelbase Autobiography
+709875959,SALRL4EU0R2494758,82758,Land Rover,Discovery,2024,3.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Dynamic SE
+709875958,SALE2FEU7R2297342,93218,Land Rover,Defender,2024,3.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder,Black,Black,8-Speed Automatic,130 X-Dynamic SE

@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709236587,WA1C4BFY0J2225268,35000,Audi,SQ5,2018,85731.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Prestige
+709087314,WA1FVAF18KD021038,35000,Audi,Q8,2019,103119.0,Gasoline,[{'name': 'Year 1 Package'}],All Wheel Drive,6-Cylinder Turbo,Gray,Brown,8-Speed Automatic,Prestige
+709485964,WA1EAAFY5N2090418,37000,Audi,Q5,2022,9400.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Gray,7-Speed Automatic,2.0T Premium Plus
+709372900,WA1AAAGE5MB013145,37000,Audi,e-tron,2021,51500.0,Electric,[{'name': 'Convenience Plus Package'}],All Wheel Drive,Electric,Gray,Gray,Single-Speed,Premium
+709238415,WAUV2AF21KN085867,37500,Audi,A7,2019,49120.0,Gasoline,"[{'name': 'Prestige Package'}, {'name': 'Individual Contour Seating Package'}, {'name': 'Driver Assistance Package'}, {'name': 'S Line Package'}, {'name': 'Cold Weather Package'}]",All Wheel Drive,6-Cylinder Turbo,Charcoal,Gray,7-Speed Automatic,3.0T Prestige
+709590467,WA1LXBF76LD011200,41000,Audi,Q7,2020,14777.0,Gasoline,"[{'name': 'Premium Plus Package'}, {'name': 'Driver Assistance Package'}, {'name': 'Warm Weather Package'}, {'name': 'Cold Weather Package'}]",All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,3.0T Premium Plus
+709244176,WUAW2BFC7EN901204,42500,Audi,RS 7,2014,84375.0,Gasoline,"[{'name': 'Carbon-Optic Package With Quattro Script'}, {'name': 'Driver Assistance Plus Package'}, {'name': 'Innovation Package'}, {'name': 'Media Package'}]",All Wheel Drive,8-Cylinder Turbo,White,Silver,8-Speed Automatic,Prestige
+709249623,WA1C4AFY7L2093042,45500,Audi,SQ5,2020,22177.0,Gasoline,"[{'name': 'Prestige Package'}, {'name': 'S Sport Package'}, {'name': 'Cold Weather Package'}, {'name': 'Black Optic Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Prestige
+709369186,WA1E2AFY5N2077505,45900,Audi,Q5,2022,27759.0,Hybrid gas/electric,"[{'name': 'Premium Plus Package'}, {'name': 'Warm Weather Package'}]",All Wheel Drive,Hybrid,Black,Gray,7-Speed Automatic,e Premium Plus
+709187801,WA1E2AFY1N2024817,46000,Audi,Q5,2022,16600.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Gray,Black,7-Speed Automatic,e Premium Plus
+709446736,WAU2FBFC8JN045449,48000,Audi,S7,2018,40300.0,Gasoline,"[{'name': 'S Sport Package'}, {'name': 'Driver Assistance Package'}, {'name': 'Prestige Package'}, {'name': 'Comfort Seating Package'}, {'name': '21"" Black Optic Package'}]",All Wheel Drive,8-Cylinder Turbo,Black,Black,7-Speed Automatic,Prestige
+709616369,WA1AABGE0NB023959,49500,Audi,e-tron,2022,20000.0,Electric,Not available,All Wheel Drive,Electric,Gray,Black,Single-Speed,Premium
+709212978,WA1VXAF76LD012138,49950,Audi,Q7,2020,18148.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,3.0T Prestige
+709196038,WA1ACBGE7NB046861,53000,Audi,e-tron S,2022,1450.0,Electric,Not available,All Wheel Drive,Electric,Black,Black,Single-Speed,Premium Plus
+709254233,WAUFFAF29MN068116,66000,Audi,S6,2021,32000.0,Gasoline,"[{'name': 'Prestige Package'}, {'name': 'S Sport Package'}, {'name': 'Black Optic Package'}]",All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Prestige
+709323827,WUAG4DGY8PA908273,66000,Audi,RS 3,2023,4500.0,Gasoline,Not available,All Wheel Drive,5-Cylinder Turbo,Gray,Red,7-Speed Automatic,Not available
+709352203,WUAASAFV3K1900611,66500,Audi,TT RS,2019,24000.0,Gasoline,Not available,All Wheel Drive,5-Cylinder Turbo,White,Black,7-Speed Automatic,Not available
+709480638,WUAAWCF51MA901551,70000,Audi,RS 5,2021,6400.0,Gasoline,"[{'name': 'RS Driver Assistance Package'}, {'name': 'Navigation Package'}]",All Wheel Drive,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Sportback
+709484717,WA1FVBF12PD038012,85500,Audi,Q8,2023,7454.0,Gasoline,"[{'name': 'Prestige Package'}, {'name': 'Luxury Package'}, {'name': 'S Line Plus Package'}, {'name': 'S Line Style Package'}]",All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Prestige
+709239004,WUAANAFG5EN001934,94500,Audi,R8,2014,38112.0,Gasoline,[{'name': 'Audi Exclusive Black Optic Package'}],All Wheel Drive,10-Cylinder,Charcoal,Black,7-Speed Automatic,V10
+709473464,WUAPCBF26NN905253,119999,Audi,RS 7,2022,7136.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Black,8-Speed Automatic,Sportback
+709476809,WU1ARBF19PD024227,120000,Audi,RS Q8,2023,9700.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+709257312,WUAKNAFG1EN000414,127900,Audi,R8,2014,17469.0,Gasoline,Not available,All Wheel Drive,10-Cylinder,Blue,Black,7-Speed Automatic,V10 plus
+709258599,WU1ARBF11PD006384,132000,Audi,RS Q8,2023,8879.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Silver,Gray,8-Speed Automatic,Not available
+709270540,WUADNAFG6AN000489,149000,Audi,R8,2010,33000.0,Gasoline,Not available,All Wheel Drive,10-Cylinder,Gray,Black,6-Speed Manual,V10

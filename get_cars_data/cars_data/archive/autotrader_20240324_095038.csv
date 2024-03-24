@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+697799774,SCBBR53WX6C039412,19999,Bentley,Flying Spur,2006,142500.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Brown,6-Speed Automatic,Flying Spur
+699680483,SCBBR93W28C052231,27800,Bentley,Flying Spur,2008,80122.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Tan,6-Speed Automatic,Flying Spur
+704630899,SCBCR63W85C025615,27900,Bentley,Continental,2005,88000.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Green,Brown,6-Speed Automatic,GT
+707550190,SCBFT7ZA7DC084797,28000,Bentley,Continental,2013,84004.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,White,Black,8-Speed Automatic,GT V8
+698589164,SCBCR63W05C029805,28000,Bentley,Continental,2005,43706.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Black,6-Speed Automatic,GT
+708755772,SCBLC37FX5CX10600,31500,Bentley,Arnage,2005,61490.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Brown,Brown,4-Speed Automatic,R
+689466695,SCBCR63W15C025035,32000,Bentley,Continental,2005,53200.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Tan,6-Speed Automatic,GT
+685200664,SCBBR53W96C033603,32500,Bentley,Flying Spur,2006,75574.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Tan,6-Speed Automatic,Flying Spur
+692598310,SCBCR63W95C024327,32500,Bentley,Continental,2005,38586.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Black,6-Speed Automatic,GT
+706991792,SCBBR53W56C031878,32500,Bentley,Flying Spur,2006,27300.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Silver,6-Speed Automatic,Flying Spur
+691825324,SCBBR93W28C055498,32500,Bentley,Flying Spur,2008,99500.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Beige,6-Speed Automatic,Flying Spur
+702139905,SCBCR63W76C037711,33950,Bentley,Continental,2006,94242.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Charcoal,Black,6-Speed Automatic,GT
+703517111,SCBBR93W17C040067,34500,Bentley,Flying Spur,2007,50448.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Tan,6-Speed Automatic,Flying Spur
+701475917,SCBBR9ZA8AC065180,34991,Bentley,Flying Spur,2010,65107.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Brown,6-Speed Automatic,Flying Spur
+709157232,SCBBR93W378042342,36500,Bentley,Flying Spur,2007,25784.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Tan,6-Speed Automatic,Flying Spur
+704685973,SCBBR93W478043838,36500,Bentley,Flying Spur,2007,23600.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Green,Tan,6-Speed Automatic,Flying Spur
+685000090,SCBDR33W87C047281,39500,Bentley,Continental,2007,60000.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Tan,6-Speed Automatic,GTC
+709995906,SCBCR63W05C024068,39900,Bentley,Continental,2005,45679.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Tan,6-Speed Automatic,GT
+708323722,SCBDR33W78C056023,39950,Bentley,Continental,2008,80400.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Black,6-Speed Automatic,GTC
+667668852,SCBBG6ZG5PC005746,313420,Bentley,Flying Spur,2023,12.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Unknown,Unavail,8-Speed Automatic,V8
+669086056,SCBDG4ZG4PC005895,339085,Bentley,Continental,2023,25.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Red,Red,8-Speed Automatic,GT V8
+689344454,SCBDG4ZG7PC010718,348585,Bentley,Continental,2023,25.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Unknown,Unavail,8-Speed Automatic,GT V8
+701246241,SJAAR2ZV3PC024761,357610,Bentley,Bentayga,2023,25.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Unknown,Unavail,8-Speed Automatic,Speed
+670521466,SCBCT2ZG8PC006219,372140,Bentley,Continental,2023,30.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Red,Unavail,8-Speed Automatic,GT Speed
+668023701,SCBDT4ZG6PC005487,378815,Bentley,Continental,2023,12.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Unavail,8-Speed Automatic,GT Speed

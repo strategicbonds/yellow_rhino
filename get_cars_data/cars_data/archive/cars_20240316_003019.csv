@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+690624441,ZAMGJ45A090047624,28000,Maserati,GranTurismo,2009,36500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,Coupe
+703036416,ZAM57XSA1J1287548,28000,Maserati,Ghibli,2018,40200.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Brown,8-Speed Automatic,Not available
+703617603,ZAM56RPL6H1198996,28000,Maserati,Quattroporte,2017,65000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,S
+673728676,ZAM57RTA7F1154312,28499,Maserati,Ghibli,2015,50453.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Beige,8-Speed Automatic,S Q4
+687838883,ZAM56YRS3J1291687,28500,Maserati,Quattroporte,2018,75000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,S GranSport Q4
+709103547,ZN661XUS7KX338581,28987,Maserati,Levante,2019,76995.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Not available,8-Speed Automatic,GranSport
+683322161,ZAM45KMA4B0057690,29000,Maserati,GranTurismo,2011,82500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Blue,Black,6-Speed Automatic,Convertible
+694393744,ZAM45KMA4B0054255,29000,Maserati,GranTurismo,2011,28023.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Blue,6-Speed Automatic,Convertible
+684870582,ZAM57RTA5G1183678,29250,Maserati,Ghibli,2016,38295.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,S Q4
+708324215,ZN661XUS8HX260496,29500,Maserati,Levante,2017,29300.0,Gasoline,[{'name': 'Sport Package'}],All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,w/ Sport Package
+694034119,ZAM57XSAXG1167045,29990,Maserati,Ghibli,2016,37116.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Brown,Black,8-Speed Automatic,Not available
+709627880,ZN661YUL2HX226021,29991,Maserati,Levante,2017,40831.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S
+701649911,ZN661XUAXHX264718,29999,Maserati,Levante,2017,43500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+705934200,ZAM45KMA4A0053315,29999,Maserati,GranTurismo,2010,41416.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Brown,6-Speed Automatic,Convertible
+693637211,ZAM56PPA2E1072875,30000,Maserati,Quattroporte,2014,43000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Beige,8-Speed Automatic,GTS
+701706682,ZAM45KMA3A0053306,30000,Maserati,GranTurismo,2010,49000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Tan,6-Speed Automatic,Convertible
+696576734,ZAM57YTAXJ1287309,30000,Maserati,Ghibli,2018,66000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,S Q4
+689800613,ZAM45VLA4D0075046,30000,Maserati,GranTurismo,2013,50200.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Beige,6-Speed Automatic,Sport
+709284249,ZAM45KMA9A0051401,30166,Maserati,GranTurismo,2010,41764.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,Convertible
+697544005,ZN661XUA8HX238618,30492,Maserati,Levante,2017,52027.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+706822380,ZN661XUL3HX210825,30500,Maserati,Levante,2017,87000.0,Gasoline,[{'name': 'Luxury Package'}],All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,w/ Luxury Package
+699107576,ZN661XUL0HX253793,30500,Maserati,Levante,2017,46095.0,Gasoline,[{'name': 'Luxury Package'}],All Wheel Drive,6-Cylinder Turbo,White,White,8-Speed Automatic,w/ Luxury Package
+709185861,ZAM57YTS9J1278691,30900,Maserati,Ghibli,2018,61244.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,8-Speed Automatic,S GranSport Q4
+709152737,ZAM45VLA7F0142600,30990,Maserati,GranTurismo,2015,61121.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,White,Black,6-Speed Automatic,Coupe
+709590459,ZN661XUL8HX248020,30998,Maserati,Levante,2017,36446.0,Gasoline,[{'name': 'Luxury Package'}],All Wheel Drive,6-Cylinder Turbo,Brown,Brown,8-Speed Automatic,w/ Luxury Package

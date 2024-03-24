@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+687556375,ZAMCE39A060023195,9999,Maserati,Quattroporte,2006,81000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Silver,Tan,6-Speed Manual,Executive GT
+690046404,ZAMFE39A880033439,13900,Maserati,Quattroporte,2008,50229.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Tan,6-Speed Automatic,Executive GT
+708048100,ZAMFE39A070028721,13900,Maserati,Quattroporte,2007,63000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Silver,Beige,6-Speed Automatic,Executive GT
+695508268,ZAMCE39A470028482,13999,Maserati,Quattroporte,2007,85000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Blue,Tan,6-Speed Automatic,Sport GT
+666970361,ZAM56RRA8F1145600,14500,Maserati,Quattroporte,2015,79512.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,S Q4
+709452365,ZAM57RSA5H1196532,15000,Maserati,Ghibli,2017,157654.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,S
+707938781,ZAM56RRA9F1139143,15000,Maserati,Quattroporte,2015,60697.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,S Q4
+700174408,ZAMFE39A070032462,15490,Maserati,Quattroporte,2007,85321.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,Sport GT
+708085513,ZAM57RTLXH1219044,15900,Maserati,Ghibli,2017,106167.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Brown,8-Speed Automatic,S Q4
+699446381,ZAMCE39A660021905,15999,Maserati,Quattroporte,2006,24400.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Gray,6-Speed Manual,Not available
+705465199,ZAMFE39A780034517,17500,Maserati,Quattroporte,2008,35200.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Blue,White,6-Speed Automatic,Executive GT
+706919653,ZAM57RTA9E1098050,17500,Maserati,Ghibli,2014,86000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,S Q4
+694676536,ZAM39NKA9D0068885,17777,Maserati,Quattroporte,2013,90000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Beige,6-Speed Automatic,S
+704354354,ZAM56RRA0E1113853,17900,Maserati,Quattroporte,2014,83062.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,S Q4
+704855542,ZAM57RTA7F1130639,17999,Maserati,Ghibli,2015,54730.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Brown,8-Speed Automatic,S Q4
+703773859,ZAM57RSAXG1185282,18000,Maserati,Ghibli,2016,85000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Red,8-Speed Automatic,S
+703407880,ZAM57XSA6G1176471,18000,Maserati,Ghibli,2016,86604.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+699440629,ZAMBC38A560026323,18000,Maserati,Coupe,2006,21000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Brown,6-Speed Manual,Not available
+707940352,ZAM57RTA3F1129987,18500,Maserati,Ghibli,2015,57535.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,S Q4
+704783109,ZAMFE39A170031384,18500,Maserati,Quattroporte,2007,43580.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,6-Speed Automatic,Sport GT
+658308204,ZAM56YRM0NX389404,125361,Maserati,Quattroporte,2022,12.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Modena Q4
+696751825,ZAMBMVBB9RX444891,149990,Maserati,GranTurismo,2024,83.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Modena
+688606049,ZAMBMVBB9RX442042,155000,Maserati,GranTurismo,2024,88.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Modena
+690086571,ZAMBMVBB8RX435891,192753,Maserati,GranTurismo,2024,73.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Modena
+690705760,ZAMBMVBB3RX442005,195515,Maserati,GranTurismo,2024,12.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Modena
