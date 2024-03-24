@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710292751,WBAVA37558NL51956,5500,BMW,328i,2008,142000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Tan,6-Speed Automatic,Sedan
+709971513,4USBU33527LW71842,5900,BMW,Z4,2007,129594.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,3.0i
+710369270,WBADE6326VBW56876,6000,BMW,540i,1997,62000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Green,Tan,5-Speed Automatic,Sedan
+709871966,WBAWL13507PX13316,6500,BMW,328i,2007,150000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Green,Tan,Not available,Convertible
+709883823,WBABD53434PL12994,7500,BMW,330Ci,2004,120442.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Beige,Not available,Coupe
+709864276,WBABS33472JY58790,7800,BMW,325Ci,2002,85970.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Black,Not available,Convertible
+709905097,WBANW53588CT51321,7850,BMW,550i,2008,125685.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Black,Not available,Sedan
+710331642,WBAWB335X7P131352,7900,BMW,328i,2007,106000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Brown,Beige,Not available,Coupe
+710372247,WBAVB33586KS37869,7999,BMW,330i,2006,90480.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Tan,6-Speed Automatic,Sedan
+709870592,WBAWL13578PX17316,8000,BMW,328i,2008,156000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Brown,Not available,Convertible
+710369395,WBAWV13598P120985,8600,BMW,328i,2008,84350.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,Coupe
+710372746,WBAWL13599PX24754,8635,BMW,328i,2009,85000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Red,Not available,Convertible
+709860153,5UXZV4C56D0B06368,8750,BMW,X5,2013,163000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Brown,8-Speed Automatic,xDrive35i
+709892189,WBA5M4C58ED183315,9500,BMW,535i Gran Turismo xDrive,2014,94000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gold,Beige,8-Speed Automatic,Not available
+710019420,5UXZV4C54BL739878,9800,BMW,X5,2011,150000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Beige,8-Speed Automatic,xDrive35i
+710124965,WBA5A7C58ED615525,9999,BMW,528i xDrive,2014,106000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Black,8-Speed Automatic,Sedan
+710373974,WBAWL73569P179681,10300,BMW,335i,2009,108000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Beige,Not available,Convertible
+709906703,5UXZV4C52BL405395,10500,BMW,X5,2011,143000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Beige,8-Speed Automatic,xDrive35i
+710074626,WBAEK13537CN84364,10900,BMW,650i,2007,83047.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Silver,Tan,Not available,Convertible
+709937679,5UX23EU07R9W03560,74475,BMW,X5,2024,15.0,Gasoline,"[{'name': 'Premium Package'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Unavail,8-Speed Automatic,xDrive40i
+710056089,5UX23EU03R9W04995,74475,BMW,X5,2024,15.0,Gasoline,"[{'name': 'Premium Package'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,xDrive40i
+709941289,5UXCX6C03N9M22448,74998,BMW,X7,2022,22778.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Unavail,8-Speed Automatic,M50i
+709374709,WBS83CH0XMCG24517,75999,BMW,M5,2021,25683.0,Gasoline,"[{'name': 'Competition Package'}, {'name': 'Executive Package'}, {'name': 'Driving Assistance Plus Package'}]",All Wheel Drive,8-Cylinder Turbo,Blue,Black,8-Speed Automatic,Not available
+710056085,5UX13EU08R9W06947,78525,BMW,X5,2024,15.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Premium Package'}, {'name': 'M Sport Professional Package'}, {'name': 'Climate Comfort Package'}, {'name': 'Parking Assistance Package'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,sDrive40i
+709937680,5UX23EU08R9W03552,79175,BMW,X5,2024,15.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Premium Package'}, {'name': 'M Sport Professional Package'}, {'name': 'Parking Assistance Package'}]",All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,xDrive40i
