@@ -20,8 +20,7 @@ class CarRecordList(APIView):
 class CarPriceMileageList(APIView):
     def get(self, request, format=None):
         # Fetch CarRecord objects with related Car data
-        records = CarRecord.objects.select_related('car').all()
-
+        records = CarRecord.objects.select_related('car').filter(car__make='Mitsubishi')
         # Prepare data including car details, mileage, and price from CarRecord
         data = [{
             'vin': record.car.vin,
