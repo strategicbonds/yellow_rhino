@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+705627110,ZASPAKBNXP7D51426,37990,Alfa Romeo,Stelvio,2023,10330.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Ti
+699695146,ZASPAKBN2M7D01471,37999,Alfa Romeo,Stelvio,2021,17844.0,Gasoline,[{'name': 'Quick Order Package 22S TI Sport'}],All Wheel Drive,4-Cylinder Turbo,Red,Tan,8-Speed Automatic,Ti Sport
+696634905,ZASPAKBN0N7D30212,38499,Alfa Romeo,Stelvio,2022,12678.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Black,8-Speed Automatic,Ti
+693181536,ZASPAKBN8N7D49106,38990,Alfa Romeo,Stelvio,2022,5113.0,Gasoline,[{'name': 'Quick Order Package 22S Veloce'}],All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Veloce
+692484291,ZASFAKEV3J7C17789,39500,Alfa Romeo,Stelvio,2018,40100.0,Gasoline,"[{'name': 'Driver Assist Dynamic Package'}, {'name': 'Convenience Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Quadrifoglio
+694141057,ZARFAEAVXJ7568172,39500,Alfa Romeo,Giulia,2018,55500.0,Gasoline,[{'name': 'Driver Assist Dynamic Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Quadrifoglio
+689090053,ZASPAKBNXN7D26314,39900,Alfa Romeo,Stelvio,2022,40000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Yellow,Black,8-Speed Automatic,Veloce
+691002327,ZASPAKBN6M7D14370,40999,Alfa Romeo,Stelvio,2021,30000.0,Gasoline,[{'name': 'Nero Edizione'}],All Wheel Drive,4-Cylinder Turbo,White,Red,8-Speed Automatic,Ti
+698289788,ZARFAEAV1H7552680,41499,Alfa Romeo,Giulia,2017,33082.0,Gasoline,[{'name': 'Driver Assist Dynamic Plus Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Quadrifoglio
+700297723,ZASPAKEV1K7C29588,41999,Alfa Romeo,Stelvio,2019,49835.0,Gasoline,"[{'name': 'Driver Assist Dynamic Package'}, {'name': 'Convenience Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Quadrifoglio
+709999159,ZARFAEAV2J7592143,42000,Alfa Romeo,Giulia,2018,27113.0,Gasoline,"[{'name': 'Driver Assist Dynamic Package'}, {'name': 'Cargo Convenience Package'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Not available,8-Speed Automatic,Quadrifoglio
+686203240,ZARFAEAV7H7551131,42500,Alfa Romeo,Giulia,2017,20795.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Quadrifoglio
+708760971,ZASPAKEV9K7C37728,45000,Alfa Romeo,Stelvio,2019,28490.0,Gasoline,"[{'name': 'Driver Assist Dynamic Package'}, {'name': 'Convenience Package'}]",All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Quadrifoglio
+697934895,ZARFAEAV3H7552941,45000,Alfa Romeo,Giulia,2017,36858.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Quadrifoglio
+709918568,ZASPATCW3R3053532,46435,Alfa Romeo,Tonale,2024,2165.0,Hybrid gas/electric,"[{'name': 'Active Assist Package'}, {'name': 'Premium Interior Package'}]",All Wheel Drive,Hybrid,Green,Black,6-Speed Automatic,Ti
+710454567,ZASPATCW8R3038041,47450,Alfa Romeo,Tonale,2024,90.0,Hybrid gas/electric,[{'name': 'Premium Interior Package'}],All Wheel Drive,Hybrid,Gray,Black,6-Speed Automatic,Ti
+675561972,ZARFAEAV7J7579372,48100,Alfa Romeo,Giulia,2018,27218.0,Gasoline,[{'name': 'Driver Assist Dynamic Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Quadrifoglio
+710481671,ZASPATCW4R3045603,49250,Alfa Romeo,Tonale,2024,0.0,Hybrid gas/electric,[{'name': 'Premium Interior Package'}],All Wheel Drive,Hybrid,Blue,Black,6-Speed Automatic,Ti
+699329446,ZARFAMEV1K7619502,49950,Alfa Romeo,Giulia,2019,36300.0,Gasoline,"[{'name': 'Driver Assist Dynamic Package'}, {'name': 'Exterior Carbon Fiber Package'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Quadrifoglio
+710481669,ZASPATCW0R3050555,50250,Alfa Romeo,Tonale,2024,0.0,Hybrid gas/electric,[{'name': 'Premium Interior & Sound Package'}],All Wheel Drive,Hybrid,Gray,Black,6-Speed Automatic,Ti
+710481693,ZASPATCW4R3053412,50290,Alfa Romeo,Tonale,2024,0.0,Hybrid gas/electric,[{'name': 'Premium Interior Package'}],All Wheel Drive,Hybrid,Black,Black,6-Speed Automatic,Ti
+710481672,ZASPATCW5R3048896,50795,Alfa Romeo,Tonale,2024,0.0,Hybrid gas/electric,[{'name': 'Premium Interior Package'}],All Wheel Drive,Hybrid,Blue,Black,6-Speed Automatic,Ti
+710454578,ZASPATDW1R3030796,50800,Alfa Romeo,Tonale,2024,17.0,Hybrid gas/electric,[{'name': 'Active Assist Package'}],All Wheel Drive,Hybrid,Blue,Unavail,6-Speed Automatic,Veloce
+710266591,ZASPAKBN8R7D71984,51500,Alfa Romeo,Stelvio,2024,5037.0,Gasoline,"[{'name': 'Premium Interior & Sound Package'}, {'name': 'Quick Order Package 22S Veloce'}]",All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,Veloce
+710481670,ZASPATCW6R3066145,52335,Alfa Romeo,Tonale,2024,0.0,Hybrid gas/electric,[{'name': 'Premium Interior Package'}],All Wheel Drive,Hybrid,Green,Black,6-Speed Automatic,Ti

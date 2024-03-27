@@ -14,60 +14,54 @@ const Body = () => {
                         <div className="col-sm-3">
                             <div className="well">
                                 <h4>Users</h4>
-                                <p>1 Million</p>
+                                <ScatterPlot />
                             </div>
                         </div>
                         <div className="col-sm-3">
                             <div className="well">
                                 <h4>Pages</h4>
-                                <p>100 Million</p>
+                                <ScatterPlot />
                             </div>
                         </div>
                         <div className="col-sm-3">
                             <div className="well">
                                 <h4>Sessions</h4>
-                                <p>10 Million</p>
+                                <ScatterPlot />
                             </div>
                         </div>
                         <div className="col-sm-3">
                             <div className="well">
                                 <h4>Bounce</h4>
-                                <p>30%</p>
+                                <ScatterPlot />
                             </div>
                         </div>
                     </div>
                     <div className="row">
                         <div className="col-sm-4">
                             <div className="well">
-                                <p>Text</p>
-                                <p>Text</p>
-                                <p>Text</p>
+                                <ScatterPlot />
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="well">
-                                <p>Text</p>
-                                <p>Text</p>
-                                <p>Text</p>
+                            <ScatterPlot />
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="well">
-                                <p>Text</p>
-                                <p>Text</p>
-                                <p>Text</p>
+                            <ScatterPlot />
                             </div>
                         </div>
                     </div>
                     <div className="row">
                         <div className="col-sm-8">
                             <div className="well">
-                                <p>Text</p>
+                            <ScatterPlot />
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="well">
-                                <p>Text</p>
+                            <ScatterPlot />
                             </div>
                         </div>
                     </div>

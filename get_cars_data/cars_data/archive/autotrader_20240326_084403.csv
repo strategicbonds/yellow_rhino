@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+707082968,WZ1DB0C03NW049562,59990,Toyota,Supra,2022,14938.0,Gasoline,[{'name': 'Driver Assist Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,White,Red,8-Speed Automatic,A91 Edition
+692921988,WZ1DB0G09PW054875,60000,Toyota,Supra,2023,3612.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Shiftable Automatic,Premium
+708024889,WZ1DB0G04PW058333,60874,Toyota,Supra,2023,10968.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Black,8-Speed Shiftable Automatic,Premium
+710504878,WZ1DB0G00RW066576,61224,Toyota,Supra,2024,10.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Shiftable Automatic,Not available
+705443642,WZ1DB0C06NW049751,61328,Toyota,Supra,2022,13019.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Not available
+710322939,WZ1DB0G02RW066367,61335,Toyota,Supra,2024,0.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,Premium
+708610341,WZ1DB0G00PW058216,61998,Toyota,Supra,2023,5099.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Shiftable Automatic,Premium
+688536567,WZ1DB0C01NW049284,62000,Toyota,Supra,2022,10000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,A91 Edition
+709468858,WZ1DB0G06PW054414,63307,Toyota,Supra,2023,9920.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Shiftable Automatic,Premium
+708140109,WZ1DB4C08LW021521,63950,Toyota,Supra,2020,3080.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Tan,8-Speed Automatic,Launch Edition
+703368938,WZ1DB0C09NW048979,64900,Toyota,Supra,2022,4706.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Not available
+709066768,WZ1DB0G03PW057402,64999,Toyota,Supra,2023,7609.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,6-Speed Manual,Premium
+703701056,WZ1DB0G09RW02AA18,68800,Toyota,Supra,2024,2.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,6-Speed Manual,Premium
+710366196,WZ1DB0C09NW046651,68988,Toyota,Supra,2022,12703.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Not available,Not available,8-Speed Automatic,A91 Edition
+682625873,WZ1DB0C03MW037829,69500,Toyota,Supra,2021,45000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,A91 Edition
+687839140,WZ1DB4C01LW029427,69999,Toyota,Supra,2020,5000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,Premium
+707584686,WZ1DB0G00PW055316,71690,Toyota,Supra,2023,6350.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Beige,6-Speed Manual,A91 Edition
+701468890,WZ1DB0G09RW062347,71999,Toyota,Supra,2024,534.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Not available,8-Speed Shiftable Automatic,Not available
+706606223,WZ1DB0G03PW055097,72541,Toyota,Supra,2023,5942.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Beige,6-Speed Manual,A91 Edition
+709650367,WZ1DB0G00PW055042,72997,Toyota,Supra,2023,10258.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Beige,6-Speed Manual,A91 Edition
+710176769,WZ1DB0G09RW063255,75000,Toyota,Supra,2024,783.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Orange,Black,8-Speed Automatic,Not available
+709599820,WZ1DB0G02RW063162,77500,Toyota,Supra,2024,714.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Orange,Black,8-Speed Shiftable Automatic,Not available
+707640378,WZ1DB0G05RW062720,77975,Toyota,Supra,2024,185.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Orange,Black,8-Speed Shiftable Automatic,Not available
+707450323,WZ1DB0G07RW063450,78500,Toyota,Supra,2024,215.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Orange,Black,8-Speed Shiftable Automatic,Not available
+684919445,WZ1DB4C05LW024263,79995,Toyota,Supra,2020,4348.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Premium

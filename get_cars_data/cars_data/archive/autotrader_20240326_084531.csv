@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+706075762,SCBCR73W57C041232,41000,Bentley,Continental,2007,29659.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Unavail,6-Speed Automatic,GT
+703864437,SCBLF34F45CX10863,41500,Bentley,Arnage,2005,30120.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Black,4-Speed Automatic,T
+705945956,SCBCR73W27C042791,42000,Bentley,Continental,2007,33350.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Red,Black,6-Speed Automatic,GT
+710268322,SCBCR63W24C022031,42490,Bentley,Continental,2004,18085.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Unavail,6-Speed Automatic,GT
+706728806,SCBDR33W47C044183,42900,Bentley,Continental,2007,64121.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Green,Brown,6-Speed Automatic,GTC
+705531614,SCBCR73W19C059889,43500,Bentley,Continental,2009,47210.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Black,6-Speed Automatic,GT
+690374113,SCBDR33W07C045637,44000,Bentley,Continental,2007,39000.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Brown,6-Speed Automatic,GTC
+694632312,SCBCR73W38C058256,45500,Bentley,Continental,2008,68000.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,White,Beige,6-Speed Automatic,GT
+710144586,SCBCR63W76C036686,45978,Bentley,Continental,2006,29650.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Green,Black,6-Speed Automatic,GT
+710049230,SCBDR33WX8C057005,45999,Bentley,Continental,2008,48635.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Tan,6-Speed Automatic,GTC
+682819176,SCBBR9ZAXAC062605,46999,Bentley,Flying Spur,2010,37000.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Gray,Gray,6-Speed Automatic,Flying Spur
+691805782,SCBCR73W67C046441,48230,Bentley,Continental,2007,47412.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Black,6-Speed Automatic,GT
+686499095,SCBCR63W86C036793,48500,Bentley,Continental,2006,18672.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Black,6-Speed Automatic,GT
+710342095,SCBLC47J07CX12210,49900,Bentley,Arnage,2007,41507.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Blue,Tan,6-Speed Automatic,R
+698464244,SCBBR9ZA8AC062571,49995,Bentley,Flying Spur,2010,24085.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Brown,Beige,6-Speed Automatic,Flying Spur
+709922907,SCBFR7ZA8CC070002,50995,Bentley,Continental,2012,75742.0,Flexible fuel,Not available,All Wheel Drive,12-Cylinder Turbo,Silver,Black,6-Speed Automatic,GT
+703501408,SCBLC47J78CX12836,51000,Bentley,Arnage,2008,39600.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Beige,6-Speed Automatic,R
+695509373,SCBEC9ZA8EC090827,54999,Bentley,Flying Spur,2014,51421.0,Flexible fuel,Not available,All Wheel Drive,12-Cylinder Turbo,Gray,Tan,8-Speed Automatic,Not available
+707356014,SCBFT7ZA3EC092123,55000,Bentley,Continental,2014,93700.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Silver,Beige,8-Speed Automatic,GT V8
+687633462,SCBCR73W47C048303,59000,Bentley,Continental,2007,16852.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Beige,Brown,6-Speed Automatic,GT
+700170770,SCBDR33W07C046982,60000,Bentley,Continental,2007,24000.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Black,6-Speed Automatic,GTC
+689899586,SCBBR9ZA2DC078348,63000,Bentley,Flying Spur,2013,29183.0,Flexible fuel,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Gold,6-Speed Automatic,Flying Spur
+708304483,SCBDP3ZA9AC062610,64500,Bentley,Continental,2010,10409.0,Gasoline,Not available,All Wheel Drive,12-Cylinder Turbo,Black,Tan,6-Speed Automatic,GTC Speed
+697468783,SCBFR7ZA1CC072741,65900,Bentley,Continental,2012,38500.0,Flexible fuel,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,White,6-Speed Automatic,GT
+699540292,SCBEC9ZA5EC091515,66500,Bentley,Flying Spur,2014,51821.0,Flexible fuel,Not available,All Wheel Drive,12-Cylinder Turbo,Blue,Brown,8-Speed Automatic,Not available

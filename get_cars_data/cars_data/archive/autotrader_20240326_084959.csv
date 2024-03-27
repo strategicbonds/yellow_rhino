@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710483014,WA1DKAFP3BA007084,6300,Audi,Q5,2011,177550.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Brown,Beige,6-Speed Automatic,3.2 Premium Plus
+710290367,WAUDH74F37N068515,6550,Audi,A6,2007,101500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Beige,Tan,6-Speed Automatic,3.2
+710370564,WA1LFAFP5BA072096,6900,Audi,Q5,2011,143000.0,Gasoline,"[{'name': 'Premium Plus Pkg'}, {'name': 'Audi MMI Navigation Plus Pkg'}]",All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,2.0T Premium Plus
+710237372,WAUFFAFL4CN003715,7495,Audi,A4,2012,141000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Tan,8-Speed Automatic,2.0T Premium Plus
+710531536,WAUKFBFL1CN012845,7900,Audi,A4,2012,116000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,2.0T Prestige
+710535148,WA1LFAFP1BA052766,9750,Audi,Q5,2011,105000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Brown,Beige,8-Speed Automatic,2.0T Premium Plus
+710249510,WAURGAFDXDN006266,9950,Audi,A8,2013,149000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Silver,Gray,8-Speed Automatic,L 3.0T
+710034540,WAUAFAFL7EN001907,10000,Audi,A4,2014,111483.0,Gasoline,[{'name': 'S Line Style Package'}],2 Wheel Drive - Front,4-Cylinder Turbo,White,Black,Continuously Variable Automatic,2.0T Premium
+710114514,WAUWFAFL0CA111790,11500,Audi,A4,2012,152732.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,2.0T Premium Plus
+710143239,WA1LFAFPXDA081718,11799,Audi,Q5,2013,112039.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Brown,8-Speed Automatic,2.0T Premium Plus
+710368295,WA1LMAFE8ED000882,11800,Audi,Q7,2014,123400.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,TDI Premium Plus
+710026414,WAUFFAFLXEA077084,12495,Audi,A4,2014,103105.0,Flexible fuel,[{'name': 'Premium Plus Package'}],All Wheel Drive,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,2.0T Premium Plus
+710509058,WAUVVAFR3AA039533,12500,Audi,S5,2010,110700.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Red,Black,6-Speed Automatic,Prestige
+710185615,WA1LFAFP8FA139005,12700,Audi,Q5,2015,108000.0,Flexible fuel,"[{'name': 'Technology Package'}, {'name': 'Premium Plus Package'}]",All Wheel Drive,4-Cylinder Turbo,Offwhite,Gray,8-Speed Automatic,2.0T Premium Plus
+710095523,WAUGGAFC7CN170376,13500,Audi,A6,2012,99000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Brown,Black,8-Speed Automatic,3.0T Premium Plus
+710076749,WAUBGAFL7CA111653,13600,Audi,S4,2012,112408.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Black,Black,7-Speed Automatic,Premium Plus
+710111309,WAULFAFR3EA061560,13995,Audi,A5,2014,98700.0,Gasoline,[{'name': 'Premium Plus Package'}],All Wheel Drive,4-Cylinder Turbo,Burgundy,Gray,8-Speed Automatic,2.0T Premium Plus
+710485211,WAUR2AFDXDN018724,14500,Audi,A8,2013,114089.0,Gasoline,"[{'name': 'Comfort Pkg'}, {'name': 'Cold Weather Pkg'}, {'name': 'Camera Assistance Pkg'}]",All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,L 4.0T
+710033143,WA1DECF32P1076761,34990,Audi,Q3,2023,20110.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Not available,8-Speed Automatic,2.0T Premium
+710403897,WA1LAAGE9MB001850,35994,Audi,e-tron,2021,27350.0,Electric,"[{'name': 'Premium Plus Package'}, {'name': 'Towing Package'}]",All Wheel Drive,Electric,Gray,Black,Single-Speed,Premium Plus
+710200300,WA1AVAF11KD011705,36997,Audi,Q8,2019,47251.0,Gasoline,[{'name': 'Convenience Package'}],All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Premium
+709935019,WA1EAAFY6P2028951,42591,Audi,Q5,2023,17685.0,Gasoline,"[{'name': 'Premium Plus Package'}, {'name': 'Navigation Package'}]",All Wheel Drive,4-Cylinder Turbo,White,Black,7-Speed Automatic,2.0T Premium Plus
+710060357,WAUFJBFW1N7007016,49888,Audi,e-tron GT,2022,12024.0,Electric,Not available,All Wheel Drive,Electric,Gray,Black,2-Speed Automatic,Premium Plus
+710128073,WA1LXBF79PD006479,57999,Audi,Q7,2023,15740.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,3.0T Premium Plus
+710227873,WA1CAAGE6RB049670,84225,Audi,Q8 e-tron,2024,19.0,Electric,Not available,All Wheel Drive,Electric,Gray,Black,Single-Speed,Premium Plus

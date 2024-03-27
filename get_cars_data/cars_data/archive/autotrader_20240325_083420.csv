@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710212566,WP0CA2980WU620511,7500,Porsche,Boxster,1998,133000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Not available
+709885416,WP0CA29841U623369,13500,Porsche,Boxster,2001,68263.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Gray,5-Speed Manual,Not available
+710468323,WP1AC29PX6LA91792,15000,Porsche,Cayenne,2006,184861.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,6-Speed Automatic,Turbo S
+710093263,WP0CB298X2U663308,17500,Porsche,Boxster,2002,41000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,S
+710106308,WP0CB29864S660470,17500,Porsche,Boxster,2004,75330.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Gray,Not available,S
+710373380,WP1AA2A28ELA02869,17500,Porsche,Cayenne,2014,87500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Black,8-Speed Automatic,Not available
+710377799,WP1AF2A29ELA30276,18900,Porsche,Cayenne,2014,140000.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Diesel
+710216120,WP0CA2961NS840555,20000,Porsche,968,1992,98977.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder,Gray,Tan,Not available,Cabriolet
+710237217,WP1AB2A5XFLB65810,23900,Porsche,Macan,2015,65400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,7-Speed Automatic,S
+710212666,WP0CA2960RS840570,26500,Porsche,968,1994,65900.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder,Silver,Beige,Not available,Cabriolet
+710124867,WP1AE2A20HLA69345,30580,Porsche,Cayenne,2017,50059.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Black,8-Speed Automatic,S
+709920613,WP1AA2A53MLB09174,44957,Porsche,Macan,2021,20703.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,7-Speed Automatic,Not available
+709972024,WP0AF2A70GL081956,45900,Porsche,Panamera,2016,55830.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,White,Black,7-Speed Automatic,GTS
+710155232,WP0CB2A87JS229210,59995,Porsche,718 Boxster,2018,77979.0,Gasoline,"[{'name': 'Premium Package Plus w/18-way Adaptive Sport Seats'}, {'name': 'Light Design Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,7-Speed Automatic,GTS
+710140003,WP1AG2A55NLB23108,71757,Porsche,Macan,2022,7498.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,7-Speed Automatic,S
+709935461,WP0AB2A92ES120997,78998,Porsche,911,2014,42710.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Blue,Beige,7-Speed Automatic,Carrera 4S
+709973048,WP0AJ2A74PL100474,89900,Porsche,Panamera,2023,17032.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Green,Black,8-Speed Automatic,Platinum Edition
+710060813,WP1AA2AY9RDA03467,92990,Porsche,Cayenne,2024,4061.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+710310972,WP0AC2A8XGK192554,115055,Porsche,Cayman,2016,10192.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,6-Speed Manual,GT4
+710140008,WP0AB2A92LS226153,153186,Porsche,911,2020,5066.0,Gasoline,"[{'name': 'Premium Package'}, {'name': 'Sport Chrono Package'}, {'name': '14-way Power Sport Seats w/Memory Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,Carrera 4S
+605344042,WP0AC2993TS375205,335000,Porsche,911,1996,32000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Beige,6-Speed Manual,Turbo
+699698877,WP0AC2A98NS270917,339999,Porsche,911,2022,3170.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Brown,Not available,GT3
+709939934,WP0AE2A92JS186046,438898,Porsche,911,2018,5109.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Unavail,7-Speed Automatic,GT2 RS
+680900099,WP0AE2A92JS185172,448800,Porsche,911,2018,3320.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,7-Speed Automatic,GT2 RS
+710301764,WP0AE2A90KS155332,489995,Porsche,911,2019,587.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Unavail,7-Speed Automatic,GT2 RS

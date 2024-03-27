@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709854173,WP0AB2A99CS120427,64900,Porsche,911,2012,60452.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Carrera S
+696733289,WP0AB2A94DS121535,64900,Porsche,911,2013,62334.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Gray,Not available,Carrera S
+694276984,WP0BB2A9XCS733113,64900,Porsche,911,2012,61000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,White,Beige,Not available,Targa 4S
+705418318,WP0CA2A80MS210487,64900,Porsche,718 Boxster,2021,6100.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Red,Not available,Not available
+708612192,WP0AB29989S721177,64900,Porsche,911,2009,47927.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Blue,Not available,Carrera S
+700185164,WP0CA2A91CS140585,64950,Porsche,911,2012,96000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Red,Black,Not available,Carrera
+710026569,WP1AA2A55PLB20522,64988,Porsche,Macan,2023,3855.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Brown,7-Speed Automatic,Not available
+705787598,WP0AA2A79JL113759,64990,Porsche,Panamera,2018,31681.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,4
+710055559,WP0AA2A72LL103366,64991,Porsche,Panamera,2020,28791.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gold,Black,8-Speed Automatic,4
+709490137,WP0AB2Y11LSA50487,64995,Porsche,Taycan,2020,41165.0,Electric,"[{'name': 'Premium Package'}, {'name': 'Performance Package'}, {'name': '14-way Power Seats w/Memory Package'}, {'name': 'Sport Chrono Package'}, {'name': 'Storage Package'}]",All Wheel Drive,Electric,Gray,Not available,2-Speed Automatic,4S
+710309307,WP1AG2A51NLB24062,64995,Porsche,Macan,2022,13301.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,7-Speed Automatic,S
+707826124,WP0CB2A98DS154871,64999,Porsche,911,2013,75000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,7-Speed Automatic,Carrera S
+681785374,WP0CB2A93BS754761,65000,Porsche,911,2011,76500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Black,Not available,Carrera GTS
+688065886,WP0CA2A86HS220947,65000,Porsche,718 Boxster,2017,14000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Red,Not available,Not available
+692465349,WP0AB2A72HL121578,65000,Porsche,Panamera,2017,43500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,4S
+684365028,WP0AA2A94ES106621,65350,Porsche,911,2014,43200.0,Gasoline,Not available,Not available,6-Cylinder,Black,Black,Not available,Carrera
+704334467,WP1AA2AY0NDA04288,65500,Porsche,Cayenne,2022,36000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Beige,8-Speed Automatic,Platinum Edition
+693780475,WP0AB29972S687142,65900,Porsche,911,2002,50038.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,Not available,Turbo
+710435707,WP1AA2A5XPLB06227,65991,Porsche,Macan,2023,10385.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,7-Speed Automatic,Not available
+699080544,WP0AA2A70JL121443,65999,Porsche,Panamera,2018,28000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,4
+693257048,WP0AA2Y11MSA18014,65999,Porsche,Taycan,2021,28000.0,Electric,Not available,2 Wheel Drive - Rear,Electric,Burgundy,Black,2-Speed Automatic,Not available
+706102935,WP0AB2A95BS720957,65999,Porsche,911,2011,37599.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Carrera S
+710185731,WP0AC2A75EL073289,66000,Porsche,Panamera,2014,34544.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,White,Red,7-Speed Automatic,Turbo
+689998370,WP1AC2A26GLA86431,66000,Porsche,Cayenne,2016,64255.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Beige,8-Speed Automatic,Turbo S
+683204006,WP0AB2A96CS121552,66000,Porsche,911,2012,46712.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Gray,Not available,Carrera S

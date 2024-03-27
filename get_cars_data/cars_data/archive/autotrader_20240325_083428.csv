@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709883914,WAUML44E74N021164,4500,Audi,A8,2004,119000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,Black,Tan,6-Speed Automatic,L 4.2
+710483014,WA1DKAFP3BA007084,6300,Audi,Q5,2011,177550.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Brown,Beige,6-Speed Automatic,3.2 Premium Plus
+710290367,WAUDH74F37N068515,6550,Audi,A6,2007,101500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Beige,Tan,6-Speed Automatic,3.2
+710370564,WA1LFAFP5BA072096,6900,Audi,Q5,2011,143000.0,Gasoline,"[{'name': 'Premium Plus Pkg'}, {'name': 'Audi MMI Navigation Plus Pkg'}]",All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,2.0T Premium Plus
+709918677,WAUKJAFM5BA017201,6950,Audi,A3,2011,152370.0,Diesel,Not available,2 Wheel Drive - Front,4-Cylinder Turbo,White,Black,6-Speed Automatic,TDI Premium Plus
+710237372,WAUFFAFL4CN003715,7495,Audi,A4,2012,141000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Tan,8-Speed Automatic,2.0T Premium Plus
+709896802,WA1LKAFP7AA042317,9100,Audi,Q5,2010,166157.0,Gasoline,[{'name': 'Premium Plus Pkg'}],All Wheel Drive,6-Cylinder,Red,Black,6-Speed Automatic,3.2 Premium Plus
+710249510,WAURGAFDXDN006266,9950,Audi,A8,2013,149000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Silver,Gray,8-Speed Automatic,L 3.0T
+710034540,WAUAFAFL7EN001907,10000,Audi,A4,2014,111483.0,Gasoline,[{'name': 'S Line Style Package'}],2 Wheel Drive - Front,4-Cylinder Turbo,White,Black,Continuously Variable Automatic,2.0T Premium
+710114514,WAUWFAFL0CA111790,11500,Audi,A4,2012,152732.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,2.0T Premium Plus
+709876546,TRUTC28N321042164,11500,Audi,TT,2002,66000.0,Gasoline,Not available,2 Wheel Drive - Front,4-Cylinder Turbo,Silver,Gray,5-Speed Manual,1.8T
+710143239,WA1LFAFPXDA081718,11799,Audi,Q5,2013,112039.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Brown,8-Speed Automatic,2.0T Premium Plus
+710368295,WA1LMAFE8ED000882,11800,Audi,Q7,2014,123400.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,TDI Premium Plus
+710026414,WAUFFAFLXEA077084,12495,Audi,A4,2014,103105.0,Flexible fuel,[{'name': 'Premium Plus Package'}],All Wheel Drive,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,2.0T Premium Plus
+710185615,WA1LFAFP8FA139005,12700,Audi,Q5,2015,108000.0,Flexible fuel,"[{'name': 'Technology Package'}, {'name': 'Premium Plus Package'}]",All Wheel Drive,4-Cylinder Turbo,Offwhite,Gray,8-Speed Automatic,2.0T Premium Plus
+710095523,WAUGGAFC7CN170376,13500,Audi,A6,2012,99000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Brown,Black,8-Speed Automatic,3.0T Premium Plus
+710076749,WAUBGAFL7CA111653,13600,Audi,S4,2012,112408.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Black,Black,7-Speed Automatic,Premium Plus
+710111309,WAULFAFR3EA061560,13995,Audi,A5,2014,98700.0,Gasoline,[{'name': 'Premium Plus Package'}],All Wheel Drive,4-Cylinder Turbo,Burgundy,Gray,8-Speed Automatic,2.0T Premium Plus
+710485211,WAUR2AFDXDN018724,14500,Audi,A8,2013,114089.0,Gasoline,"[{'name': 'Comfort Pkg'}, {'name': 'Cold Weather Pkg'}, {'name': 'Camera Assistance Pkg'}]",All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,L 4.0T
+710235458,WAUB8GFF4G1049886,14500,Audi,A3,2016,75000.0,Gasoline,"[{'name': 'Season Of Audi Package - 18"" Wheels'}]",All Wheel Drive,4-Cylinder Turbo,Gray,Black,6-Speed Automatic,2.0T Premium
+709965337,WAUJGAFC7DN049077,14500,Audi,A6,2013,84500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Supercharged,Black,Beige,8-Speed Automatic,3.0T Prestige
+709892954,WAUCFAFH0EN007245,14900,Audi,A5,2014,72763.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,2.0T Premium
+710117753,WAURMAFD4EN002580,14900,Audi,A8,2014,166000.0,Diesel,"[{'name': 'Premium Package'}, {'name': 'Driver Assistance Package'}, {'name': 'Panorama Sunroof Package'}, {'name': 'Cold Weather Package'}]",All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,L TDI
+710370826,WA1CMBFP4EA106531,14900,Audi,Q5,2014,182472.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,White,Tan,8-Speed Automatic,TDI Premium Plus
+709926387,WA1BVAF12MD013650,55981,Audi,Q8,2021,18327.0,Gasoline,"[{'name': 'Premium Plus Package'}, {'name': 'Executive Package'}, {'name': 'Towing Package'}]",All Wheel Drive,6-Cylinder Turbo,Not available,Black,8-Speed Automatic,Premium Plus

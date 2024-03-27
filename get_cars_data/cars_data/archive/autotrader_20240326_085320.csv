@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+700415973,WP0CB2A97AS754230,69900,Porsche,911,2010,27300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,White,Brown,Not available,Carrera 4S
+682568276,WP0CD29938S788609,69900,Porsche,911,2008,51450.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Brown,Not available,Turbo
+685451577,WP0AC2A76EL073477,69900,Porsche,Panamera,2014,20453.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Tan,7-Speed Automatic,Turbo
+709184350,WP1AA2A50PLB01084,69950,Porsche,Macan,2023,9123.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,7-Speed Automatic,Not available
+710135791,WP1AA2A58PLB21633,69970,Porsche,Macan,2023,6231.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,7-Speed Automatic,Not available
+710326987,WP1AA2A53RLB00255,69981,Porsche,Macan,2024,3482.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,7-Speed Automatic,Not available
+710373817,WP1AA2A58RLB03121,69988,Porsche,Macan,2024,4887.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Red,Brown,7-Speed Automatic,Not available
+710037911,WP1AG2A57PLB38874,69990,Porsche,Macan,2023,9879.0,Gasoline,[{'name': 'Smoking Package'}],All Wheel Drive,6-Cylinder Turbo,Blue,Black,7-Speed Automatic,S
+707977962,WP0AJ2A73ML112899,69994,Porsche,Panamera,2021,18799.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Gray,8-Speed Automatic,4
+706691352,WP1AB2A52MLB33009,69995,Porsche,Macan,2021,10800.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Red,7-Speed Automatic,S
+697971068,WP0AB2A90BS720414,69995,Porsche,911,2011,38500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Orange,Not available,Carrera 4S
+688175548,WP0AA2A97BS706156,69997,Porsche,911,2011,24069.0,Gasoline,Not available,Not available,6-Cylinder,Silver,Black,Manual,Coupe
+710135047,WP1AB2AY2MDA27020,69998,Porsche,Cayenne,2021,24361.0,Gasoline,"[{'name': 'Premium Package'}, {'name': '14-way Power Seats w/Memory Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,S
+709174306,WP0CA2A89MS210360,69999,Porsche,718 Boxster,2021,20126.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Silver,Black,6-Speed Manual,Not available
+707038622,WP0CB2A87HS241786,69999,Porsche,718 Boxster,2017,6964.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Silver,Gray,Not available,S
+684984834,WP0AA2A83LS260158,69999,Porsche,718 Cayman,2020,15.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,Manual,Not available
+695998009,WP1BA2AY4MDA40424,69999,Porsche,Cayenne,2021,22121.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Beige,Black,8-Speed Automatic,Coupe
+710331616,WP0AA2A74LL104258,69999,Porsche,Panamera,2020,28020.0,Gasoline,[{'name': 'Premium Package Plus'}],All Wheel Drive,6-Cylinder Turbo,Black,Beige,8-Speed Automatic,4
+706620140,WP0AA2Y14MSA14247,70000,Porsche,Taycan,2021,21400.0,Electric,Not available,2 Wheel Drive - Rear,Electric,Gray,Red,2-Speed Automatic,Not available
+691587616,WP0AE2A75JL127632,70000,Porsche,Panamera,2018,29300.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Blue,Beige,8-Speed Automatic,4 E-Hybrid
+710026566,WP1AA2A53PLB20440,70288,Porsche,Macan,2023,3260.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,7-Speed Automatic,Not available
+708981760,WP0CB2A80GS140653,70500,Porsche,Boxster,2016,15985.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Black,Not available,GTS
+710135780,WP1AA2A5XRLB02939,70850,Porsche,Macan,2024,5831.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Brown,7-Speed Automatic,Not available
+706897247,WP0AA2Y17NSA13756,70990,Porsche,Taycan,2022,18000.0,Electric,Not available,2 Wheel Drive - Rear,Electric,Black,Black,2-Speed Automatic,Not available
+710238075,WP0AA2A7XLL102496,70994,Porsche,Panamera,2020,25433.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available

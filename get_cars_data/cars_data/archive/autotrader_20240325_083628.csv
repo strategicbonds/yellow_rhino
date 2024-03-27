@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+690394353,WP0CA29901S653182,60000,Porsche,911,2001,44390.0,Gasoline,Not available,Not available,6-Cylinder,Black,Black,Not available,Cabriolet
+702103546,WP1AE2AY8LDA22636,60000,Porsche,Cayenne,2020,31231.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Unavail,8-Speed Automatic,E-Hybrid
+707314790,WP0AA2A90AS706322,60000,Porsche,911,2010,54000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,6-Speed Manual,Carrera
+709888890,WP1AA2AY6NDA05672,60069,Porsche,Cayenne,2022,42378.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Tan,8-Speed Automatic,Platinum Edition
+710373444,WP0AB2A80HS285555,60500,Porsche,718 Cayman,2017,20333.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Red,Not available,S
+709915899,WP1AA2A52PLB21918,60991,Porsche,Macan,2023,4988.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,7-Speed Automatic,Not available
+709581017,WP0AA2A97FS100152,61000,Porsche,911,2015,49161.0,Gasoline,Not available,Not available,6-Cylinder,Blue,Beige,Not available,Carrera
+705894859,WP0CA2A81MS210157,61000,Porsche,718 Boxster,2021,8201.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,Not available,Not available
+703495415,WP0CB2A92BS754458,61555,Porsche,911,2011,60100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Black,Not available,Carrera 4S
+710131706,WP1AA2A50PLB11016,61749,Porsche,Macan,2023,2149.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Brown,7-Speed Automatic,Not available
+710365769,WP1AA2AY9MDA05244,61789,Porsche,Cayenne,2021,23707.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+700204727,WP1AA2A55PLB03851,61900,Porsche,Macan,2023,15600.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Red,7-Speed Automatic,Not available
+709995120,WP1AG2A52MLB51625,61962,Porsche,Macan,2021,26148.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,7-Speed Automatic,GTS
+710228042,WP1BA2AY8MDA41947,61995,Porsche,Cayenne,2021,32692.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Coupe
+686684871,WP0BC2A73EL077037,61999,Porsche,Panamera,2014,33779.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Red,7-Speed Automatic,Turbo Executive
+708916910,WP1BA2AY1LDA46468,62000,Porsche,Cayenne,2020,37600.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+710099393,WP1AE2AY6LDA22831,62000,Porsche,Cayenne,2020,76580.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Red,8-Speed Automatic,E-Hybrid
+694692239,WP0CA2A82KS210987,62000,Porsche,718 Boxster,2019,15122.0,Gasoline,"[{'name': 'Black/Bordeaux Red, Two-Tone Partial Leather Seat Trim w/Leather Pkg'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Red,7-Speed Automatic,Not available
+701165754,WP0AB2A78JL199126,62000,Porsche,Panamera,2018,47800.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,4S
+693223087,WP0AA2A83JK261260,62000,Porsche,718 Cayman,2018,1555.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Black,Not available,Not available
+705175048,WP0AD29927S784542,62000,Porsche,911,2007,72290.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,Not available,Turbo
+708862449,WP1AA2A58PLB18604,62400,Porsche,Macan,2023,5270.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,7-Speed Automatic,Not available
+708082748,WP1AF2A51JLB71153,62499,Porsche,Macan,2018,29000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,7-Speed Automatic,Turbo
+658869022,WP0AC2A73EL073369,62500,Porsche,Panamera,2014,15500.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,7-Speed Automatic,Turbo
+675342356,WP0AA29979S706091,62500,Porsche,911,2009,19950.0,Gasoline,Not available,Not available,6-Cylinder,White,Gray,Not available,Coupe

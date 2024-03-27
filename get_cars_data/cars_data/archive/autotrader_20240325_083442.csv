@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710042141,WP0AB2A90KS115647,145991,Porsche,911,2019,6968.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,Not available,Carrera GTS
+703973903,WP0AC2A89PS275277,146500,Porsche,718 Cayman,2023,8350.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Black,Not available,GT4
+703763637,WP0AC2A97FS184029,147000,Porsche,911,2015,10600.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,7-Speed Automatic,GT3
+664394355,WP0AD2A94ES166891,148000,Porsche,911,2014,9490.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Red,7-Speed Automatic,Turbo S
+677231044,WP0AC2Y17NSA54270,148888,Porsche,Taycan,2022,9888.0,Electric,Not available,All Wheel Drive,Electric,Offwhite,Red,2-Speed Automatic,Turbo S
+709731121,WP0AC2A91ES183389,148900,Porsche,911,2014,19895.0,Gasoline,"[{'name': 'Carbon Interior Package'}, {'name': 'Sport Chrono Package'}]",2 Wheel Drive - Rear,6-Cylinder,White,Black,7-Speed Automatic,GT3
+699117054,WP0AD2A98FS160089,149000,Porsche,911,2015,16000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,7-Speed Automatic,Turbo S
+700938994,WP1AF2AYXPDA20177,149000,Porsche,Cayenne,2023,22000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Turbo
+700050669,WP0AD2A93JS156234,149800,Porsche,911,2018,20945.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,7-Speed Automatic,4 Coupe
+709466297,WP0BB2A93KS125478,149900,Porsche,911,2019,6200.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,Not available,Not available
+695174033,WP0AC2A89PS275425,149900,Porsche,718 Cayman,2023,430.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,GT4
+706737850,WP0AC2A86MS289438,149999,Porsche,718 Cayman,2021,1312.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Black,Manual,GT4
+695818792,WP0AC2A90FS183482,151000,Porsche,911,2015,11720.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,7-Speed Automatic,GT3
+710160492,WP0CB2A97MS248112,152000,Porsche,911,2021,5366.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Black,Not available,Carrera S
+709938671,WP0AB2A9XMS221543,152995,Porsche,911,2021,6595.0,Gasoline,"[{'name': 'Sport Package'}, {'name': 'Premium Package'}, {'name': '18-way Adaptive Sport Seats Plus w/Memory Package'}, {'name': 'Sport Chrono Package'}]",All Wheel Drive,6-Cylinder Turbo,Blue,Gray,8-Speed Automatic,Carrera 4S
+692728379,WP0CD2A94HS178701,153000,Porsche,911,2017,9590.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Offwhite,Gray,7-Speed Automatic,Turbo
+709453997,WP0BB2A94KS125666,153500,Porsche,911,2019,17444.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,Not available,Targa 4 GTS
+698939922,WP0CA2A92PS238269,154900,Porsche,911,2023,1600.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Silver,Beige,8-Speed Automatic,Carrera
+707775472,WP0AC2Y18NSA54679,155000,Porsche,Taycan,2022,5750.0,Electric,Not available,All Wheel Drive,Electric,Offwhite,Gray,2-Speed Automatic,Turbo S
+705554877,WP0CD2A97HS178630,155100,Porsche,911,2017,17214.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Burgundy,7-Speed Automatic,Turbo S
+693483121,WP0AC2A97FS183656,156000,Porsche,911,2015,8500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Black,7-Speed Automatic,GT3
+709938678,WP0CB2A96MS248621,157000,Porsche,911,2021,13665.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Brown,Not available,Carrera 4S
+686012055,WP0AC2A96ES183100,157500,Porsche,911,2014,25603.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Red,Black,7-Speed Automatic,GT3
+709243446,WP0AD2A99JS156822,159000,Porsche,911,2018,28500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,7-Speed Automatic,Turbo S
+678908598,WP0CA2A93NS236964,159000,Porsche,911,2022,8000.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Green,Beige,8-Speed Automatic,Carrera

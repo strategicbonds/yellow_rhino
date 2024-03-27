@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+697955962,WP0BB2A91NS231559,185000,Porsche,911,2022,3950.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,Not available,Not available
+709348749,WP0AC2A96KS149282,188980,Porsche,911,2019,9300.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,Not available,GT3
+710351177,WP0BB2A93KS125867,189995,Porsche,911,2019,4510.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,Not available,Carrera 4 GTS
+686112444,WP0BB2A90MS235987,189999,Porsche,911,2021,1122.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Red,Not available,Not available
+701789489,WP0BB2A93MS235157,190500,Porsche,911,2021,6200.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Green,Brown,Not available,Not available
+700818380,WP0AB2A98PS222002,195000,Porsche,911,2023,950.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Blue,Black,Not available,Coupe
+695719945,WP0AB2A96NS221461,197500,Porsche,911,2022,2583.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Orange,Black,Not available,Carrera 4 GTS
+708723325,WP0AD2A93HS166126,198999,Porsche,911,2017,17600.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,7-Speed Automatic,4 Coupe
+708397813,WP0CB2A9XPS247587,203990,Porsche,911,2023,7800.0,Gasoline,"[{'name': 'Sportdesign Package in High Gloss Black'}, {'name': 'Sport Package'}, {'name': 'Premium Package'}, {'name': '18-way Adaptive Sport Seats Plus w/Memory Package'}, {'name': 'Sport Chrono Package'}]",All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Carrera 4S
+709159436,WP0BB2A96MS235508,209980,Porsche,911,2021,12765.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Unavail,Red,Not available,Targa 4S
+703400073,WP0AB2A99RS218186,215000,Porsche,911,2024,3100.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Blue,Black,Not available,Coupe
+709781817,WP0CD2A97PS263448,220000,Porsche,911,2023,14000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Turbo S
+707887009,WP0BB2A91NS231089,220000,Porsche,911,2022,5000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,7-Speed Manual,Targa 4S
+692333589,WP0AC2A91AS783288,220000,Porsche,911,2010,15458.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,6-Speed Manual,Coupe
+702734332,WP0AD2A96MS257689,220000,Porsche,911,2021,19800.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Turbo S
+709592703,WP0AF2A99KS164639,225900,Porsche,911,2019,18000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Green,Black,7-Speed Automatic,GT3 RS
+709938669,WP0CB2A99PS247225,230970,Porsche,911,2023,620.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,Not available,Carrera 4 GTS
+693426865,WP0AF2A94KS165584,231000,Porsche,911,2019,9603.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Green,Green,7-Speed Automatic,GT3 RS
+709797881,WP0AD2A90MS257476,235900,Porsche,911,2021,17122.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Turbo S
+691596954,WP0CD2A96MS263503,236900,Porsche,911,2021,16668.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Turbo S
+710150653,WP0AD2A96MS258390,236992,Porsche,911,2021,1547.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Blue,8-Speed Automatic,Turbo S
+704159800,WP0AC2A98JS175459,239000,Porsche,911,2018,4600.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Black,Not available,GT3
+690079709,WP0CD2A96MS263310,239000,Porsche,911,2021,3700.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Turbo S
+705887998,WP0AF2A96KS165585,240000,Porsche,911,2019,16500.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,7-Speed Automatic,GT3 RS
+710044819,WP0AD2A92NS254368,241992,Porsche,911,2022,8699.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Turbo S

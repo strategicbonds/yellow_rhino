@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710212566,WP0CA2980WU620511,7500,Porsche,Boxster,1998,133000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Not available
+710468323,WP1AC29PX6LA91792,15000,Porsche,Cayenne,2006,184861.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,6-Speed Automatic,Turbo S
+710508090,WP1AA2A21GKA13219,17050,Porsche,Cayenne,2016,113264.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Gray,Black,8-Speed Automatic,Not available
+710106308,WP0CB29864S660470,17500,Porsche,Boxster,2004,75330.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Gray,Not available,S
+710093263,WP0CB298X2U663308,17500,Porsche,Boxster,2002,41000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,S
+710373380,WP1AA2A28ELA02869,17500,Porsche,Cayenne,2014,87500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Black,8-Speed Automatic,Not available
+710511903,WP0CA29854S620061,18500,Porsche,Boxster,2004,55739.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Silver,Black,Not available,Not available
+710377799,WP1AF2A29ELA30276,18900,Porsche,Cayenne,2014,140000.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Diesel
+710216120,WP0CA2961NS840555,20000,Porsche,968,1992,98977.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder,Gray,Tan,Not available,Cabriolet
+710505440,WP0CA2992XS654679,23000,Porsche,911,1999,133620.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder,Silver,Silver,Not available,Carrera 4
+710237217,WP1AB2A5XFLB65810,23900,Porsche,Macan,2015,65400.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,7-Speed Automatic,S
+710517939,WP0AB29867U781080,25000,Porsche,Cayman,2007,116722.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Beige,Not available,S
+710212666,WP0CA2960RS840570,26500,Porsche,968,1994,65900.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder,Silver,Beige,Not available,Cabriolet
+710212568,WP1AB2A54GLB42170,26900,Porsche,Macan,2016,72500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,7-Speed Automatic,S
+710243186,WP1AA2A25GLA02556,26999,Porsche,Cayenne,2016,71000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,White,Red,8-Speed Automatic,Not available
+710030045,WP1AG2A53HLB52109,27995,Porsche,Macan,2017,100200.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,7-Speed Automatic,GTS
+710508753,WP1AG2A51HLB50021,28750,Porsche,Macan,2017,110000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,7-Speed Automatic,GTS
+710292638,WP1AF2A59HLB61125,29500,Porsche,Macan,2017,89080.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Red,7-Speed Automatic,Turbo
+710522167,WP1AC2A2XFLA81828,29995,Porsche,Cayenne,2015,99927.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,White,Red,8-Speed Automatic,Turbo
+710216714,WP0AB2A76CL062138,31500,Porsche,Panamera,2012,57700.0,Gasoline,Not available,All Wheel Drive,8-Cylinder,White,Black,7-Speed Automatic,4S
+710541215,WP1AA2A5XJLB09572,31500,Porsche,Macan,2018,41500.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Gray,7-Speed Automatic,Sport Edition
+709973048,WP0AJ2A74PL100474,89900,Porsche,Panamera,2023,17032.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Green,Black,8-Speed Automatic,Platinum Edition
+710310972,WP0AC2A8XGK192554,115055,Porsche,Cayman,2016,10192.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,6-Speed Manual,GT4
+710140008,WP0AB2A92LS226153,153186,Porsche,911,2020,5066.0,Gasoline,"[{'name': 'Premium Package'}, {'name': 'Sport Chrono Package'}, {'name': '14-way Power Sport Seats w/Memory Package'}]",All Wheel Drive,6-Cylinder Turbo,Black,Brown,8-Speed Automatic,Carrera 4S
+710534935,WP0AC2A93NS268119,258995,Porsche,911,2022,2348.0,Gasoline,[{'name': 'Chrono Package w/Preparation For Lap Trigger'}],2 Wheel Drive - Rear,6-Cylinder,Unavail,Black,7-Speed Automatic,GT3

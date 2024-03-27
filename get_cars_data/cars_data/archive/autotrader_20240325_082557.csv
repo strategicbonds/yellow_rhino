@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709908355,WBAUN93518VE94513,15000,BMW,135i,2008,62511.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Beige,Not available,Convertible
+710007430,WBA3C1C58FK120690,15000,BMW,328i,2015,67000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,Not available,Sedan
+710292699,WBA3A5C56DF352109,15149,BMW,328i,2013,63604.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Charcoal,Beige,8-Speed Automatic,Sedan
+709906841,WBAYF4C52DD127425,15250,BMW,740Li,2013,78300.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+710369410,WBA4B1C56FG241146,15500,BMW,435i Gran Coupe,2015,112250.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+710112400,5UXZW0C55D0B94433,15500,BMW,X5,2013,89043.0,Diesel,Not available,All Wheel Drive,6-Cylinder Turbo,Offwhite,Gray,6-Speed Automatic,xDrive35d
+710147483,WBY1Z4C57GV508129,15800,BMW,i3,2016,58052.0,Hybrid gas/electric,[{'name': 'Range Extender'}],2 Wheel Drive - Rear,Hybrid,Orange,Beige,Single-Speed,w/ Range Extender
+709883911,WBA3K5C57EKT33459,15900,BMW,328d xDrive,2014,121400.0,Diesel,Not available,All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Wagon
+710368964,WBA3C1C51FP852954,15998,BMW,328i,2015,60970.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,Not available,Sedan
+710449545,WBA1G9C56GV599315,16000,BMW,228i xDrive,2016,88500.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Blue,Black,8-Speed Automatic,Coupe
+709907884,WBA8E1G56JNU89808,16000,BMW,320i,2018,52000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Tan,8-Speed Automatic,Sedan
+710371515,WBA5A5C55GG350598,16500,BMW,528i,2016,73581.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,8-Speed Automatic,Sedan
+710011702,WBA4J1C52JBA30036,16750,BMW,430i Gran Coupe,2018,1.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Tan,8-Speed Automatic,Not available
+710106097,WBA8E9G56GNU29440,17499,BMW,328i,2016,70200.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Sedan
+709900372,WBA3R1C57EK191635,17500,BMW,435i,2014,102400.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,Not available,Coupe
+710369145,5UXWX9C59H0T01880,17990,BMW,X3,2017,66000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Tan,8-Speed Automatic,xDrive28i
+710124966,WBXHT3C31J5L29251,17995,BMW,X1,2018,55000.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,8-Speed Automatic,xDrive28i
+710331511,5UXWZ7C31H0V94168,18500,BMW,X3,2017,76167.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Beige,8-Speed Automatic,sDrive28i
+709967805,WBALX3C52CDV77513,18500,BMW,650i,2012,74000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,White,Brown,Not available,Coupe
+710007412,WBXHT3C38GP881049,18500,BMW,X1,2016,116777.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,xDrive28i
+709907277,5UXWX7C53E0E79500,18800,BMW,X3,2014,28157.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,xDrive35i
+710075500,WBA4F7C54HG437628,18900,BMW,430i Gran Coupe,2017,68523.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+709973071,WBA5B3C58GG257561,18900,BMW,535i xDrive,2016,98900.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,Sedan
+710371346,WBXHT3C38G5E53822,18995,BMW,X1,2016,71928.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Brown,Tan,8-Speed Automatic,xDrive28i
+709974503,WBSDX9C55BE584449,19000,BMW,M3,2011,150000.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Gray,Black,Not available,Convertible

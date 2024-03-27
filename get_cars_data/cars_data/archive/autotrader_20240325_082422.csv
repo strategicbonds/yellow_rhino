@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710177642,WZ1DB2C06MW039165,39996,Toyota,Supra,2021,31672.0,Gasoline,[{'name': 'Safety & Technology Package'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+710241663,WZ1DB4C00LW028219,47955,Toyota,Supra,2020,39487.0,Gasoline,[{'name': 'Driver Assist Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,Premium
+709961231,WZ1DB0C09MW044154,48995,Toyota,Supra,2021,28017.0,Gasoline,[{'name': 'Driver Assist Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Premium
+710018572,WZ1DB4C04LW024836,48999,Toyota,Supra,2020,10763.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+710347051,WZ1DB0C02MW042777,49892,Toyota,Supra,2021,25648.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Not available,8-Speed Automatic,Premium
+710385128,WZ1DB0C03MW040732,49904,Toyota,Supra,2021,29671.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Premium
+709950872,WZ1DB0C0XNW047033,49999,Toyota,Supra,2022,32013.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Premium
+710195750,WZ1DB0C00MW043930,49999,Toyota,Supra,2021,30733.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,Premium
+709923519,WZ1DB4C01LW021134,50990,Toyota,Supra,2020,22293.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Red,8-Speed Automatic,Not available
+710010408,WZ1DB4C06LW029407,51774,Toyota,Supra,2020,13974.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Not available
+710297578,WZ1DB0C04MW039377,51850,Toyota,Supra,2021,33402.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Yellow,Black,8-Speed Automatic,Premium
+710144294,WZ1DB0C05MW039517,52020,Toyota,Supra,2021,19654.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Yellow,Black,8-Speed Automatic,Not available
+710044282,WZ1DB0C06MW036884,52995,Toyota,Supra,2021,17156.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,A91 Edition
+710214046,WZ1DB0G08RW064980,61175,Toyota,Supra,2024,8.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,Premium
+710106123,WZ1DB0G07RW063903,70892,Toyota,Supra,2024,30.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Not available,6-Speed Manual,Premium
+710106107,WZ1DB0G09RW063479,75992,Toyota,Supra,2024,301.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Orange,Not available,8-Speed Automatic,Premium
+684919445,WZ1DB4C05LW024263,79995,Toyota,Supra,2020,4348.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Premium
+707640269,JT2JA82J5P0002593,92800,Toyota,Supra,1993,87270.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,4-Speed Automatic,Turbo
+699943820,WZ1DB4C09LW020605,109000,Toyota,Supra,2020,10.0,Gasoline,[{'name': 'Driver Assist Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,White,Red,8-Speed Automatic,Launch Edition
+702001150,JT2JA82J4R0022031,109800,Toyota,Supra,1994,105662.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,6-Speed Manual,Turbo
+688117029,WZ1DB0C07NW046728,111698,Toyota,Supra,2022,407.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Red,8-Speed Automatic,A91 Edition
+702631270,JT2DE82AXT0034418,112800,Toyota,Supra,1996,43014.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,4-Speed Automatic,Turbo
+673176391,JT2JA82J4S0029499,129899,Toyota,Supra,1995,68402.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,Automatic,Turbo
+645345004,JT2JA82J0R0013889,142800,Toyota,Supra,1994,31024.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Tan,6-Speed Manual,Turbo
+631721119,JT2DE82A4V1000777,179800,Toyota,Supra,1997,28403.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Unavail,6-Speed Manual,Turbo

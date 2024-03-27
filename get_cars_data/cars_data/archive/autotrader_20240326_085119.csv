@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710553823,WP1AA2A23GKA10094,19998,Porsche,Cayenne,2016,108048.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,White,Beige,8-Speed Automatic,Not available
+710124867,WP1AE2A20HLA69345,30580,Porsche,Cayenne,2017,50059.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,White,Black,8-Speed Automatic,S
+709920613,WP1AA2A53MLB09174,44957,Porsche,Macan,2021,20703.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Gray,Black,7-Speed Automatic,Not available
+710401135,WP0AA29948S710632,49900,Porsche,911,2008,54293.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Not available,Not available,Carrera 4
+710155232,WP0CB2A87JS229210,58995,Porsche,718 Boxster,2018,77979.0,Gasoline,"[{'name': 'Premium Package Plus w/18-way Adaptive Sport Seats'}, {'name': 'Light Design Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,7-Speed Automatic,GTS
+710461423,WP0CA2A83MS210337,69718,Porsche,718 Boxster,2021,11501.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Unavail,7-Speed Shiftable Automatic,Not available
+710140003,WP1AG2A55NLB23108,71757,Porsche,Macan,2022,7498.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,7-Speed Automatic,S
+710292966,WP1AF2AY3KDA80438,75800,Porsche,Cayenne,2019,23857.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Blue,Not available,8-Speed Automatic,Turbo
+709935461,WP0AB2A92ES120997,78998,Porsche,911,2014,42710.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Blue,Beige,7-Speed Automatic,Carrera 4S
+710060813,WP1AA2AY9RDA03467,92990,Porsche,Cayenne,2024,4061.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+710421489,WP0CD2A98NS260331,279800,Porsche,911,2022,5070.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Green,Blue,8-Speed Automatic,Turbo S
+710000316,WP0AD2A98PS257780,280000,Porsche,911,2023,2356.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Shiftable Automatic,Not available
+703790305,WP0CD2A91NS260977,282999,Porsche,911,2022,8000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Burgundy,8-Speed Automatic,Turbo S
+683780953,WP0AE2A83PS280369,285000,Porsche,718 Cayman,2023,97.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Black,7-Speed Automatic,GT4 RS
+677248966,WP0AD2A94NS256154,289000,Porsche,911,2022,5600.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Yellow,Black,8-Speed Automatic,Turbo S
+706843486,WP0CD2A93RS257164,289500,Porsche,911,2024,205.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Turbo S
+710519940,WP0AC2A96NS269586,289950,Porsche,911,2022,6990.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Yellow,Black,Not available,GT3
+710114747,WP0AD2A99RS252414,289991,Porsche,911,2024,952.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Not available,8-Speed Automatic,Turbo S
+694692008,WP0CD2A91PS263378,295000,Porsche,911,2023,2100.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Turbo S
+710178654,WP0CD2A95RS257263,319900,Porsche,911,2024,422.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Turbo S
+702243946,WP0CD2A96RS257188,329890,Porsche,911,2024,154.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Silver,Red,8-Speed Automatic,Turbo S
+605344042,WP0AC2993TS375205,335000,Porsche,911,1996,32000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Beige,6-Speed Manual,Turbo
+699698877,WP0AC2A98NS270917,339999,Porsche,911,2022,3170.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Brown,Not available,GT3
+680900099,WP0AE2A92JS185172,448800,Porsche,911,2018,3320.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,7-Speed Automatic,GT2 RS
+710301764,WP0AE2A90KS155332,489995,Porsche,911,2019,587.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Unavail,7-Speed Automatic,GT2 RS

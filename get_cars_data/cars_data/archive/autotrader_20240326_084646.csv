@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+710119022,SALWR2EF3EA307620,25500,Land Rover,Range Rover Sport,2014,82427.0,Flexible fuel,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Tan,8-Speed Automatic,Supercharged
+710236441,SALYL2EXXKA211899,28900,Land Rover,Range Rover Velar,2019,74000.0,Gasoline,Not available,4 Wheel Drive,4-Cylinder Turbo,White,Tan,8-Speed Automatic,R-Dynamic SE
+710455514,SALGS2VF0FA239075,29900,Land Rover,Range Rover,2015,70000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,White,Black,8-Speed Automatic,HSE
+710292617,SALGR2FK0HA362045,32000,Land Rover,Range Rover,2017,85721.0,Diesel,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+709966071,SALGS2FVXHA339435,32500,Land Rover,Range Rover,2017,74001.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,HSE
+709499422,SALWR2RK4JA190941,37950,Land Rover,Range Rover Sport,2018,62000.0,Diesel,Not available,4 Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,HSE
+710471328,SALWR2FVXHA128453,39000,Land Rover,Range Rover Sport,2017,44000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Gray,Black,8-Speed Automatic,HSE
+710485520,SALGS2SV1JA506213,42000,Land Rover,Range Rover,2018,53500.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Silver,Blue,8-Speed Automatic,HSE
+710368980,SALGS5FE4HA339271,42900,Land Rover,Range Rover,2017,84000.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Black,8-Speed Automatic,Long Wheelbase Supercharged
+710290637,SALGS3EF4GA256310,44000,Land Rover,Range Rover,2016,28950.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Blue,Beige,8-Speed Automatic,Long Wheelbase Supercharged
+710292312,SALGS2RU6LA570103,44500,Land Rover,Range Rover,2020,69000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,HSE
+710007331,SALWR2RV6KA419261,44500,Land Rover,Range Rover Sport,2019,60039.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Charcoal,Unavail,8-Speed Automatic,HSE
+710485920,SALGS2SV2JA501599,49950,Land Rover,Range Rover,2018,56000.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Gray,Black,8-Speed Automatic,HSE
+710481484,SALGS2RE1JA382806,52000,Land Rover,Range Rover,2018,52800.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Black,8-Speed Automatic,Supercharged
+710296617,SALGS2RE8KA562933,52995,Land Rover,Range Rover,2019,60988.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Black,Black,8-Speed Automatic,Supercharged
+710128929,SALGR2RV1KA534029,52999,Land Rover,Range Rover,2019,39296.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Supercharged,Black,Black,8-Speed Automatic,Not available
+710120701,SALGS2SE1MA434059,69950,Land Rover,Range Rover,2021,65050.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,White,Black,8-Speed Automatic,P525 Westminster Edition
+710234515,SALGS2RE4KA559639,72000,Land Rover,Range Rover,2019,10132.0,Gasoline,Not available,4 Wheel Drive,8-Cylinder Supercharged,Burgundy,Beige,8-Speed Automatic,Supercharged
+710471718,SALWS2RU2NA217761,72220,Land Rover,Range Rover Sport,2022,16120.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Charcoal,Tan,8-Speed Automatic,HST
+710216369,SALGS2RU9MA420942,72500,Land Rover,Range Rover,2021,26900.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,HSE Westminster Edition
+710307535,SALGS2RU1NA465794,80999,Land Rover,Range Rover,2022,10084.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder Turbo,Black,Beige,8-Speed Automatic,HSE Westminster Edition
+710463395,SALEXFEU9R2265705,112500,Land Rover,Defender,2024,3600.0,Gasoline,Not available,4 Wheel Drive,6-Cylinder,Gray,Brown,8-Speed Automatic,130 X
+710480120,SALKP9FU1PA018345,139000,Land Rover,Range Rover,2023,14100.0,Gasoline,Not available,All Wheel Drive,Hybrid,Gray,Black,8-Speed Automatic,SE
+710372987,SALKP9E7XPA044356,158000,Land Rover,Range Rover,2023,11000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Black,Black,8-Speed Automatic,SE
+710265027,SALK19F43RA202027,170000,Land Rover,Range Rover,2024,4850.0,Hybrid gas/electric,Not available,All Wheel Drive,Hybrid,Gray,Unavail,8-Speed Automatic,Autobiography

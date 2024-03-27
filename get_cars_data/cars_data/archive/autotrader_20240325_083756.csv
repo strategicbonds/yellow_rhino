@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+663075266,WP0AA2Y12NSA11753,71999,Porsche,Taycan,2022,33000.0,Electric,Not available,2 Wheel Drive - Rear,Electric,Red,Black,2-Speed Automatic,Not available
+696332353,WP0AA2A78JL118922,72000,Porsche,Panamera,2018,15500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Offwhite,Beige,8-Speed Automatic,4
+701383916,WP0CB2A97ES154541,72000,Porsche,911,2014,47000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Beige,Not available,Carrera 4S
+709481776,WP1AG2A59NLB25007,72000,Porsche,Macan,2022,4900.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Red,7-Speed Automatic,S
+688371484,WP1AA2AY2MDA02282,72000,Porsche,Cayenne,2021,21084.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Offwhite,Black,8-Speed Automatic,Not available
+706904965,WP0CA2A91HS141565,72000,Porsche,911,2017,52000.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Silver,Black,Not available,Carrera
+709871494,WP0AB2A88NS263279,72000,Porsche,718 Cayman,2022,17684.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Red,Not available,S
+710282202,WP1AA2A56RLB06826,72150,Porsche,Macan,2024,2075.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,Silver,Black,7-Speed Automatic,Not available
+710135770,WP1AA2A58RLB01420,72350,Porsche,Macan,2024,3714.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,7-Speed Automatic,Not available
+709951108,WP0AA2A93FS100214,72369,Porsche,911,2015,46641.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Gray,Black,Automatic,Carrera
+705641564,WP0AB2Y10LSA53591,72450,Porsche,Taycan,2020,21850.0,Electric,Not available,All Wheel Drive,Electric,Red,Black,2-Speed Automatic,4S
+707937752,WP0AB2A87GK185564,72500,Porsche,Cayman,2016,26000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,White,Black,Not available,GTS
+698802155,WP0AB2Y13LSA54301,72500,Porsche,Taycan,2020,19750.0,Electric,Not available,All Wheel Drive,Electric,Gray,Black,2-Speed Automatic,4S
+693049040,WP0AA2Y17NSA11604,72500,Porsche,Taycan,2022,43500.0,Electric,Not available,2 Wheel Drive - Rear,Electric,White,Black,2-Speed Automatic,Not available
+694061943,WP0AA2A98FS106896,72500,Porsche,911,2015,25325.0,Gasoline,Not available,Not available,6-Cylinder,Silver,Black,Not available,Carrera
+710069793,WP1BA2AY3NDA47592,72800,Porsche,Cayenne,2022,6694.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Unavail,8-Speed Automatic,Coupe
+679308739,WP0CA2992SS343634,72900,Porsche,911,1995,126000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder,Black,Black,6-Speed Manual,Carrera 4
+709969083,WP0CA2A82MS210099,72981,Porsche,718 Boxster,2021,9513.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,6-Speed Manual,Not available
+703900526,WP0AA2A96HS106916,73500,Porsche,911,2017,51124.0,Gasoline,Not available,Not available,6-Cylinder Turbo,Silver,Black,Not available,Carrera
+708821524,WP1AA2AY1NDA03408,73600,Porsche,Cayenne,2022,18000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Black,8-Speed Automatic,Platinum Edition
+710135776,WP1AA2A58RLB02809,73700,Porsche,Macan,2024,4690.0,Gasoline,Not available,All Wheel Drive,4-Cylinder Turbo,White,Black,7-Speed Automatic,Not available
+709368979,WP0CB2A93DS155149,73900,Porsche,911,2013,40600.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Black,Black,7-Speed Manual,Carrera S
+708068135,WP1AA2AY2NDA07628,73983,Porsche,Cayenne,2022,4743.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,White,Brown,8-Speed Automatic,Platinum Edition
+710180521,WP0AB2Y18LSA50101,73990,Porsche,Taycan,2020,16924.0,Electric,"[{'name': 'Premium Package'}, {'name': '14-way Power Seats w/Memory Package'}, {'name': 'Sport Chrono Package'}, {'name': 'Storage Package'}]",All Wheel Drive,Electric,Blue,Beige,2-Speed Automatic,4S
+710293100,WP0AB2A86NS263085,73991,Porsche,718 Cayman,2022,24994.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Blue,Gray,Automatic,S

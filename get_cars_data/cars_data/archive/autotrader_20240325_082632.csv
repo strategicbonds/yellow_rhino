@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+709982980,WBAYE8C57DD132680,19500,BMW,750Li,2013,59100.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+710471288,WBA8E1C36HA158829,19900,BMW,330e,2017,50130.0,Hybrid gas/electric,Not available,2 Wheel Drive - Rear,Hybrid,Silver,Black,8-Speed Automatic,Not available
+710193599,WBAYB6C53ED224657,19999,BMW,750i xDrive,2014,66000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+710248501,WBA5B1C55GG134627,20000,BMW,535i,2016,75900.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,Sedan
+709888932,5UXKR0C52H0U53939,20000,BMW,X5,2017,91653.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Black,Black,8-Speed Automatic,xDrive35i
+709920779,WBSBR93472EX23666,20500,BMW,M3,2002,99360.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Blue,Gray,6-Speed Manual,Convertible
+709893656,WBA4J1C50JBG78376,20900,BMW,430i Gran Coupe,2018,50460.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+710332947,WBA5B1C56GG554025,21000,BMW,535i,2016,55342.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Unavail,8-Speed Automatic,Sedan
+709875763,WBA8E1C59JA180136,21500,BMW,330e,2018,42711.0,Hybrid gas/electric,"[{'name': 'M Sport Package'}, {'name': 'Premium Package'}, {'name': 'Driving Assistance Package'}]",2 Wheel Drive - Rear,Hybrid,Gray,Beige,8-Speed Automatic,Not available
+710485143,5UXTR7C59KLR46925,22850,BMW,X3,2019,47732.0,Gasoline,[{'name': 'Driving Assistance Package'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,sDrive30i
+710465500,WBA3V7C54G5A26838,22900,BMW,428i,2016,42560.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Beige,8-Speed Automatic,Convertible
+710488001,WBA7E2C52HG740409,23399,BMW,740i,2017,86249.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+710488761,5UXKR2C54J0Z20344,23500,BMW,X5,2018,72911.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Black,8-Speed Automatic,sDrive35i
+710129036,WBSKG9C5XDJ594234,24000,BMW,M3,2013,117500.0,Gasoline,Not available,2 Wheel Drive - Rear,8-Cylinder,Black,Red,7-Speed Automatic,Coupe
+710235118,WBAJA5C55KWW12049,24500,BMW,530i,2019,59000.0,Gasoline,"[{'name': 'Convenience Package'}, {'name': 'Premium Package 2'}, {'name': 'Lighting Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Brown,8-Speed Automatic,Not available
+710228534,5UXKR0C58J0X98320,25450,BMW,X5,2018,77500.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Beige,8-Speed Automatic,xDrive35i
+709881872,WBAJA5C54KWW46385,25490,BMW,530i,2019,53731.0,Gasoline,"[{'name': 'M Sport Package'}, {'name': 'Premium Package 2'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+710472475,WBAJB9C57JB286569,26900,BMW,M550i xDrive,2018,113000.0,Gasoline,Not available,All Wheel Drive,8-Cylinder Turbo,Blue,Black,8-Speed Automatic,Not available
+710007826,WBA5R1C51KAE81396,27000,BMW,330i,2019,52000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,8-Speed Automatic,Sedan
+710291275,3MW5R1J0XM8B58807,27990,BMW,330i,2021,48000.0,Gasoline,"[{'name': 'Parking Assistance Package'}, {'name': 'Driving Assistance Package'}]",2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Sedan
+710113320,WBA8B9G55HNU49639,28000,BMW,330i,2017,10932.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,Not available,Sedan
+709910762,5UXXW7C5XJ0W64979,28000,BMW,X4,2018,87000.0,Gasoline,Not available,All Wheel Drive,6-Cylinder Turbo,Blue,Black,8-Speed Automatic,M40i
+709895194,3MW5R1J05L8B28841,29000,BMW,330i,2020,45437.0,Gasoline,[{'name': 'Convenience Package'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Beige,8-Speed Automatic,Sedan
+709984192,WBA4Z5C56JEA32788,29400,BMW,440i,2018,53944.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Black,Tan,8-Speed Automatic,Convertible
+710020523,WBA2J3C03M7G62994,29500,BMW,230i xDrive,2021,32821.0,Gasoline,[{'name': 'Convenience Package'}],All Wheel Drive,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Coupe

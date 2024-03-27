@@ -1,0 +1,26 @@
+id,vin,price,make,model,year,mileage,fueltype,packages,driveType,engine,color_ext,color_int,transmission,trim
+707038209,JT2MA67L7G0176502,19999,Toyota,Supra,1986,130658.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder,Red,Burgundy,Manual,Not available
+704374794,WZ1DB2C07NW053075,37978,Toyota,Supra,2022,30283.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+707567627,WZ1DB4C05LW032749,39500,Toyota,Supra,2020,68376.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+699517777,WZ1DB2C05MW042509,39726,Toyota,Supra,2021,28627.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Black,Black,8-Speed Automatic,Not available
+709743381,WZ1DB4C00LW026602,39976,Toyota,Supra,2020,60892.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Not available
+695051323,WZ1DB2C08MW045503,39999,Toyota,Supra,2021,15750.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+705737663,WZ1DB2C03NW054031,40988,Toyota,Supra,2022,2500.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Not available
+709724322,WZ1DB2C07MW041782,40991,Toyota,Supra,2021,32486.0,Gasoline,[{'name': 'Safety & Technology Package'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Silver,Unavail,8-Speed Automatic,Not available
+708659547,WZ1DB4C06LW026894,41750,Toyota,Supra,2020,28032.0,Gasoline,[{'name': 'Driver Assist Package'}],2 Wheel Drive - Rear,6-Cylinder Turbo,Red,Black,8-Speed Automatic,Premium
+705279046,WZ1DB2C09NW046225,42398,Toyota,Supra,2022,15187.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Red,Black,8-Speed Automatic,Not available
+706475319,WZ1DB2C01NW047627,42436,Toyota,Supra,2022,30007.0,Gasoline,[{'name': 'Safety & Technology Package'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+705457416,WZ1DB4C07LW030713,42501,Toyota,Supra,2020,41834.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+705449054,WZ1DB2C00NW052396,42991,Toyota,Supra,2022,30223.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+709048223,WZ1DB2C06MW041384,42995,Toyota,Supra,2021,15282.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Yellow,Black,8-Speed Automatic,Not available
+698931174,WZ1DB2C05MW041361,43000,Toyota,Supra,2021,16000.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+708395466,WZ1DB2C08NW050749,43978,Toyota,Supra,2022,17030.0,Gasoline,[{'name': 'Safety & Technology Package'}],2 Wheel Drive - Rear,4-Cylinder Turbo,Silver,Black,8-Speed Automatic,Not available
+708887237,WZ1DB2C04NW049064,43999,Toyota,Supra,2022,42603.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Gray,Black,8-Speed Automatic,Not available
+709857388,WZ1DB2C04MW044266,44219,Toyota,Supra,2021,6327.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,White,Black,8-Speed Automatic,Not available
+710165368,WZ1DB2C05NW046819,44990,Toyota,Supra,2022,7989.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Not available
+709728747,WZ1DB0C06MW043057,45489,Toyota,Supra,2021,34903.0,Gasoline,"[{'name': 'Driver Assist Package'}, {'name': 'Phone Cable & Charge Package (CY2020) (Set)'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,Gray,Black,8-Speed Automatic,Premium
+698955494,WZ1DB0C0XMW041991,45500,Toyota,Supra,2021,40000.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Silver,Black,8-Speed Automatic,Premium
+706892196,WZ1DB0C06MW040711,46438,Toyota,Supra,2021,34549.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Yellow,Black,8-Speed Automatic,Not available
+706145120,WZ1DB2C00NW047487,46750,Toyota,Supra,2022,9223.0,Gasoline,Not available,2 Wheel Drive - Rear,4-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Not available
+709724550,WZ1DB0C03MW034994,46900,Toyota,Supra,2021,20832.0,Gasoline,Not available,2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Premium
+708364686,WZ1DB0C06MW042331,46900,Toyota,Supra,2021,32120.0,Gasoline,"[{'name': 'Driver Assist Package'}, {'name': 'Phone Cable & Charge Package (CY2020) (Set)'}]",2 Wheel Drive - Rear,6-Cylinder Turbo,Unavail,Black,8-Speed Automatic,Premium
